@@ -2,13 +2,24 @@ import ftplib
 import zipfile
 import os
 
+# Create archive file
+archive = open('./lib/resources/raw-bid-data/sc201611.zip', 'wb')
+
+# Connect to FTP server
 ftp = ftplib.FTP('ftp.dot.state.tx.us', 'anonymous')
-archive = open('sc201611.zip', 'wb')
 
+# Write FTP file to archive file
 ftp.retrbinary('RETR /pub/txdot-info/cmd/cserve/bidtab/sc201611.zip', archive.write)
-zip_ref = zipfile.ZipFile('sc201611.zip', 'r')
-zip_ref.extractall('sc201611')
+archive.close()
 
-for filename in os.listdir('sc201611'):
-  file = open(f'sc201611/{filename}', 'r')
-  file.read()
+# Extract .zip
+zip_ref = zipfile.ZipFile('./lib/resources/raw-bid-data/sc201611.zip', 'r')
+zip_ref.extractall('./lib/resources/raw-bid-data/sc201611')
+zip_ref.close()
+
+# Delete .zip
+os.remove('./lib/resources/raw-bid-data/sc201611.zip')
+
+#for filename in os.listdir('./lib/resources/sc201611'):
+#  file = open(f'./lib/resources/sc201611/{filename}', 'r')
+#  file.read()

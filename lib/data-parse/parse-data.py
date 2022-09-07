@@ -13,7 +13,7 @@ def bid_data_to_csv(filename):
 
   # Write to Project data csv file
   current_time = str(datetime.now()).replace(' ','_').replace(':','-').replace('.','_')
-  project_file = open(current_time + f'{file_friendly_project_name}-table.csv', 'w')
+  project_file = open('./lib/resources/parsed-bid-data/' + current_time + f'{file_friendly_project_name}-table.csv', 'w')
   project_file.writelines(['PROJECT,COUNTY,BIDDATE',f'\n{project_name},{county_name},{bid_date}'])
 
   empty_line = ' ' * 132 + '\n'
@@ -56,7 +56,7 @@ def bid_data_to_csv(filename):
       structured_item_data[i].append(full_item_data[(i*item_price_rows)+j])
 
   # Write to item price csv file
-  item_file = open(current_time + f'{file_friendly_project_name}-prices.csv', 'w')
+  item_file = open('./lib/resources/parsed-bid-data/' + current_time + f'{file_friendly_project_name}-prices.csv', 'w')
   item_file.write('ITEMCODE,PROJECT,QUANTITY,UNITBIDPRICE,CONTRACTOR')
 
   for item in structured_item_data:
