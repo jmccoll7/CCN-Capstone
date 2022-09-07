@@ -19,7 +19,3 @@ zip_ref.close()
 
 # Delete .zip
 os.remove('./lib/resources/raw-bid-data/sc201611.zip')
-
-#for filename in os.listdir('./lib/resources/sc201611'):
-#  file = open(f'./lib/resources/sc201611/{filename}', 'r')
-#  file.read()
