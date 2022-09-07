@@ -1,0 +1,140 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    IH 20         3211 103  48
+COUNTY  HARRISON                                            CONTROL 0495-08-100                                                     
+PROJECT NH 2017(236)                                        LENGTH   24.480                                                         
+TYPE    PLANE,CONC PVMT REP,ACP SF,PAV MRK                  DATE    11/04/16                     CONTRACT NUMBER            11163211
+TIME     250 WORKING DAYS                                                                        CHECK                  $100,000.000
+LIMITS  FROM:GREGG C/L                             TO:0.5 MI. W. OF SH 43, WB LANES ONLY         MISCELLANEOUS COST     $103,000.000
+                                                                                                                                    
+                                                  $18,560,135.28  *****ESTIMATE*****                                                
+                                       BIDDER 1   $13,599,302.66  MADDEN CONTRACTING COMPANY, LLC.                                  
+                                       BIDDER 2   $16,222,661.35  AUSTIN BRIDGE & ROAD SERVICES, LP                                 
+                                       BIDDER 3   $18,062,321.35  EAST TEXAS BRIDGE, INC.                                           
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1046009    REMOVING CONC (RIPRAP)                  SY         125.000        50.000         50.000         14.970         30.000 
+                                                                                                                                    
+   1046011    REMOVING CONC (MEDIANS)                 SY         778.000        30.000         20.000         13.640         20.000 
+                                                                                                                                    
+   1046022    REMOVING CONC (CURB AND GUTTER)         LF       1,553.000        20.000         10.000          6.560         10.000 
+                                                                                                                                    
+   1046054    REMOVING CONCRETE(MOW STRIP)            LF       4,061.000        10.000          6.000         11.690         20.000 
+                                                                                                                                    
+   1346001    BACKFILL (TY A)                         STA      1,647.100       325.000        325.000        117.900        450.000 
+                                                                                                                                    
+   1346002    BACKFILL (TY B)                         STA         47.300       325.000        150.000        128.580        500.000 
+                                                                                                                                    
+   1646054    BOND FBR MTRX SEED (PERM)(RURAL)(SAND)  SY     369,854.000         1.000          0.900          0.860          0.900 
+                                                                                                                                    
+   1646055    BONDED FBR MTRX SEED (TEMP)(WARM)       SY      92,464.000         1.050          0.010          0.630          0.750 
+                                                                                                                                    
+   1646056    BONDED FBR MTRX SEED (TEMP)(COOL)       SY      92,464.000         1.050          0.010          0.630          0.750 
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG       8,877.000        10.000         10.000         20.490         12.000 
+                                                                                                                                    
+   3406138    D-GR HMA(SQ) TY-D PG76-22               TON        415.000       150.000        200.000        141.170        140.000 
+                                                                                                                                    
+   3446063    SUPERPAVE MIXTURES SP-C SAC-A PG76-22   TON     41,793.000       131.500         91.250        115.250        115.000 
+                                                                                                                                    
+   3466014    STONE-MTRX-ASPH SMA-D SAC-A PG76-22     TON     37,822.000       150.000        114.500        128.500        150.000 
+                                                                                                                                    
+   3516001    FLEXIBLE PAVEMENT STRUCTURE REPAIR(5")  SY      11,205.000        60.000         32.750         47.930         55.000 
+                                                                                                                                    
+   3516002    FLEXIBLE PAVEMENT STRUCTURE REPAIR(6")  SY       3,004.000        85.000         98.000        116.940         70.000 
+                                                                                                                                    
+   3516004    FLEXIBLE PAVEMENT STRUCTURE REPAIR(8")  SY         713.000       125.000        115.000        123.700         90.000 
+                                                                                                                                    
+   3516012    FLEXIBLE PAVEMENT STRUCTURE REPAIR(2")  SY       1,072.000        50.000        361.000         56.540         40.000 
+                                                                                                                                    
+   3546021    PLANE ASPH CONC PAV(0" TO 2")           SY      26,663.000         7.000          2.500          2.270          4.000 
+                                                                                                                                    
+   3546045    PLANE ASPH CONC PAV (2")                SY      11,461.000         5.000          2.500          2.270          4.000 
+                                                                                                                                    
+   3566007    ASPH BINDER(PG 64-22)                   GAL        346.000         7.500          1.750         12.830          1.000 
+                                                                                                                                    
+   3566017    FABRIC                                  SY       1,734.000         5.000          6.250          2.030         10.000 
+                                                                                                                                    
+   3566022    PAV JT UNDERSEAL (36")                  LF       3,116.000        20.000          8.750         18.470         20.000 
+                                                                                                                                    
+   3616002    FULL - DEPTH REPAIR CRCP (8")           SY         567.000       450.000        449.500        321.140        500.000 
+                                                                                                                                    
+   4206002    CL A CONC (MISC)                        CY          10.840     4,007.000      3,850.000      4,027.360      4,000.000 
+                                                                                                                                    
+   4326001    RIPRAP (CONC)(4 IN)                     CY          62.800     1,300.000      1,050.000      1,213.310      2,000.000 
+                                                                                                                                    
+   4326045    RIPRAP (MOW STRIP)(4 IN)                CY         183.000       600.000        560.000        454.230        550.000 
+                                                                                                                                    
+   4386001    CLEANING AND SEALING EXISTING JOINTS    LF       2,400.000        35.000         28.000         29.270         35.000 
+                                                                                                                                    
+   4386005    CLEANING AND SEALING JOINTS             LF       2,620.000        35.000         14.000         15.140         35.000 
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000 1,670,000.000    655,000.000  1,546,000.000  1,500,000.000 
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO          20.000     6,000.000      3,750.000     31,667.250     15,000.000 
+                                                                                                                                    
+   5336001    RUMBLE STRIPS (SHOULDER)                LF     321,793.000         0.250          0.130          0.110          0.300 
+                                                                                                                                    
+   5406001    MTL W-BEAM GD FEN (TIM POST)            LF       2,950.000        21.000         21.000         16.910         25.000 
+                                                                                                                                    
+   5406002    MTL W-BEAM GD FEN (STEEL POST)          LF         100.000        70.000         80.000         25.230         60.000 
+                                                                                                                                    
+   5406006    MTL BEAM GD FEN TRANS (THRIE-BEAM)      EA          12.000     1,350.000      1,475.000      1,488.850      2,200.000 
+                                                                                                                                    
+   5406010    MTL W-BEAM GD FEN ADJUSTMENT            LF         100.000         6.250         13.000          8.080         15.000 
+                                                                                                                                    
+   5406016    DOWNSTREAM ANCHOR TERMINAL SECTION      EA           8.000     1,250.000      1,250.000        857.980      1,200.000 
+                                                                                                                                    
+   5426001    REMOVE METAL BEAM GUARD FENCE           LF       2,625.000         3.000          4.000          2.020          3.000 
+                                                                                                                                    
+   5426002    REMOVE TERMINAL ANCHOR SECTION          EA           8.000       140.000        300.000        126.170        200.000 
+                                                                                                                                    
+   5426004    RM MTL BM GD FENCE TRANS (THRIE-BEAM)   EA          12.000       250.000        300.000        126.170        200.000 
+                                                                                                                                    
+   5446003    GUARDRAIL END TREATMENT (REMOVE)        EA          20.000       250.000        300.000        126.170        250.000 
+                                                                                                                                    
+   5446004    GDRAIL END TRT(INST)(WOOD POST)(TY I)   EA          20.000     2,250.000      2,475.000      1,993.540      2,500.000 
+                                                                                                                                    
+   6446004    IN SM RD SN SUP&AM TY10BWG(1)SA(T)      EA          32.000       750.000        650.000        630.870        800.000 
+                                                                                                                                    
+   6446067    IN SM RD SN SUP&AM (INST SIGN ONLY)     EA          13.000       500.000        450.000        403.760        500.000 
+                                                                                                                                    
+   6446077    REMOVE BRDG MNT CLEARANCE SIGN ASSM     EA          15.000       950.000        500.000        757.040      1,000.000 
+                                                                                                                                    
+   6446078    REMOVE SM RD SN SUP&AM (SIGN ONLY)      EA          13.000       200.000        225.000        201.880        200.000 
+                                                                                                                                    
+   6586013    INSTL DEL ASSM (D-SW)SZ (BRF)CTB        EA          16.000        39.000         39.000         25.240         30.000 
+                                                                                                                                    
+   6586026    INSTL DEL ASSM (D-SY)SZ (BRF)CTB        EA          16.000        39.000         39.000         25.240         30.000 
+                                                                                                                                    
+   6586048    INSTL OM ASSM (OM-2Z)(FLX)GND           EA          97.000        45.000         75.000         40.380         50.000 
+                                                                                                                                    
+   6586061    INSTL DEL ASSM (D-SW)SZ 1(BRF)GF2       EA          34.000        38.000         47.000         40.380         30.000 
+                                                                                                                                    
+   6586064    INSTL DEL ASSM (D-SY)SZ 1(BRF)GF2       EA          15.000        38.000         47.000         40.380         30.000 
+                                                                                                                                    
+   6626008    WK ZN PAV MRK NON-REMOV (W)6"(SLD)      LF      61,523.000         0.250          0.500          0.400          0.450 
+                                                                                                                                    
+   6626112    WK ZN PAV MRK SHT TERM RMV (W)(4")      LF      18,829.000         1.500          1.000          1.010          2.000 
+                                                                                                                                    
+   6666041    REFL PAV MRK TY I (W)12"(SLD)(090MIL)   LF       7,562.000         3.400          3.150          3.030          3.500 
+                                                                                                                                    
+   6686084    PREFAB PAV MRK TY C (W) (NUMBER)        EA          18.000       200.000         70.500         70.660         80.000 
+                                                                                                                                    
+   6726010    REFL PAV MRKR TY II-C-R                 EA       2,509.000         3.700          3.650          3.430          4.000 
+                                                                                                                                    
+   7126009    JT / CRCK SEAL (HOT - POURED RUBBER)    LF       3,156.000         2.500          4.500          5.550          3.000 
+                                                                                                                                    
+   7216002    FIBER REINFORCED POLYMER PATCHING MATLS LB      60,151.000         7.500          4.000          3.520          4.000 
+                                                                                                                                    
+  40206001    PERMEABLE CONCRETE EDGE DRAIN           LF      36,851.000        26.000         23.700         25.390         35.000 
+                                                                                                                                    
+  60016002    PORTABLE CHANGEABLE MESSAGE SIGN        EA           8.000    20,000.000     16,500.000     14,833.690     25,000.000 
+                                                                                                                                    
+  61496004    REFL PAV MRK AWT (W) 6" (SLD) (100MIL)  LF     168,108.000         0.600          0.460          0.440          0.500 
+                                                                                                                                    
+  61496005    REFL PAV MRK AWT (W) 6" (BRK) (100MIL)  LF      42,280.000         0.600          0.500          0.440          0.500 
+                                                                                                                                    
+  61496010    REFL PAV MRK AWT (Y) 6" (SLD) (100MIL)  LF     169,671.000         0.600          0.460          0.440          0.500 
+                                                                                                                                    

@@ -1,0 +1,161 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    US 59         3023 103  48
+COUNTY  HARRISON                                            CONTROL 0063-01-091                                                     
+PROJECT STP 2017(235)HESG                                   LENGTH    0.406                                                         
+TYPE    INSTALL TRAFFIC SIGNAL                              DATE    11/03/16                     CONTRACT NUMBER            11163023
+TIME     140 WORKING DAYS                                                                        CHECK                    $6,000.000
+LIMITS  FROM:AT JOHNSON ST INTERSECTION            TO:.                                          MISCELLANEOUS COST      $45,700.000
+                                                                                                                                    
+                                                     $313,226.53  *****ESTIMATE*****                                                
+                                       BIDDER 1      $256,403.00  TEXAS TRAFFIC CONTROL SYSTEMS, INC.                               
+                                       BIDDER 2      $256,779.20  STRIPING TECHNOLOGY, L.P.                                         
+                                       BIDDER 3      $310,310.00  DURABLE SPECIALTIES, INC.                                         
+                                       BIDDER 4      $314,339.84  AMERICAN LIGHTING AND SIGNALIZATION, INC.                         
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   4166029    DRILL SHAFT (RDWY ILL POLE) (30 IN)     LF          60.000       165.000        150.000        165.000        180.000 
+                                                                         BIDDERS 4            142.620                               
+                                                                                                                                    
+   4166031    DRILL SHAFT (TRF SIG POLE) (30 IN)      LF          12.000       220.000        235.000        165.000        185.000 
+                                                                         BIDDERS 4            291.300                               
+                                                                                                                                    
+   4166034    DRILL SHAFT (TRF SIG POLE) (48 IN)      LF          44.000       342.000        420.000        510.000        285.000 
+                                                                         BIDDERS 4            380.330                               
+                                                                                                                                    
+   4326006    RIPRAP (CONC)(CL B)                     CY           2.000       348.000        950.000        550.000      2,000.000 
+                                                                         BIDDERS 4            832.500                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000    27,548.000     22,000.000     15,000.000     34,000.000 
+                                                                         BIDDERS 4         77,305.430                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           7.000     8,755.000      6,000.000      3,300.000      3,000.000 
+                                                                         BIDDERS 4          2,962.360                               
+                                                                                                                                    
+   6106102    REPLACE LUMINAIRE W/LED (250W EQ)       EA           4.000       800.000        700.000        900.000      1,000.000 
+                                                                         BIDDERS 4            574.890                               
+                                                                                                                                    
+   6106103    REPLACE LUMINAIRE W/LED (400W EQ)       EA          12.000       900.000        850.000        950.000      1,200.000 
+                                                                         BIDDERS 4            703.880                               
+                                                                                                                                    
+   6106288    IN RD IL (TY SA) 50T-10 (400W EQ) LED   EA           6.000     3,500.000      3,500.000      4,650.000      3,800.000 
+                                                                         BIDDERS 4          2,542.880                               
+                                                                                                                                    
+   6186023    CONDT (PVC) (SCH 40) (2")               LF         972.000         7.700          6.500          4.000         10.000 
+                                                                         BIDDERS 4             10.480                               
+                                                                                                                                    
+   6186024    CONDT (PVC) (SCH 40) (2") (BORE)        LF         286.000        21.400         15.000         19.000         20.000 
+                                                                         BIDDERS 4             20.190                               
+                                                                                                                                    
+   6186029    CONDT (PVC) (SCH 40) (3")               LF         107.000         8.000         15.000          5.500         12.000 
+                                                                         BIDDERS 4             15.770                               
+                                                                                                                                    
+   6186030    CONDT (PVC) (SCH 40) (3") (BORE)        LF         235.000        22.000         18.000         20.000         24.000 
+                                                                         BIDDERS 4             25.880                               
+                                                                                                                                    
+   6206004    ELEC CONDR (NO.12) INSULATED            LF         160.000         0.840          0.600          0.650          1.000 
+                                                                         BIDDERS 4              1.160                               
+                                                                                                                                    
+   6206007    ELEC CONDR (NO.8) BARE                  LF       1,348.000         0.980          1.000          1.300          1.000 
+                                                                         BIDDERS 4              1.310                               
+                                                                                                                                    
+   6206008    ELEC CONDR (NO.8) INSULATED             LF       3,120.000         1.020          1.000          1.500          1.000 
+                                                                         BIDDERS 4              1.360                               
+                                                                                                                                    
+   6206009    ELEC CONDR (NO.6) BARE                  LF         377.000         1.340          1.100          1.250          2.000 
+                                                                         BIDDERS 4              1.490                               
+                                                                                                                                    
+   6206010    ELEC CONDR (NO.6) INSULATED             LF          60.000         1.600          1.100          1.550          2.000 
+                                                                         BIDDERS 4              3.060                               
+                                                                                                                                    
+   6206016    ELEC CONDR (NO.2) INSULATED             LF         138.000         2.210          2.500          2.400          3.000 
+                                                                         BIDDERS 4              2.680                               
+                                                                                                                                    
+   6246002    GROUND BOX TY A (122311)W/APRON         EA           2.000       919.000        575.000        515.000        800.000 
+                                                                         BIDDERS 4          1,065.510                               
+                                                                                                                                    
+   6246009    GROUND BOX TY D (162922)                EA           1.000       631.000        575.000        490.000        650.000 
+                                                                         BIDDERS 4          1,071.090                               
+                                                                                                                                    
+   6246010    GROUND BOX TY D (162922)W/APRON         EA           2.000       865.000        650.000        660.000        820.000 
+                                                                         BIDDERS 4          1,218.100                               
+                                                                                                                                    
+   6286213    ELC SRV TY D 120/240 100(NS)AL(E)PS(U)  EA           1.000     3,801.000      4,500.000      4,500.000      6,000.000 
+                                                                         BIDDERS 4          5,295.070                               
+                                                                                                                                    
+   6686076    PREFAB PAV MRK TY C (W) (24") (SLD)     LF         323.000        13.000         12.550         15.000         12.000 
+                                                                         BIDDERS 4             19.980                               
+                                                                                                                                    
+   6686077    PREFAB PAV MRK TY C (W) (ARROW)         EA           5.000       203.000        260.000        185.000        245.000 
+                                                                         BIDDERS 4            305.250                               
+                                                                                                                                    
+   6686085    PREFAB PAV MRK TY C (W) (WORD)          EA           3.000       275.000        345.000        235.000        410.000 
+                                                                         BIDDERS 4            360.750                               
+                                                                                                                                    
+   6776007    ELIM EXT PAV MRK & MRKS (24")           LF         220.000         3.000          5.500          4.000          9.000 
+                                                                         BIDDERS 4              5.550                               
+                                                                                                                                    
+   6776008    ELIM EXT PAV MRK & MRKS (ARROW)         EA           5.000        54.000        250.000        100.000        225.000 
+                                                                         BIDDERS 4            166.500                               
+                                                                                                                                    
+   6776012    ELIM EXT PAV MRK & MRKS (WORD)          EA           3.000        47.000        260.000        150.000        235.000 
+                                                                         BIDDERS 4            166.500                               
+                                                                                                                                    
+   6786008    PAV SURF PREP FOR MRK (24")             LF         103.000         0.750          3.500          2.000          9.000 
+                                                                         BIDDERS 4              8.880                               
+                                                                                                                                    
+   6806002001 INSTALL HWY TRF SIG (ISOLATED)          EA           2.000    18,100.000      6,300.000      9,000.000     20,000.000 
+                                                                         BIDDERS 4         11,363.150                               
+                                                                                                                                    
+   6826001    VEH SIG SEC (12")LED(GRN)               EA          19.000       240.000        185.000        210.000        330.000 
+                                                                         BIDDERS 4            196.890                               
+                                                                                                                                    
+   6826002    VEH SIG SEC (12")LED(GRN ARW)           EA           3.000       240.000        185.000        210.000        330.000 
+                                                                         BIDDERS 4            212.590                               
+                                                                                                                                    
+   6826003    VEH SIG SEC (12")LED(YEL)               EA          19.000       240.000        185.000        210.000        330.000 
+                                                                         BIDDERS 4            196.890                               
+                                                                                                                                    
+   6826004    VEH SIG SEC (12")LED(YEL ARW)           EA           6.000       240.000        185.000        210.000        330.000 
+                                                                         BIDDERS 4            193.350                               
+                                                                                                                                    
+   6826005    VEH SIG SEC (12")LED(RED)               EA          19.000       240.000        185.000        210.000        300.000 
+                                                                         BIDDERS 4            196.890                               
+                                                                                                                                    
+   6826006    VEH SIG SEC (12")LED(RED ARW)           EA           3.000       240.000        185.000        210.000        300.000 
+                                                                         BIDDERS 4            212.590                               
+                                                                                                                                    
+   6826023    BACK PLATE (12")(3 SEC)                 EA          19.000        75.000         85.000         75.000        150.000 
+                                                                         BIDDERS 4             84.360                               
+                                                                                                                                    
+   6826024    BACK PLATE (12")(4 SEC)                 EA           3.000       100.000         95.000         85.000        165.000 
+                                                                         BIDDERS 4            113.080                               
+                                                                                                                                    
+   6846010    TRF SIG CBL (TY A)(12 AWG)(5 CONDR)     LF       1,317.000         2.040          1.750          1.650          1.000 
+                                                                         BIDDERS 4              1.950                               
+                                                                                                                                    
+   6846012    TRF SIG CBL (TY A)(12 AWG)(7 CONDR)     LF         364.000         2.250          2.100          1.700          1.000 
+                                                                         BIDDERS 4              2.340                               
+                                                                                                                                    
+   6866035    INS TRF SIG PL AM(S)1 ARM(32')LUM       EA           1.000     7,000.000      5,410.000      7,200.000      7,002.000 
+                                                                         BIDDERS 4          6,744.240                               
+                                                                                                                                    
+   6866059    INS TRF SIG PL AM(S)1 ARM(55')LUM       EA           1.000    17,500.000     16,420.000     19,500.000     18,010.000 
+                                                                         BIDDERS 4         14,909.390                               
+                                                                                                                                    
+   6866065    INS TRF SIG PL AM(S)1 ARM(65')          EA           1.000    19,000.000     16,720.000     18,000.000     18,300.000 
+                                                                         BIDDERS 4         14,163.450                               
+                                                                                                                                    
+   6906100    REMOVE TRAFFIC SIGNAL                   EA           1.000     2,000.000      2,500.000      2,500.000      4,960.000 
+                                                                         BIDDERS 4          4,212.390                               
+                                                                                                                                    
+  60026003    VIVDS SET-UP SYSTEM                     EA           2.000       700.000        500.000        500.000      1,500.000 
+                                                                         BIDDERS 4            978.420                               
+                                                                                                                                    
+  60026005    VIVDS COMMUNICATION CABLE (COAXIAL)     LF         768.000         2.600          4.000          3.000          3.000 
+                                                                         BIDDERS 4              9.260                               
+                                                                                                                                    
+  60586001    BBU SYSTEM (EXTERNAL BATT CABINET)      EA           2.000     6,930.000      5,700.000      7,500.000      7,300.000 
+                                                                         BIDDERS 4          7,247.260                               
+                                                                                                                                    

@@ -1,0 +1,145 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    FM 170        3020 189  48
+COUNTY  PRESIDIO                                            CONTROL 0957-08-027                                                     
+PROJECT STP 1602(291)                                       LENGTH    0.751                                                         
+TYPE    REHAB EXISTING ROAD                                 DATE    11/03/16                     CONTRACT NUMBER            11163020
+TIME     140 WORKING DAYS                                                                        CHECK                   $20,000.000
+LIMITS  FROM:220 FT W OF BU 67A                    TO:0.718 MI W OF BU 67A                       MISCELLANEOUS COST       $2,000.000
+                                                                                                                                    
+                                                     $999,998.25  *****ESTIMATE*****                                                
+                                       BIDDER 1    $1,271,914.40  ALLEN KELLER COMPANY                                              
+                                       BIDDER 2    $1,292,453.00  DAN WILLIAMS COMPANY                                              
+                                       BIDDER 3    $1,424,898.02  REECE ALBERT, INC.                                                
+                                       BIDDER 4    $1,548,266.75  GILVIN-TERRILL, LTD.                                              
+                                       BIDDER 5    $1,605,460.26  SALINAS CONSTRUCTION TECHNOLOGIES, LTD.                           
+                                       BIDDER 6    $2,262,404.70  FNF CONSTRUCTION, INC.                                            
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1046015    REMOVING CONC (SIDEWALKS)               SY          93.000        15.000         88.000         15.000         41.490 
+                                                                         BIDDERS 4 - 6        235.000         12.070        110.000 
+                                                                                                                                    
+   1046017    REMOVING CONC (DRIVEWAYS)               SY         939.000        15.000         50.000         16.000         22.190 
+                                                                         BIDDERS 4 - 6         50.000         26.740         75.000 
+                                                                                                                                    
+   1046029    REMOVING CONC (CURB OR CURB & GUTTER)   LF         407.000        15.000         11.000          8.000         14.030 
+                                                                         BIDDERS 4 - 6         65.000         14.000         45.000 
+                                                                                                                                    
+   1056015    REMOVING STAB BASE & ASPH PAV (8"-10")  SY       3,277.000         8.500          5.500          6.000          5.030 
+                                                                         BIDDERS 4 - 6         12.000         18.710         15.000 
+                                                                                                                                    
+   1106001    EXCAVATION (ROADWAY)                    CY           3.000       100.000        200.000         75.000        117.450 
+                                                                         BIDDERS 4 - 6         30.000        202.780        940.000 
+                                                                                                                                    
+   1346005    BACKFILL TY A                           CY         110.000       100.000         45.000         25.000         38.040 
+                                                                         BIDDERS 4 - 6        120.000         89.080         63.000 
+                                                                                                                                    
+   1926054    PLANT MATERIAL (MIN 14' TRNK HT) (PALM) EA          40.000     1,150.000      1,700.000      1,450.000      1,796.610 
+                                                                         BIDDERS 4 - 6      1,450.000      1,622.660      1,301.000 
+                                                                                                                                    
+   1936001    PLANT MAINTENANCE                       MO           3.000     6,000.000      1,000.000        750.000        898.310 
+                                                                         BIDDERS 4 - 6        700.000      8,588.940      5,000.000 
+                                                                                                                                    
+   2166001    PROOF ROLLING                           HR          12.000       115.000        200.000         58.000         67.590 
+                                                                         BIDDERS 4 - 6        250.000         77.990         75.000 
+                                                                                                                                    
+   2476376    FL BS (RDWY DEL)(TY A GR 5)(IN VEH)     CY         725.000        75.000        105.000         75.000         81.130 
+                                                                         BIDDERS 4 - 6         65.000        160.770        115.000 
+                                                                                                                                    
+   2756001    CEMENT                                  TON        242.000       165.000        300.000        275.000        209.180 
+                                                                         BIDDERS 4 - 6        220.000        217.800        325.000 
+                                                                                                                                    
+   2756009    CEMENT TREAT (NEW BASE) (8")            SY       3,257.000         2.750          3.000          5.000          8.980 
+                                                                         BIDDERS 4 - 6         12.000          7.060          8.000 
+                                                                                                                                    
+   2756011    CEMENT TREAT(EXIST MATL)(8")            SY      16,565.000         2.250          3.000          5.000          2.850 
+                                                                         BIDDERS 4 - 6          4.500          5.550         10.500 
+                                                                                                                                    
+   3106009    PRIME COAT (MC-30)                      GAL      3,965.000         4.500          6.000          4.000          5.890 
+                                                                         BIDDERS 4 - 6         14.000          5.940          8.000 
+                                                                                                                                    
+   3166014    ASPH (AC-10-2TR)                        GAL     15,061.000         4.500          4.900          5.000          3.480 
+                                                                         BIDDERS 4 - 6          8.000          5.480          6.250 
+                                                                                                                                    
+   3166126    AGGR(TY-PB GR-4 SAC-A)                  CY         186.000       100.000        215.000        200.000        155.870 
+                                                                         BIDDERS 4 - 6        150.000        279.480        380.000 
+                                                                                                                                    
+   3166189    AGGR(TY-D GR-3 SAC-B)                   CY         226.000       100.000        160.000        200.000        255.060 
+                                                                         BIDDERS 4 - 6        150.000        251.830        250.000 
+                                                                                                                                    
+   3306006    LRA PAV TY-I GR-D                       TON         38.000       200.000        400.000        260.000        362.510 
+                                                                         BIDDERS 4 - 6        300.000        462.390        200.000 
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000    84,545.000    125,000.000    120,000.000    142,400.000 
+                                                                         BIDDERS 4 - 6    150,000.000    435,300.000    225,000.000 
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           7.000    10,000.000     14,900.000      9,000.000     12,033.950 
+                                                                         BIDDERS 4 - 6      7,500.000      2,675.000     45,000.000 
+                                                                                                                                    
+   5066038003 TEMP SEDMT CONT FENCE (INSTALL)         LF         450.000         2.500          6.000          3.250          5.080 
+                                                                         BIDDERS 4 - 6         35.000          4.120         10.000 
+                                                                                                                                    
+   5066039003 TEMP SEDMT CONT FENCE (REMOVE)          LF         450.000         0.750          2.000          1.500          3.490 
+                                                                         BIDDERS 4 - 6         10.000          1.920          1.000 
+                                                                                                                                    
+   5066041003 BIODEG EROSN CONT LOGS (INSTL) (12")    LF         450.000         5.000          9.000          5.000          6.640 
+                                                                         BIDDERS 4 - 6         30.000         11.270          9.000 
+                                                                                                                                    
+   5066043003 BIODEG EROSN CONT LOGS (REMOVE)         LF         450.000         1.250          2.000          1.500          1.720 
+                                                                         BIDDERS 4 - 6         10.000          2.470          1.000 
+                                                                                                                                    
+   5296008    CONC CURB & GUTTER (TY II)              LF         428.000        25.000         70.000         40.000         49.630 
+                                                                         BIDDERS 4 - 6         91.000         48.120         70.000 
+                                                                                                                                    
+   5306010    INTRSCT, DRVWAYS, & TURNOUT (CONC)      SY       1,431.000       100.000        100.000        155.000        177.630 
+                                                                         BIDDERS 4 - 6        136.000        110.210        190.000 
+                                                                                                                                    
+   5306012    INTRSCT, DRVWAYS, & TURNOUT(SURF TREAT) SY          37.000        50.000        160.000        225.000         94.730 
+                                                                         BIDDERS 4 - 6        416.000         53.300         78.650 
+                                                                                                                                    
+   5316002    CONC SIDEWALKS (5")                     SY         564.000       100.000         90.000        150.000        167.110 
+                                                                         BIDDERS 4 - 6        160.000         84.960        190.000 
+                                                                                                                                    
+   5316018    CURB RAMPS (TY 1)                       SY         113.000       150.000        200.000        215.000        185.980 
+                                                                         BIDDERS 4 - 6        235.000        158.770        325.000 
+                                                                                                                                    
+   5316024    CURB RAMPS (TY 7)                       SY          62.000       150.000        160.000        215.000        169.920 
+                                                                         BIDDERS 4 - 6        230.000        191.480        350.000 
+                                                                                                                                    
+   5316027    CURB RAMPS (TY 10)                      SY         545.000       150.000        150.000        215.000        182.420 
+                                                                         BIDDERS 4 - 6        155.000        119.090        325.000 
+                                                                                                                                    
+   6446068    RELOCATE SM RD SN SUP&AM TY 10BWG       EA           2.000       450.000      1,500.000        375.000        898.310 
+                                                                         BIDDERS 4 - 6        450.000        555.530        700.000 
+                                                                                                                                    
+   6626110    WK ZN PAV MRK SHT TERM (TAB)TY Y        EA         120.000         1.750          1.500          1.250          4.800 
+                                                                         BIDDERS 4 - 6         10.000          3.590          0.520 
+                                                                                                                                    
+   6666170    REFL PAV MRK TY II (W) 4" (SLD)         LF       6,200.000         0.150          0.400          0.200          0.580 
+                                                                         BIDDERS 4 - 6          0.480          1.400          0.160 
+                                                                                                                                    
+   6666205    REFL PAV MRK TY II (Y) 4" (BRK)         LF         700.000         0.150          0.400          0.200          0.640 
+                                                                         BIDDERS 4 - 6          0.150          0.720          0.160 
+                                                                                                                                    
+   6666207    REFL PAV MRK TY II (Y) 4" (SLD)         LF       7,675.000         0.150          0.400          0.200          0.580 
+                                                                         BIDDERS 4 - 6          0.150          0.510          0.160 
+                                                                                                                                    
+   6666212    REFL PAV MRK TY II (Y) 12" (SLD)        LF         100.000         1.250          6.000          0.750          3.210 
+                                                                         BIDDERS 4 - 6          0.500          3.960          0.520 
+                                                                                                                                    
+   6686074    PREFAB PAV MRK TY C (W) (12") (SLD)     LF         450.000         7.750         25.000         10.000         10.270 
+                                                                         BIDDERS 4 - 6          8.200          9.070          9.000 
+                                                                                                                                    
+   6686076    PREFAB PAV MRK TY C (W) (24") (SLD)     LF          30.000        13.500         30.000         18.000         25.670 
+                                                                         BIDDERS 4 - 6         16.400         26.040         17.000 
+                                                                                                                                    
+   6686077    PREFAB PAV MRK TY C (W) (ARROW)         EA           8.000       205.000        180.000        400.000        282.330 
+                                                                         BIDDERS 4 - 6        375.000        257.130        400.000 
+                                                                                                                                    
+   6726009    REFL PAV MRKR TY II-A-A                 EA         135.000         3.000         12.000          3.500          7.700 
+                                                                         BIDDERS 4 - 6          3.000          7.500          3.100 
+                                                                                                                                    
+  50096001    STONE MASONRY (ROCK WALL)               CY          82.000     1,350.000      1,360.000      1,200.000      2,167.520 
+                                                                         BIDDERS 4 - 6      1,889.000      1,032.260      2,500.000 
+                                                                                                                                    

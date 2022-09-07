@@ -1,0 +1,403 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    IH 10         3205 181  48
+COUNTY  ORANGE                                              CONTROL 0028-11-179                                                     
+PROJECT C 28-11-179                                         LENGTH    7.027                                                         
+TYPE    WIDEN EXISTING MAINLANES FROM 4 TO 6 LANES          DATE    11/04/16                     CONTRACT NUMBER            11163205
+TIME     275 WORKING DAYS                                                                        CHECK                  $100,000.000
+LIMITS  FROM:FM 1442, EAST                         TO:0.54 MILES EAST OF FM 3247                 MISCELLANEOUS COST     $500,000.000
+                                                                                                                                    
+                                                  $12,537,623.15  *****ESTIMATE*****                                                
+                                       BIDDER 1   $12,418,604.49  JAMES CONSTRUCTION GROUP, L.L.C.                                  
+                                       BIDDER 2   $14,023,217.17  STERLING DELAWARE HOLDING COMPANY, INC.                           
+                                       BIDDER 3   $14,553,472.28  RAGLE CONSTRUCTION, INC.                                          
+                                       BIDDER 4   $15,340,622.16  APAC-TEXAS, INC.                                                  
+                                       BIDDER 5   $15,863,653.73  WILLIAMS BROTHERS CONSTRUCTION CO., INC.                          
+                                       BIDDER 6   $17,130,266.00  FNH CONSTRUCTION, LLC                                             
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1046001    REMOVING CONC (PAV)                     SY       2,013.000         5.900         10.000         15.000         18.500 
+                                                                         BIDDERS 4 - 6         14.650         15.000         20.000 
+                                                                                                                                    
+   1046009    REMOVING CONC (RIPRAP)                  SY       3,844.000        21.600          7.000          6.000          9.000 
+                                                                         BIDDERS 4 - 6         10.700         15.000         20.000 
+                                                                                                                                    
+   1056020    REMOVING STAB BASE & ASPH PAV (12")     SY      10,333.000        13.100          6.000         10.000          8.000 
+                                                                         BIDDERS 4 - 6          7.100         15.000         20.000 
+                                                                                                                                    
+   1106001    EXCAVATION (ROADWAY)                    CY      22,402.000        14.100          5.000         10.000         25.000 
+                                                                         BIDDERS 4 - 6         14.650         20.000         20.000 
+                                                                                                                                    
+   1326003    EMBANKMENT (FINAL)(ORD COMP)(TY B)      CY      24,971.000        16.800         10.000         10.000          4.000 
+                                                                         BIDDERS 4 - 6         28.500         20.000         30.000 
+                                                                                                                                    
+   1326033    EMB(FNL)(DC)(TYC)(CSBE)(RWALL FND IMPR) CY         493.000        30.000         70.000         70.000         80.000 
+                                                                         BIDDERS 4 - 6         61.000         50.000         35.000 
+                                                                                                                                    
+   1506002    BLADING                                 HR         113.000        87.000         75.000         90.000        180.000 
+                                                                         BIDDERS 4 - 6        135.000        150.000        150.000 
+                                                                                                                                    
+   1606003    FURNISHING AND PLACING TOPSOIL (4")     SY     112,936.000         0.600          0.300          1.000          0.700 
+                                                                         BIDDERS 4 - 6          4.500          1.000          2.500 
+                                                                                                                                    
+   1646021    CELL FBR MLCH SEED(PERM)(RURAL)(SANDY)  SY     112,936.000         0.400          0.240          0.240          0.300 
+                                                                         BIDDERS 4 - 6          0.290          0.150          0.250 
+                                                                                                                                    
+   1646029    CELL FBR MLCH SEED(TEMP)(WARM)          SY      56,474.000         0.900          0.230          0.230          0.280 
+                                                                         BIDDERS 4 - 6          0.290          0.150          0.250 
+                                                                                                                                    
+   1646031    CELL FBR MLCH SEED(TEMP)(COOL)          SY      56,474.000         0.300          0.230          0.230          0.280 
+                                                                         BIDDERS 4 - 6          0.290          0.150          0.250 
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG       1,901.000        14.800         16.890         17.000         12.000 
+                                                                         BIDDERS 4 - 6         19.000         20.000        100.000 
+                                                                                                                                    
+   1696002    SOIL RETENTION BLANKETS (CL 1) (TY B)   SY     112,936.000         1.300          0.770          0.770          1.650 
+                                                                         BIDDERS 4 - 6          0.870          2.000          4.000 
+                                                                                                                                    
+   2606006    LIME TRT (EXST MATL) (6")               SY      58,629.000         2.600          6.000          3.000          3.500 
+                                                                         BIDDERS 4 - 6          2.500          2.000          3.500 
+                                                                                                                                    
+   2606016    LIME (HYD, COM, OR QK(SLURRY))          TON        870.000       160.000        178.000        180.000        174.000 
+                                                                         BIDDERS 4 - 6        192.000        200.000        171.000 
+                                                                                                                                    
+   2766169    CEM TRT(PLNT MX) (CL L)(TYA)(GR1-2)(6") SY      58,629.000        14.000         20.000         24.000         22.000 
+                                                                         BIDDERS 4 - 6         16.000         20.000          4.000 
+                                                                                                                                    
+   3106005    PRIME COAT (AE-P)                       GAL     10,062.000         3.300          3.000          2.350          4.500 
+                                                                         BIDDERS 4 - 6          4.200          4.000          6.500 
+                                                                                                                                    
+   3406011    D-GR HMA(SQ) TY-B PG64-22               TON      3,588.000       111.200        102.500        125.000         80.000 
+                                                                         BIDDERS 4 - 6         93.000        100.000         95.000 
+                                                                                                                                    
+   3606004    CONC PVMT (CONT REINF - CRCP) (10")     SY      13,056.000        40.800         65.000         86.000         55.000 
+                                                                         BIDDERS 4 - 6         82.000         49.000         95.000 
+                                                                                                                                    
+   3606009    CONC PVMT (CONT REINF - CRCP) (15")     SY      37,246.000        89.000         77.820         92.000         80.000 
+                                                                         BIDDERS 4 - 6        101.250         90.000        125.000 
+                                                                                                                                    
+   4006005    CEM STABIL BKFL                         CY          14.000       101.690         60.000        100.000        140.000 
+                                                                         BIDDERS 4 - 6        126.000         60.000        140.000 
+                                                                                                                                    
+   4006006    CUT & RESTORING PAV                     SY          17.000        95.910        150.000        300.000        175.000 
+                                                                         BIDDERS 4 - 6        230.000        200.000        200.000 
+                                                                                                                                    
+   4026001    TRENCH EXCAVATION PROTECTION            LF          10.000        20.350          1.000         10.000          1.000 
+                                                                         BIDDERS 4 - 6         31.000          1.000          3.000 
+                                                                                                                                    
+   4036001    TEMPORARY SPL SHORING                   SF       4,507.000        16.700         15.000         21.910         15.000 
+                                                                         BIDDERS 4 - 6         22.000         20.000         35.000 
+                                                                                                                                    
+   4106001    SOIL NAIL ANCHORS                       LF      17,256.000        32.400         25.000         17.830         12.000 
+                                                                         BIDDERS 4 - 6         18.250         50.000         25.000 
+                                                                                                                                    
+   4166022    DRILL SHAFT (SIGN MTS) (48 IN)          LF         324.000       280.000        495.000        495.000        475.200 
+                                                                         BIDDERS 4 - 6        480.000        350.000        320.000 
+                                                                                                                                    
+   4166026    DRILL SHAFT (HIGH MAST POLE) (60 IN)    LF          68.000       600.000        793.000        793.000        754.160 
+                                                                         BIDDERS 4 - 6        760.000        560.000        700.000 
+                                                                                                                                    
+   4206002    CL A CONC (MISC)                        CY           1.000       433.210      1,100.000      1,675.000      1,000.000 
+                                                                         BIDDERS 4 - 6      2,600.000      2,500.000      5,000.000 
+                                                                                                                                    
+   4236001    RETAINING WALL (MSE)                    SF       3,672.000        48.000         60.000         64.000         80.000 
+                                                                         BIDDERS 4 - 6         76.000        100.000         42.000 
+                                                                                                                                    
+   4236022    RETAINING WALL (SOIL NAIL)(FACIA)       SF       8,135.000        65.000         35.000         36.000         50.000 
+                                                                         BIDDERS 4 - 6         33.000         99.000         42.000 
+                                                                                                                                    
+   4326001    RIPRAP (CONC)(4 IN)                     CY         633.000       512.000        275.000        400.000        450.000 
+                                                                         BIDDERS 4 - 6        610.000        500.000        550.000 
+                                                                                                                                    
+   4326045    RIPRAP (MOW STRIP)(4 IN)                CY         336.000       323.400        450.000        400.000        450.000 
+                                                                         BIDDERS 4 - 6        660.000        500.000        550.000 
+                                                                                                                                    
+   4506023    RAIL (TY SSTR)                          LF         983.000        35.800         40.000         50.000         45.000 
+                                                                         BIDDERS 4 - 6         60.000         40.000        185.000 
+                                                                                                                                    
+   4646003    RC PIPE (CL III)(18 IN)                 LF       1,156.000        63.200         40.000         56.000         50.000 
+                                                                         BIDDERS 4 - 6         53.000        150.000         68.000 
+                                                                                                                                    
+   4646005    RC PIPE (CL III)(24 IN)                 LF         917.000        66.700         50.000         65.000         60.000 
+                                                                         BIDDERS 4 - 6         90.000        250.000         78.000 
+                                                                                                                                    
+   4646007    RC PIPE (CL III)(30 IN)                 LF         446.000       106.300         60.000         80.000         75.000 
+                                                                         BIDDERS 4 - 6        131.000        350.000        105.000 
+                                                                                                                                    
+   4656162    INLET(COMPL)(PAZD)(FG)(5FTX5FT-4FTX4FT) EA           2.000     5,154.500      3,500.000      4,000.000      6,500.000 
+                                                                         BIDDERS 4 - 6      5,100.000      5,000.000        500.000 
+                                                                                                                                    
+   4656275    MANH (COMPL)(JUNCT BOX)                 EA           6.000    13,294.000      3,500.000      4,000.000      7,000.000 
+                                                                         BIDDERS 4 - 6      4,100.000      5,000.000        500.000 
+                                                                                                                                    
+   4676356    SET (TY II) (18 IN) (RCP) (3: 1) (C)    EA           3.000       984.000      1,800.000      1,000.000        900.000 
+                                                                         BIDDERS 4 - 6        910.000      1,000.000      1,250.000 
+                                                                                                                                    
+   4676363    SET (TY II) (18 IN) (RCP) (6: 1) (P)    EA           5.000       739.800      2,500.000      1,150.000      1,250.000 
+                                                                         BIDDERS 4 - 6      1,010.000      1,200.000      2,000.000 
+                                                                                                                                    
+   4676395    SET (TY II) (24 IN) (RCP) (6: 1) (P)    EA           6.000       971.600      2,500.000      1,400.000      2,100.000 
+                                                                         BIDDERS 4 - 6      1,510.000      1,700.000      2,000.000 
+                                                                                                                                    
+   4676419    SET (TY II) (30 IN) (RCP) (4: 1) (C)    EA           1.000     1,818.500      3,000.000      1,700.000      2,400.000 
+                                                                         BIDDERS 4 - 6      2,010.000      2,000.000      4,000.000 
+                                                                                                                                    
+   4676423    SET (TY II) (30 IN) (RCP) (6: 1) (P)    EA           2.000     1,993.800      1,400.000      2,100.000      2,700.000 
+                                                                         BIDDERS 4 - 6      2,510.000      2,200.000      4,000.000 
+                                                                                                                                    
+   4796002    ADJUSTING INLETS                        EA           2.000     1,886.930      1,400.000        700.000      2,200.000 
+                                                                         BIDDERS 4 - 6      1,260.000      1,000.000        750.000 
+                                                                                                                                    
+   4796006    ADJUSTING INLET (CAP)                   EA           1.000     1,239.500      1,400.000      1,200.000      2,000.000 
+                                                                         BIDDERS 4 - 6      1,260.000      1,000.000        750.000 
+                                                                                                                                    
+   4806001    CLEAN EXIST CULVERTS                    EA           6.000     1,594.300      1,500.000      3,500.000      2,400.000 
+                                                                         BIDDERS 4 - 6      2,510.000      3,500.000      1,500.000 
+                                                                                                                                    
+   4966004    REMOV STR (SET)                         EA           3.000       167.600        450.000      5,000.000      1,200.000 
+                                                                         BIDDERS 4 - 6        610.000        700.000        500.000 
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000 1,125,281.000  1,200,000.000  1,350,000.000  1,450,000.000 
+                                                                         BIDDERS 4 - 6  1,515,000.000  1,740,000.000  1,500,000.000 
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO          23.000     5,267.560      7,000.000      6,000.000     57,750.000 
+                                                                         BIDDERS 4 - 6      3,000.000     25,000.000      8,500.000 
+                                                                                                                                    
+   5066002003 ROCK FILTER DAMS (INSTALL) (TY 2)       LF         630.000        28.800         31.980         31.980         35.000 
+                                                                         BIDDERS 4 - 6         30.000         50.000         30.000 
+                                                                                                                                    
+   5066003003 ROCK FILTER DAMS (INSTALL) (TY 3)       LF          60.000        51.900        109.320        109.320         60.000 
+                                                                         BIDDERS 4 - 6         46.000         75.000         30.000 
+                                                                                                                                    
+   5066011003 ROCK FILTER DAMS (REMOVE)               LF         690.000         8.700         10.090         10.090          7.000 
+                                                                         BIDDERS 4 - 6          8.100         20.000         15.000 
+                                                                                                                                    
+   5066020003 CONSTRUCTION EXITS (INSTALL) (TY 1)     SY       1,886.000        37.100         20.040         38.660         25.000 
+                                                                         BIDDERS 4 - 6         45.000         60.000         42.000 
+                                                                                                                                    
+   5066024003 CONSTRUCTION EXITS (REMOVE)             SY       1,886.000        14.700          3.440          9.310          8.000 
+                                                                         BIDDERS 4 - 6         27.000         20.000         20.000 
+                                                                                                                                    
+   5066037003 SANDBAGS FOR EROSION CONTROL (12")      LF          75.000        17.200         17.520         17.520         20.000 
+                                                                         BIDDERS 4 - 6         15.000         15.000         50.000 
+                                                                                                                                    
+   5066038003 TEMP SEDMT CONT FENCE (INSTALL)         LF       5,573.000         2.600          1.560          1.560          1.500 
+                                                                         BIDDERS 4 - 6          2.900          3.000          4.000 
+                                                                                                                                    
+   5066039003 TEMP SEDMT CONT FENCE (REMOVE)          LF       5,573.000         0.600          0.440          0.440          0.500 
+                                                                         BIDDERS 4 - 6          0.760          1.000          2.000 
+                                                                                                                                    
+   5066042003 BIODEG EROSN CONT LOGS (INSTL) (18")    LF       5,640.000         7.100          4.300          4.300          6.500 
+                                                                         BIDDERS 4 - 6          6.100          7.000         12.000 
+                                                                                                                                    
+   5066043003 BIODEG EROSN CONT LOGS (REMOVE)         LF       5,640.000         1.000          0.310          0.310          1.000 
+                                                                         BIDDERS 4 - 6          1.020          2.000          6.000 
+                                                                                                                                    
+   5086001    CONSTRUCTING DETOURS                    SY         194.000        55.000         75.000        143.000         75.000 
+                                                                         BIDDERS 4 - 6        175.000         65.000         42.000 
+                                                                                                                                    
+   5126001    PORT CTB (FUR & INST)(SGL SLOPE)(TY 1)  LF      12,420.000        23.700         57.200         70.000         55.000 
+                                                                         BIDDERS 4 - 6         61.000         40.000         60.000 
+                                                                                                                                    
+   5126009    PORT CTB (FUR & INST)(LOW PROF)(TY 1)   LF       3,640.000        62.000         56.000         35.000         55.000 
+                                                                         BIDDERS 4 - 6         64.000         40.000         60.000 
+                                                                                                                                    
+   5126010    PORT CTB (FUR & INST)(LOW PROF)(TY 2)   LF         340.000        62.000         56.000         35.000         55.000 
+                                                                         BIDDERS 4 - 6         78.000         40.000         60.000 
+                                                                                                                                    
+   5126025    PORT CTB (MOVE)(SGL SLP)(TY 1)          LF      27,300.000         6.500          5.000          5.000         10.000 
+                                                                         BIDDERS 4 - 6          9.000          5.000         15.000 
+                                                                                                                                    
+   5126033    PORT CTB (MOVE)(LOW PROF)(TY 1)         LF       6,640.000         3.000          5.000          7.000         10.000 
+                                                                         BIDDERS 4 - 6          9.000          5.000         15.000 
+                                                                                                                                    
+   5126034    PORT CTB (MOVE)(LOW PROF)(TY 2)         LF         160.000         3.000          6.000          7.000         10.000 
+                                                                         BIDDERS 4 - 6         68.000          5.000         15.000 
+                                                                                                                                    
+   5126049    PORT CTB (REMOVE)(SGL SLP)(TY 1)        LF      12,420.000         6.600          6.000         12.000          8.000 
+                                                                         BIDDERS 4 - 6         11.000          5.000         15.000 
+                                                                                                                                    
+   5126057    PORT CTB (REMOVE)(LOW PROF)(TY 1)       LF       3,640.000         8.000          6.000         12.000          8.000 
+                                                                         BIDDERS 4 - 6         11.000          5.000         15.000 
+                                                                                                                                    
+   5126058    PORT CTB (REMOVE)(LOW PROF)(TY 2)       LF         340.000         8.000          6.000         12.000          8.000 
+                                                                         BIDDERS 4 - 6         38.000          5.000         15.000 
+                                                                                                                                    
+   5296002    CONC CURB (TY II)                       LF         112.000        13.700          7.110         12.000         20.000 
+                                                                         BIDDERS 4 - 6         30.000          6.000         35.000 
+                                                                                                                                    
+   5296011    CONC CURB (DOWEL)                       LF         278.000         9.200         10.000         20.000         25.000 
+                                                                         BIDDERS 4 - 6         38.000         13.000         25.000 
+                                                                                                                                    
+   5306004    DRIVEWAYS (CONC)                        SY          36.000        85.040         70.000        130.000         65.000 
+                                                                         BIDDERS 4 - 6        125.000         80.000         85.000 
+                                                                                                                                    
+   5306016     DRIVEWAYS (BASE)                       SY         465.000        24.680         20.000         32.000         40.000 
+                                                                         BIDDERS 4 - 6         28.000         80.000         45.000 
+                                                                                                                                    
+   5406001    MTL W-BEAM GD FEN (TIM POST)            LF       4,337.500        19.000         17.850         17.850         17.850 
+                                                                         BIDDERS 4 - 6         17.500         20.000         25.000 
+                                                                                                                                    
+   5406016    DOWNSTREAM ANCHOR TERMINAL SECTION      EA          22.000     1,221.500        875.000        875.000        875.000 
+                                                                         BIDDERS 4 - 6        950.000      1,100.000      1,850.000 
+                                                                                                                                    
+   5406021    MTL THRIE-BEAM GD FEN (TIM POST)        EA          10.000     1,200.000      1,375.000      1,375.000      1,375.000 
+                                                                         BIDDERS 4 - 6      1,260.000        700.000      1,850.000 
+                                                                                                                                    
+   5426001    REMOVE METAL BEAM GUARD FENCE           LF       2,408.000         2.500          2.000          2.000          2.000 
+                                                                         BIDDERS 4 - 6          2.050          2.500          3.000 
+                                                                                                                                    
+   5446001    GUARDRAIL END TREATMENT (INSTALL)       EA          28.000     2,073.100      2,140.000      2,140.000      2,140.000 
+                                                                         BIDDERS 4 - 6      2,000.000      2,200.000      2,850.000 
+                                                                                                                                    
+   5456001    CRASH CUSH ATTEN (INSTL)                EA           6.000    11,432.900     20,800.000     20,800.000     20,800.000 
+                                                                         BIDDERS 4 - 6     19,200.000     18,000.000     15,000.000 
+                                                                                                                                    
+   5456003    CRASH CUSH ATTEN (MOVE & RESET)         EA          16.000     2,992.800      2,390.000      2,390.000      2,390.000 
+                                                                         BIDDERS 4 - 6      1,910.000      2,500.000      5,000.000 
+                                                                                                                                    
+   5456005    CRASH CUSH ATTEN (REMOVE)               EA           6.000     1,416.200      1,085.000      1,085.000      1,085.000 
+                                                                         BIDDERS 4 - 6        910.000      1,000.000      2,500.000 
+                                                                                                                                    
+   6136006    HI MST IL POLE (150 FT)(100 MPH)        EA           2.000    35,000.000     31,780.000     31,780.000     30,355.790 
+                                                                         BIDDERS 4 - 6     30,400.000     23,651.000     25,000.000 
+                                                                                                                                    
+   6146001    HI MST IL ASM (12-400W)(ASYM)(TY A)     EA           2.000    27,000.000     28,890.000     28,890.000     32,709.610 
+                                                                         BIDDERS 4 - 6     33,000.000     31,318.000     25,000.000 
+                                                                                                                                    
+   6186023    CONDT (PVC) (SCH 40) (2")               LF       1,050.000         7.000          7.250          7.250         15.960 
+                                                                         BIDDERS 4 - 6         16.000          6.390         12.000 
+                                                                                                                                    
+   6186047    CONDT (PVC) (SCH 80) (2") (BORE)        LF          30.000        11.300         14.400         14.400         39.350 
+                                                                         BIDDERS 4 - 6         40.000          6.350        100.000 
+                                                                                                                                    
+   6206007    ELEC CONDR (NO.8) BARE                  LF       1,110.000         1.100          1.200          1.200          0.930 
+                                                                         BIDDERS 4 - 6          0.950          1.140          2.000 
+                                                                                                                                    
+   6206008    ELEC CONDR (NO.8) INSULATED             LF       2,580.000         1.200          1.300          1.300          1.050 
+                                                                         BIDDERS 4 - 6          1.070          0.920          2.000 
+                                                                                                                                    
+   6246001    GROUND BOX TY A (122311)                EA           2.000       564.500        598.000        598.000        437.860 
+                                                                         BIDDERS 4 - 6        440.000        801.930        650.000 
+                                                                                                                                    
+   6246008    GROUND BOX TY C (162911)W/APRON         EA           3.000       905.100        770.000        770.000        919.180 
+                                                                         BIDDERS 4 - 6        925.000        801.930        650.000 
+                                                                                                                                    
+   6286055    ELC SRV TY A 240/480 060(SS)SS(E)SP(U)  EA           1.000     6,000.000      8,535.000      8,535.000      5,037.600 
+                                                                         BIDDERS 4 - 6      5,050.000      6,447.560      5,000.000 
+                                                                                                                                    
+   6366003    ALUMINUM SIGNS (TY O)                   SF       2,845.000        21.000         30.450         30.450         20.310 
+                                                                         BIDDERS 4 - 6         21.000         27.830         30.000 
+                                                                                                                                    
+   6446001    IN SM RD SN SUP&AM TY10BWG(1)SA(P)      EA          54.000       450.000        500.000        500.000        500.000 
+                                                                         BIDDERS 4 - 6        510.000        469.590        650.000 
+                                                                                                                                    
+   6446017    IN SM RD SN SUP&AM TY10BWG(2)SA(P)      EA           7.000     1,028.100      1,070.000      1,070.000      1,070.000 
+                                                                         BIDDERS 4 - 6      1,080.000        920.330        650.000 
+                                                                                                                                    
+   6446076    REMOVE SM RD SN SUP&AM                  EA          50.000        75.400         50.000         50.000         50.000 
+                                                                         BIDDERS 4 - 6         51.000         70.000        650.000 
+                                                                                                                                    
+   6476002    RELOCATE LRSA                           EA           6.000     3,255.700      3,405.000      3,440.000      3,440.000 
+                                                                         BIDDERS 4 - 6      7,000.000      2,700.000      5,000.000 
+                                                                                                                                    
+   6476003    REMOVE LRSA                             EA          16.000       721.400      2,230.000        395.000        395.000 
+                                                                         BIDDERS 4 - 6      1,375.000        150.000      5,000.000 
+                                                                                                                                    
+   6506032    INS OH SN SUP(30 FT CANT)               EA          12.000    15,972.200     21,225.000     21,225.000     22,718.760 
+                                                                         BIDDERS 4 - 6     22,800.000     25,000.000     25,000.000 
+                                                                                                                                    
+   6586061    INSTL DEL ASSM (D-SW)SZ 1(BRF)GF2       EA          93.000        29.550         19.000         19.000         19.000 
+                                                                         BIDDERS 4 - 6         31.000         30.000        100.000 
+                                                                                                                                    
+   6626052    WK ZN PAV MRK REMOV (REFL) TY II-C-R    EA         951.000         4.000          5.000          5.000          5.000 
+                                                                         BIDDERS 4 - 6          3.100          3.000         15.000 
+                                                                                                                                    
+   6626060    WK ZN PAV MRK REMOV (W)4"(BRK)          LF      17,892.000         0.700          1.000          1.000          1.000 
+                                                                         BIDDERS 4 - 6          0.870          1.000          1.000 
+                                                                                                                                    
+   6626061    WK ZN PAV MRK REMOV (W)4"(DOT)          LF         351.000         3.000          5.000          5.000          5.000 
+                                                                         BIDDERS 4 - 6          1.020          1.000          0.500 
+                                                                                                                                    
+   6626063    WK ZN PAV MRK REMOV (W)4"(SLD)          LF      75,413.000         0.800          0.750          0.750          0.750 
+                                                                         BIDDERS 4 - 6          0.610          1.000          0.500 
+                                                                                                                                    
+   6626073    WK ZN PAV MRK REMOV (W)12"(SLD)         LF         603.000         1.900          7.000          7.000          7.000 
+                                                                         BIDDERS 4 - 6          2.550          2.000          3.000 
+                                                                                                                                    
+   6626082    WK ZN PAV MRK REMOV (W)(ENTR GORE)      EA          10.000       903.400        350.000        350.000        350.000 
+                                                                         BIDDERS 4 - 6        460.000        250.000         15.000 
+                                                                                                                                    
+   6626083    WK ZN PAV MRK REMOV (W)(EXIT GORE)      EA           9.000     1,328.000        350.000        350.000        350.000 
+                                                                         BIDDERS 4 - 6        460.000        250.000         15.000 
+                                                                                                                                    
+   6626095    WK ZN PAV MRK REMOV (Y)4"(SLD)          LF      72,265.000         0.700          0.750          0.750          0.750 
+                                                                         BIDDERS 4 - 6          0.610          1.000          0.500 
+                                                                                                                                    
+   6666005    REFL PAV MRK TY I (W)4"(DOT)(090MIL)    LF         341.000         0.900          5.000          5.000          5.000 
+                                                                         BIDDERS 4 - 6          1.020          0.700          0.500 
+                                                                                                                                    
+   6666035    REFL PAV MRK TY I (W)8"(SLD)(090MIL)    LF      15,248.000         0.900          0.750          0.750          0.750 
+                                                                         BIDDERS 4 - 6          0.710          0.700          0.500 
+                                                                                                                                    
+   6666038    REFL PAV MRK TY I (W)12"(LNDP)(090MIL)  LF         678.000         4.000          3.000          3.000          3.000 
+                                                                         BIDDERS 4 - 6          4.100          2.500          0.500 
+                                                                                                                                    
+   6666041    REFL PAV MRK TY I (W)12"(SLD)(090MIL)   LF       3,035.000         2.200          3.000          3.000          3.000 
+                                                                         BIDDERS 4 - 6          2.300          2.750          1.000 
+                                                                                                                                    
+   6666283    REF PROF PAV MRK TY I(W)4"(SLD)(090MIL) LF      80,305.000         0.800          0.750          0.750          0.750 
+                                                                         BIDDERS 4 - 6          0.760          0.500          0.500 
+                                                                                                                                    
+   6666287    REF PROF PAV MRK TY I(Y)4"(SLD)(090MIL) LF      79,493.000         0.800          0.750          0.750          0.750 
+                                                                         BIDDERS 4 - 6          0.760          0.500          0.500 
+                                                                                                                                    
+   6666299    RE PM W/RET REQ TY I (W)4"(BRK)(090MIL) LF      38,119.000         0.400          0.450          0.450          0.450 
+                                                                         BIDDERS 4 - 6          0.390          0.500          0.500 
+                                                                                                                                    
+   6686018    PREFAB PAV MRK TY B (W)(24")(SLD)       LF          62.000         6.980         15.000         15.000         15.000 
+                                                                         BIDDERS 4 - 6         20.100         25.000         15.000 
+                                                                                                                                    
+   6686019    PREFAB PAV MRK TY B (W)(ARROW)          EA           4.000       329.890        200.000        200.000        200.000 
+                                                                         BIDDERS 4 - 6        510.000        300.000         15.000 
+                                                                                                                                    
+   6686027    PREFAB PAV MRK TY B (W)(WORD)           EA           4.000       471.900        300.000        300.000        300.000 
+                                                                         BIDDERS 4 - 6        510.000        350.000         15.000 
+                                                                                                                                    
+   6726010    REFL PAV MRKR TY II-C-R                 EA       2,973.000         3.000          3.500          3.500          3.500 
+                                                                         BIDDERS 4 - 6          3.050          3.500         25.000 
+                                                                                                                                    
+   6776001    ELIM EXT PAV MRK & MRKS (4")            LF     170,779.000         0.330          0.400          0.400          0.400 
+                                                                         BIDDERS 4 - 6          0.400          0.350          0.500 
+                                                                                                                                    
+   6776003    ELIM EXT PAV MRK & MRKS (8")            LF       4,788.000         0.450          0.600          0.600          0.600 
+                                                                         BIDDERS 4 - 6          0.810          0.800          0.500 
+                                                                                                                                    
+   6776005    ELIM EXT PAV MRK & MRKS (12")           LF       9,528.000         1.210          1.000          1.000          1.000 
+                                                                         BIDDERS 4 - 6          1.760          1.500          0.500 
+                                                                                                                                    
+   6776007    ELIM EXT PAV MRK & MRKS (24")           LF      15,722.000         1.600          2.000          2.000          2.000 
+                                                                         BIDDERS 4 - 6          2.260          2.750          3.000 
+                                                                                                                                    
+   6786001    PAV SURF PREP FOR MRK (4")              LF     198,258.000         0.020          0.010          0.010          0.010 
+                                                                         BIDDERS 4 - 6          0.160          0.050          0.500 
+                                                                                                                                    
+   6786004    PAV SURF PREP FOR MRK (8")              LF      15,248.000         0.080          0.020          0.020          0.020 
+                                                                         BIDDERS 4 - 6          0.310          0.150          0.500 
+                                                                                                                                    
+   6786006    PAV SURF PREP FOR MRK (12")             LF       3,713.000         0.130          0.030          0.030          0.030 
+                                                                         BIDDERS 4 - 6          0.510          0.400          1.000 
+                                                                                                                                    
+   6786008    PAV SURF PREP FOR MRK (24")             LF          62.000         0.890          0.040          0.040          0.040 
+                                                                         BIDDERS 4 - 6          5.100          5.500          3.000 
+                                                                                                                                    
+   6786009    PAV SURF PREP FOR MRK (ARROW)           EA           4.000        10.440          5.000          5.000          5.000 
+                                                                         BIDDERS 4 - 6         25.500         25.000         15.000 
+                                                                                                                                    
+   6786016    PAV SURF PREP FOR MRK (WORD)            EA           4.000        14.220          5.000          5.000          5.000 
+                                                                         BIDDERS 4 - 6         35.700         25.000         15.000 
+                                                                                                                                    
+  60016002    PORTABLE CHANGEABLE MESSAGE SIGN        EA           2.000    13,194.200      7,500.000     13,465.860     25,000.000 
+                                                                         BIDDERS 4 - 6     20,000.000      1,000.000     16,000.000 
+                                                                                                                                    

@@ -1,0 +1,196 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    SH 123        3011 247  48
+COUNTY  WILSON                                              CONTROL 0366-05-044                                                     
+PROJECT STP 2017(285)                                       LENGTH    1.313                                                         
+TYPE    INTERSECTION OPERATIONAL IMPROVEMENTS               DATE    11/03/16                     CONTRACT NUMBER            11163011
+TIME      33 WORKING DAYS                                                                        CHECK                   $14,000.000
+LIMITS  FROM:AT FM 537, FM 1347 AND FM 541         TO:.                                          MISCELLANEOUS COST      $21,300.000
+                                                                                                                                    
+                                                     $687,082.58  *****ESTIMATE*****                                                
+                                       BIDDER 1      $611,559.93  ANGEL BROTHERS HOLDINGS CORP.                                     
+                                       BIDDER 2      $611,724.62  DEAN WORD COMPANY, LTD.                                           
+                                       BIDDER 3      $625,905.44  AUSTIN MATERIALS, LLC                                             
+                                       BIDDER 4      $665,716.87  CLARK CONSTRUCTION OF TEXAS, INC.                                 
+                                       BIDDER 5      $711,292.57  HUNTER INDUSTRIES, LTD.                                           
+                                       BIDDER 6      $714,257.14  SALINAS CONSTRUCTION TECHNOLOGIES, LTD.                           
+                                       BIDDER 7      $782,720.51  ACME BRIDGE COMPANY, INC.                                         
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1326019    EMBANKMENT (VEHICLE)(ORD COMP)(TY B)    CY          30.000        25.000         65.000        168.400        130.000 
+                                                                         BIDDERS 4 - 6        107.800        294.810         32.650 
+                                                                         BIDDERS 7            200.000                               
+                                                                                                                                    
+   1346001    BACKFILL (TY A)                         STA         69.330       165.000        180.000        210.220        500.000 
+                                                                         BIDDERS 4 - 6        712.870        153.300        383.760 
+                                                                         BIDDERS 7            750.000                               
+                                                                                                                                    
+   1506002    BLADING                                 HR          12.000       100.000        100.000        123.200        194.000 
+                                                                         BIDDERS 4 - 6        300.000        125.400        115.920 
+                                                                         BIDDERS 7            300.000                               
+                                                                                                                                    
+   1616017    COMPOST MANUF TOPSOIL (4")              SY         709.000         1.300          4.000         12.434          4.370 
+                                                                         BIDDERS 4 - 6          4.750          5.000          5.620 
+                                                                         BIDDERS 7              8.000                               
+                                                                                                                                    
+   1646001    BROADCAST SEED (PERM) (RURAL) (SANDY)   SY         709.000         0.200          0.550          0.520          1.050 
+                                                                         BIDDERS 4 - 6          1.200          0.500          0.670 
+                                                                         BIDDERS 7              2.000                               
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG          11.070        18.000         65.000         95.100         78.020 
+                                                                         BIDDERS 4 - 6        200.000         36.630         85.110 
+                                                                         BIDDERS 7            175.000                               
+                                                                                                                                    
+   1696001    SOIL RETENTION BLANKETS (CL 1) (TY A)   SY         709.000         1.400          3.300          3.120          1.770 
+                                                                         BIDDERS 4 - 6          1.750          3.000          3.420 
+                                                                         BIDDERS 7              2.000                               
+                                                                                                                                    
+   3166409    AGGR (TY-B GR-4)                        CY         347.000        88.000         86.000         88.612        125.000 
+                                                                         BIDDERS 4 - 6         49.000        118.630        171.020 
+                                                                         BIDDERS 7            147.000                               
+                                                                                                                                    
+   3166410    ASPH(AC-15P,AC-20-5TR,AC-20XP,AC10-2TR) GAL     11,467.000         3.250          3.750          2.390          2.650 
+                                                                         BIDDERS 4 - 6          2.300          4.380          3.590 
+                                                                         BIDDERS 7              3.100                               
+                                                                                                                                    
+   3406136    D-GR HMA(SQ) TY-D SAC-B PG76-22         TON      3,154.400       130.000         85.000         72.826         77.000 
+                                                                         BIDDERS 4 - 6         91.630        107.700         91.030 
+                                                                         BIDDERS 7             91.600                               
+                                                                                                                                    
+   3516004    FLEXIBLE PAVEMENT STRUCTURE REPAIR(8")  SY         489.000        50.000         48.000         52.579         58.000 
+                                                                         BIDDERS 4 - 6         77.770         86.340         59.340 
+                                                                         BIDDERS 7             80.000                               
+                                                                                                                                    
+   4326002    RIPRAP (CONC)(5 IN)                     CY          13.000       470.000        440.000        899.700      1,300.000 
+                                                                         BIDDERS 4 - 6        475.000        425.000        619.510 
+                                                                         BIDDERS 7          1,500.000                               
+                                                                                                                                    
+   4606011    CMP AR (GAL STL DES 4)                  LF           8.000        54.000         77.000        258.750        155.000 
+                                                                         BIDDERS 4 - 6        250.000        125.000        199.920 
+                                                                         BIDDERS 7            234.000                               
+                                                                                                                                    
+   4676143    SET (TY I)(S= 4 FT)(HW= 4 FT)(3:1) (C)  EA           2.000     7,000.000      6,800.000      9,267.500     10,200.000 
+                                                                         BIDDERS 4 - 6      5,025.000      6,800.000      7,886.150 
+                                                                         BIDDERS 7         10,800.000                               
+                                                                                                                                    
+   4676148    SET (TY I)(S= 4 FT)(HW= 5 FT)(3:1) (C)  EA           2.000     5,530.000      7,600.000     11,232.500     11,700.000 
+                                                                         BIDDERS 4 - 6      7,200.000      8,900.000      8,885.130 
+                                                                         BIDDERS 7         12,100.000                               
+                                                                                                                                    
+   4676171    SET (TY I)(S= 5 FT)(HW= 3 FT)(3:1) (C)  EA           6.000     2,500.000      5,600.000      4,636.300      3,650.000 
+                                                                         BIDDERS 4 - 6      5,800.000      5,000.000      8,116.460 
+                                                                         BIDDERS 7          5,540.000                               
+                                                                                                                                    
+   4676550    SET (TY II) (DES 4) (CMP) (6: 1) (C)    EA           1.000     3,500.000      2,600.000      2,070.250      3,240.000 
+                                                                         BIDDERS 4 - 6      4,000.000      3,350.000      2,458.660 
+                                                                         BIDDERS 7          3,600.000                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000    45,000.000     80,000.000     67,054.227     57,023.000 
+                                                                         BIDDERS 4 - 6     75,000.000     69,467.670     94,325.000 
+                                                                         BIDDERS 7         63,200.000                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           3.000     5,000.000      3,800.000     16,684.929      6,500.000 
+                                                                         BIDDERS 4 - 6      1,200.000      2,754.540      1,540.000 
+                                                                         BIDDERS 7         10,000.000                               
+                                                                                                                                    
+   5066005002 ROCK FILTER DAMS (INSTALL) (TY 5)       LF         140.000        33.000         32.000         30.680         60.470 
+                                                                         BIDDERS 4 - 6         33.000         29.500         33.050 
+                                                                         BIDDERS 7             75.000                               
+                                                                                                                                    
+   5066011002 ROCK FILTER DAMS (REMOVE)               LF         140.000         7.000          8.500          8.840         12.620 
+                                                                         BIDDERS 4 - 6          9.000          8.500          9.950 
+                                                                         BIDDERS 7             25.000                               
+                                                                                                                                    
+   5066020002 CONSTRUCTION EXITS (INSTALL) (TY 1)     SY         240.000        24.000         14.000         14.456         16.170 
+                                                                         BIDDERS 4 - 6         14.000         13.900         15.640 
+                                                                         BIDDERS 7             50.000                               
+                                                                                                                                    
+   5066024002 CONSTRUCTION EXITS (REMOVE)             SY         240.000         8.000          4.500          4.680         15.780 
+                                                                         BIDDERS 4 - 6          5.500          4.500          5.300 
+                                                                         BIDDERS 7             25.000                               
+                                                                                                                                    
+   5106002    ONE-WAY TRAF CONT (PILOT CAR)           HR          40.000       130.000         92.000         83.600        100.000 
+                                                                         BIDDERS 4 - 6        100.000        102.600         69.520 
+                                                                         BIDDERS 7            200.000                               
+                                                                                                                                    
+   6626109    WK ZN PAV MRK SHT TERM (TAB)TY W        EA         298.000         1.200          0.950          1.680          3.000 
+                                                                         BIDDERS 4 - 6          1.250          1.600          1.530 
+                                                                         BIDDERS 7              5.400                               
+                                                                                                                                    
+   6626111    WK ZN PAV MRK SHT TERM (TAB)TY Y-2      EA       1,048.000         1.000          0.950          1.408          2.000 
+                                                                         BIDDERS 4 - 6          1.250          1.600          1.140 
+                                                                         BIDDERS 7              5.400                               
+                                                                                                                                    
+   6666036    REFL PAV MRK TY I (W)8"(SLD)(100MIL)    LF       3,638.000         0.860          0.810          0.759          0.730 
+                                                                         BIDDERS 4 - 6          1.000          0.730          0.830 
+                                                                         BIDDERS 7              0.820                               
+                                                                                                                                    
+   6666048    REFL PAV MRK TY I (W)24"(SLD)(100MIL)   LF          60.000         5.600          8.880          8.320          8.000 
+                                                                         BIDDERS 4 - 6         20.000          8.000         10.200 
+                                                                         BIDDERS 7              9.000                               
+                                                                                                                                    
+   6666054    REFL PAV MRK TY I (W)(ARROW)(100MIL)    EA          15.000       115.000        110.000        104.000        100.000 
+                                                                         BIDDERS 4 - 6        125.000        100.000        115.610 
+                                                                         BIDDERS 7            113.000                               
+                                                                                                                                    
+   6666078    REFL PAV MRK TY I (W)(WORD)(100MIL)     EA          15.000       140.000        110.000        104.000        100.000 
+                                                                         BIDDERS 4 - 6        125.000        100.000        115.610 
+                                                                         BIDDERS 7            113.000                               
+                                                                                                                                    
+   6666102    REF PAV MRK TY I(W)36"(YLD TRI)(100MIL) EA          12.000        50.000         55.000         52.000         50.000 
+                                                                         BIDDERS 4 - 6         50.000         50.000         62.020 
+                                                                         BIDDERS 7             56.500                               
+                                                                                                                                    
+   6666156    REFL PAV MRK TY I(Y)(MED NOSE)(100MIL)  EA           2.000       325.000        350.000        357.760        344.000 
+                                                                         BIDDERS 4 - 6        200.000        344.000        420.500 
+                                                                         BIDDERS 7            388.000                               
+                                                                                                                                    
+   6666170    REFL PAV MRK TY II (W) 4" (SLD)         LF      14,734.000         0.150          0.150          0.146          0.140 
+                                                                         BIDDERS 4 - 6          0.250          0.140          0.160 
+                                                                         BIDDERS 7              0.160                               
+                                                                                                                                    
+   6666178    REFL PAV MRK TY II (W) 8" (SLD)         LF       3,638.000         0.550          0.450          0.458          0.440 
+                                                                         BIDDERS 4 - 6          0.500          0.440          0.510 
+                                                                         BIDDERS 7              0.500                               
+                                                                                                                                    
+   6666182    REFL PAV MRK TY II (W) 24" (SLD)        LF          60.000         2.800          3.000          3.120          3.000 
+                                                                         BIDDERS 4 - 6          5.000          3.000          4.700 
+                                                                         BIDDERS 7              3.400                               
+                                                                                                                                    
+   6666184    REFL PAV MRK TY II (W) (ARROW)          EA          15.000        52.000         66.000         67.600         65.000 
+                                                                         BIDDERS 4 - 6         55.000         65.000         77.110 
+                                                                         BIDDERS 7             73.400                               
+                                                                                                                                    
+   6666192    REFL PAV MRK TY II (W) (WORD)           EA          15.000        70.000         66.000         67.600         65.000 
+                                                                         BIDDERS 4 - 6         55.000         65.000         77.110 
+                                                                         BIDDERS 7             73.400                               
+                                                                                                                                    
+   6666199    REFL PAV MRK TY II (W) 36" (YLD TRI)    EA          12.000        30.000         30.000         31.200         30.000 
+                                                                         BIDDERS 4 - 6         15.000         30.000         40.020 
+                                                                         BIDDERS 7             33.900                               
+                                                                                                                                    
+   6666207    REFL PAV MRK TY II (Y) 4" (SLD)         LF      20,968.000         0.150          0.150          0.146          0.140 
+                                                                         BIDDERS 4 - 6          0.250          0.140          0.170 
+                                                                         BIDDERS 7              0.160                               
+                                                                                                                                    
+   6666217    REFL PAV MRK TY II (Y) (MED NOSE)       EA           2.000       200.000        190.000        195.520        188.000 
+                                                                         BIDDERS 4 - 6         55.000        188.000        248.900 
+                                                                         BIDDERS 7            212.000                               
+                                                                                                                                    
+   6666282    REF PROF PAV MRK TY I(W)4"(SLD)(060MIL) LF      14,734.000         0.430          0.700          0.707          0.680 
+                                                                         BIDDERS 4 - 6          1.000          0.680          0.750 
+                                                                         BIDDERS 7              0.770                               
+                                                                                                                                    
+   6666287    REF PROF PAV MRK TY I(Y)4"(SLD)(090MIL) LF      20,968.000         0.440          0.700          0.707          0.680 
+                                                                         BIDDERS 4 - 6          1.000          0.680          0.760 
+                                                                         BIDDERS 7              0.770                               
+                                                                                                                                    
+   6726007    REFL PAV MRKR TY I-C                    EA         298.000         4.000          4.000          4.160          4.000 
+                                                                         BIDDERS 4 - 6          5.000          4.000          4.680 
+                                                                         BIDDERS 7              4.500                               
+                                                                                                                                    
+   6726009    REFL PAV MRKR TY II-A-A                 EA       1,062.000         3.500          3.000          3.120          3.000 
+                                                                         BIDDERS 4 - 6          5.000          3.000          3.380 
+                                                                         BIDDERS 7              3.400                               
+                                                                                                                                    

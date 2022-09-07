@@ -1,0 +1,86 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    SH 119        3005 062  48
+COUNTY  DEWITT                                              CONTROL 0359-01-030                                                     
+PROJECT STP 2017(258)                                       LENGTH    7.065                                                         
+TYPE    PAVEMENT REPAIR AND RESURFACING                     DATE    11/03/16                     CONTRACT NUMBER            11163005
+TIME      60 WORKING DAYS                                                                        CHECK                   $40,000.000
+LIMITS  FROM:0.038 MI. SOUTH OF SH 72              TO:GOLIAD C/L                                 MISCELLANEOUS COST       $1,000.000
+                                                                                                                                    
+                                                   $1,994,619.60  *****ESTIMATE*****                                                
+                                       BIDDER 1    $1,750,008.32  DEAN WORD COMPANY, LTD.                                           
+                                       BIDDER 2    $1,782,542.90  ANGEL BROTHERS HOLDINGS CORP.                                     
+                                       BIDDER 3    $1,784,105.48  LONE STAR PAVING COMPANY                                          
+                                       BIDDER 4    $1,824,973.93  HUNTER INDUSTRIES, LTD.                                           
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1346004    BACKFILL (TY A OR B)                    STA        353.740       250.000        143.144        120.000        175.000 
+                                                                         BIDDERS 4            117.450                               
+                                                                                                                                    
+   1506002    BLADING                                 HR          10.000       100.000        123.387         75.000        115.000 
+                                                                         BIDDERS 4             79.800                               
+                                                                                                                                    
+   3106012    PRIME COAT (RC-250)                     GAL      5,896.000         4.250          3.075          2.800          3.000 
+                                                                         BIDDERS 4              4.590                               
+                                                                                                                                    
+   3166249    AGGR(TY-PE GR-4 SAC-B)                  CY         999.000        90.000         78.569        113.000         65.000 
+                                                                         BIDDERS 4             70.230                               
+                                                                                                                                    
+   3166400    ASPH (AC-15P OR AC-10-2TR OR CRS-2P)    GAL     44,156.000         3.000          2.481          2.450          3.000 
+                                                                         BIDDERS 4              2.690                               
+                                                                                                                                    
+   3416039    D-GR HMA TY-D SAC-B PG64-22             TON      7,211.000        70.000         64.584         68.000         69.000 
+                                                                         BIDDERS 4             66.720                               
+                                                                                                                                    
+   3416042    D-GR HMA TY-D SAC-B PG70-22             TON     10,799.000        72.500         61.954         68.000         69.000 
+                                                                         BIDDERS 4             69.690                               
+                                                                                                                                    
+   3516004    FLEXIBLE PAVEMENT STRUCTURE REPAIR(8")  SY       1,000.000        60.000         58.099         41.000         42.000 
+                                                                         BIDDERS 4             42.450                               
+                                                                                                                                    
+   3546041    PLANE ASPH CONC PAV (1.5")              SY       1,508.000         3.000          8.694          3.100          6.380 
+                                                                         BIDDERS 4              2.560                               
+                                                                                                                                    
+   3546064    PLANE ASPH CONC PAV (2 1/2")            SY       2,222.000         4.000          6.865          3.100          8.000 
+                                                                         BIDDERS 4              2.560                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000   180,700.000    165,079.514    136,500.000    100,000.000 
+                                                                         BIDDERS 4        181,167.610                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           4.000     3,000.000      3,905.106        850.000      1,200.000 
+                                                                         BIDDERS 4          2,405.630                               
+                                                                                                                                    
+   5336002    RUMBLE STRIPS (CENTERLINE)              LF      34,982.000         0.250          0.178          0.200          0.160 
+                                                                         BIDDERS 4              0.180                               
+                                                                                                                                    
+   6626004    WK ZN PAV MRK NON-REMOV (W)4"(SLD)      LF     149,212.000         0.150          0.094          0.090          0.100 
+                                                                         BIDDERS 4              0.090                               
+                                                                                                                                    
+   6626032    WK ZN PAV MRK NON-REMOV (Y)4"(BRK)      LF      16,800.000         0.200          0.167          0.160          0.170 
+                                                                         BIDDERS 4              0.160                               
+                                                                                                                                    
+   6626034    WK ZN PAV MRK NON-REMOV (Y)4"(SLD)      LF     120,408.000         0.150          0.136          0.130          0.140 
+                                                                         BIDDERS 4              0.130                               
+                                                                                                                                    
+   6626111    WK ZN PAV MRK SHT TERM (TAB)TY Y-2      EA       8,286.000         1.500          1.214          0.850          1.050 
+                                                                         BIDDERS 4              1.600                               
+                                                                                                                                    
+   6666302    RE PM W/RET REQ TY I (W)4"(SLD)(090MIL) LF      74,606.000         0.300          0.303          0.290          0.300 
+                                                                         BIDDERS 4              0.290                               
+                                                                                                                                    
+   6666311    RE PM W/RET REQ TY I (Y)4"(BRK)(090MIL) LF       5,600.000         0.300          0.303          0.290          0.300 
+                                                                         BIDDERS 4              0.290                               
+                                                                                                                                    
+   6666314    RE PM W/RET REQ TY I (Y)4"(SLD)(090MIL) LF      39,606.000         0.300          0.303          0.290          0.300 
+                                                                         BIDDERS 4              0.290                               
+                                                                                                                                    
+   6686075    PREFAB PAV MRK TY C (W) (18") (SLD)     LF          30.000        12.000         16.720         16.000         17.000 
+                                                                         BIDDERS 4             16.000                               
+                                                                                                                                    
+   6686076    PREFAB PAV MRK TY C (W) (24") (SLD)     LF          22.000        15.000         22.990         22.000         23.000 
+                                                                         BIDDERS 4             22.000                               
+                                                                                                                                    
+   6726009    REFL PAV MRKR TY II-A-A                 EA         776.000         3.000          4.180          4.000          4.100 
+                                                                         BIDDERS 4              4.000                               
+                                                                                                                                    

@@ -1,0 +1,98 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    SH 7          3025 174  48
+COUNTY  NACOGDOCHES                                         CONTROL 0059-01-060                                                     
+PROJECT STP 2017(249)                                       LENGTH  224.674                                                         
+TYPE    RESURFACE WITH SEAL COAT                            DATE    11/03/16                     CONTRACT NUMBER            11163025
+TIME      91 WORKING DAYS                                                                        CHECK                  $100,000.000
+LIMITS  FROM:SL 224                                TO:FM 2713                                    MISCELLANEOUS COST       $2,000.000
+                                                                                                                                    
+                                                  $11,428,194.45  *****ESTIMATE*****                                                
+                                       BIDDER 1   $11,201,892.34  CLARK CONSTRUCTION OF TEXAS, INC.                                 
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1                               
+   3166035    ASPH (TIER I)                           TON      2,836.000       765.000        535.000                               
+                                                                                                                                    
+   3166036    ASPH (TIER II)                          TON      4,336.000       745.000        535.000                               
+                                                                                                                                    
+   3166126    AGGR(TY-PB GR-4 SAC-A)                  CY      13,021.000        90.000        135.000                               
+                                                                                                                                    
+   3166433    AGGR(TY PE,TY-PL,TY-E,TY-L GR-4)(SAC-B) CY       2,614.000        85.000        104.000                               
+                                                                                                                                    
+   3166458    AGGR(TY-PB) (GR-3 OR GR-3S)(SAC-A)      CY       2,045.000        90.000        135.000                               
+                                                                                                                                    
+   3166459    AGGR(TY-PE OR TY-PL)(GR-4)(SAC-B)       CY      16,460.000        85.000        104.000                               
+                                                                                                                                    
+   3166477    AGGR (TY-PE OR PL)(GR-5)(SAC-B)         CY       4,268.000        90.000        110.000                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000 1,150,000.000  1,500,000.000                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           4.000     2,500.000      7,500.000                               
+                                                                                                                                    
+   5066038002 TEMP SEDMT CONT FENCE (INSTALL)         LF         500.000         3.000         10.000                               
+                                                                                                                                    
+   5066039002 TEMP SEDMT CONT FENCE (REMOVE)          LF         500.000         1.250         10.000                               
+                                                                                                                                    
+   6626109    WK ZN PAV MRK SHT TERM (TAB)TY W        EA       3,130.000         1.000          0.010                               
+                                                                                                                                    
+   6626111    WK ZN PAV MRK SHT TERM (TAB)TY Y-2      EA     103,656.000         1.000          0.010                               
+                                                                                                                                    
+   6666036    REFL PAV MRK TY I (W)8"(SLD)(100MIL)    LF      26,360.000         0.500          0.650                               
+                                                                                                                                    
+   6666167    REFL PAV MRK TY II (W) 4" (BRK)         LF       5,550.000         0.250          0.130                               
+                                                                                                                                    
+   6666170    REFL PAV MRK TY II (W) 4" (SLD)         LF     791,002.000         0.250          0.130                               
+                                                                                                                                    
+   6666205    REFL PAV MRK TY II (Y) 4" (BRK)         LF      48,920.000         0.250          0.110                               
+                                                                                                                                    
+   6666207    REFL PAV MRK TY II (Y) 4" (SLD)         LF     546,722.000         0.250          0.130                               
+                                                                                                                                    
+   6666224    PAVEMENT SEALER 4"                      LF      42,845.000         0.250          0.200                               
+                                                                                                                                    
+   6666230    PAVEMENT SEALER 24"                     LF          14.000         0.750         10.000                               
+                                                                                                                                    
+   6666300    RE PM W/RET REQ TY I (W)4"(BRK)(100MIL) LF      60,860.000         0.250          0.240                               
+                                                                                                                                    
+   6666303    RE PM W/RET REQ TY I (W)4"(SLD)(100MIL) LF   1,394,358.000         0.250          0.270                               
+                                                                                                                                    
+   6666312    RE PM W/RET REQ TY I (Y)4"(BRK)(100MIL) LF     247,977.000         0.250          0.270                               
+                                                                                                                                    
+   6666315    RE PM W/RET REQ TY I (Y)4"(SLD)(100MIL) LF   1,033,193.000         0.250          0.270                               
+                                                                                                                                    
+   6666342    REF PROF PAV MRK TY I(W)4"(SLD)(100MIL) LF     224,538.000         0.250          0.650                               
+                                                                                                                                    
+   6666344    REF PROF PAV MRK TY I(Y)4"(BRK)(100MIL) LF      30,519.000         0.250          0.600                               
+                                                                                                                                    
+   6666345    REF PROF PAV MRK TY I(Y)4"(SLD)(100MIL) LF       1,760.000         0.250          0.600                               
+                                                                                                                                    
+   6686075    PREFAB PAV MRK TY C (W) (18") (SLD)     LF         418.000         8.500          9.000                               
+                                                                                                                                    
+   6686076    PREFAB PAV MRK TY C (W) (24") (SLD)     LF         920.000        10.000         12.500                               
+                                                                                                                                    
+   6686089    PREFAB PAV MRK TY C (W) (RR XING)       EA           6.000       450.000        500.000                               
+                                                                                                                                    
+   6686108    PREFAB PAV MRK TY C (Y) (24") (SLD)     LF         746.000        15.000         12.500                               
+                                                                                                                                    
+   6686124    PREFAB PAV MRK TY C (W)(WORD)CNTST      EA          48.000       200.000        300.000                               
+                                                                                                                                    
+   6686125    PREFAB PAV MRK TY C (W)(ARROW)CNTST     EA          51.000       185.000        200.000                               
+                                                                                                                                    
+   6726007    REFL PAV MRKR TY I-C                    EA       2,779.000         3.000          2.500                               
+                                                                                                                                    
+   6726009    REFL PAV MRKR TY II-A-A                 EA      29,062.000         3.000          2.500                               
+                                                                                                                                    
+   6726010    REFL PAV MRKR TY II-C-R                 EA       1,840.000         3.000          2.500                               
+                                                                                                                                    
+   6776001    ELIM EXT PAV MRK & MRKS (4")            LF     299,662.000         0.350          0.250                               
+                                                                                                                                    
+   6776007    ELIM EXT PAV MRK & MRKS (24")           LF          14.000         1.000         35.000                               
+                                                                                                                                    
+   6786001    PAV SURF PREP FOR MRK (4")              LF      42,845.000         0.250          0.020                               
+                                                                                                                                    
+   6786008    PAV SURF PREP FOR MRK (24")             LF          14.000         1.000          0.050                               
+                                                                                                                                    
+  60016001    PORTABLE CHANGEABLE MESSAGE SIGN        DAY         30.000       500.000        450.000                               
+                                                                                                                                    
+  60566002    PREFORMED CENTERLINE RUMBLE STRIP       LF         120.000         4.000         20.000                               
+                                                                                                                                    

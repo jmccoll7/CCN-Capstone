@@ -1,0 +1,54 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    VA            3009 201  48
+COUNTY  RUSK                                                CONTROL 0910-42-041                                                     
+PROJECT STP 2017(245)                                       LENGTH    1.000                                                         
+TYPE    LANDSCAPE PLANTING                                  DATE    11/03/16                     CONTRACT NUMBER            11163009
+TIME      38 WORKING DAYS                                                                        CHECK                    $3,000.000
+LIMITS  FROM:VARIOUS LOCATIONS                     TO:.                                          MISCELLANEOUS COST       $2,000.000
+                                                                                                                                    
+                                                     $130,681.00  *****ESTIMATE*****                                                
+                                       BIDDER 1      $145,279.00  TIGHT LINE CONSTRUCTION, LLC                                      
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1                               
+   1626002    BLOCK SODDING                           SY          81.000         5.000         10.000                               
+                                                                                                                                    
+   1646005    BROADCAST SEED (PERM) (URBAN) (SANDY)   SY       1,698.000         0.500          1.000                               
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG           5.000       100.000          1.000                               
+                                                                                                                                    
+   1926002    PLANT MATERIAL (1-GAL)                  EA         438.000        10.000         15.000                               
+                                                                                                                                    
+   1926004    PLANT MATERIAL (5-GAL)                  EA         406.000        30.000         35.000                               
+                                                                                                                                    
+   1926016    PLANT BED PREPARATION                   SY         611.000        10.000         18.000                               
+                                                                                                                                    
+   1926024    PLANT MATERIAL (30 GAL) (TREE)          EA           9.000       200.000        300.000                               
+                                                                                                                                    
+   1926067    LANDSCAPE EDGE (TYPE I)                 LF         229.000        25.000         12.000                               
+                                                                                                                                    
+   1926068    LANDSCAPE EDGE (TYPE II)                LF          89.000        30.000         35.000                               
+                                                                                                                                    
+   1936006    VEGETATIVE WATERING                     MG         168.000       100.000         20.000                               
+                                                                                                                                    
+   3346080    HMCL ACP TY-D AC-1.5                    TON          5.000       225.000        400.000                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000     9,232.000     29,000.000                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           3.000     1,800.000      1,500.000                               
+                                                                                                                                    
+   5296002    CONC CURB (TY II)                       LF         375.000        20.000         20.000                               
+                                                                                                                                    
+   7406005    ANTI - GRAFFITI COATNG(PERMNENT-TY III) SF         340.000         1.000          2.500                               
+                                                                                                                                    
+  10026002    LANDSCAPE AMENITY (TY 1)                EA           1.000    20,000.000     12,000.000                               
+                                                                                                                                    
+  10026003    LANDSCAPE AMENITY (TY 2)                EA           1.000    10,500.000     12,000.000                               
+                                                                                                                                    
+  10026004    LANDSCAPE AMENITY (TY 3)                EA          10.000       350.000        400.000                               
+                                                                                                                                    
+  10056001    LOOSE AGGR FOR GROUNDCOVER (TYPE I)     CY          19.000        35.000        235.000                               
+                                                                                                                                    
+  10106001    DECORATIVE LANDSCAPE PAVING             SF         175.000       120.000        130.000                               
+                                                                                                                                    
