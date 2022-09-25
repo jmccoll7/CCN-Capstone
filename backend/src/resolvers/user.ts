@@ -3,8 +3,7 @@ import { MyContext } from "src/types";
 import { Arg, Ctx, Field, InputType, Mutation, ObjectType, Query, Resolver } from "type-graphql";
 import argon2 from "argon2";
 
-
-
+// Define input type for user table queries
 @InputType()
 class UsernamePasswordInput {
   @Field()
@@ -13,6 +12,7 @@ class UsernamePasswordInput {
   password: string
 }
 
+// Define error object
 @ObjectType()
 class FieldError {
   @Field()
@@ -21,6 +21,7 @@ class FieldError {
   message: string;
 }
 
+// Define user response object
 @ObjectType()
 class UserResponse {
   @Field(() => [FieldError], {nullable: true})
@@ -30,8 +31,10 @@ class UserResponse {
   user?: User;
 }
 
+// Define queries and updates for user table
 @Resolver()
 export class UserResolver {
+  // Check current user identity
   @Query(() => User, {nullable: true})
   async me(
     @Ctx() { req, em }: MyContext
@@ -40,10 +43,11 @@ export class UserResolver {
     if (!req.session.userId) {
       return null
     }
-
     const user = await em.findOne(User, {id: req.session.userId});
     return user;
   }
+
+  // Register user
   @Mutation(() => UserResponse)
   async register(
     @Arg("options") options: UsernamePasswordInput,
@@ -65,6 +69,8 @@ export class UserResolver {
         }]
       }
     };
+
+    // Use argon2 to hash password for storage
     const hashedPassword = await argon2.hash(options.password)
     const user = em.create(User, {
       username: options.username,
@@ -89,6 +95,7 @@ export class UserResolver {
   
   }
 
+  // User login
   @Mutation(() => UserResponse)
   async login(
     @Arg("options") options: UsernamePasswordInput,

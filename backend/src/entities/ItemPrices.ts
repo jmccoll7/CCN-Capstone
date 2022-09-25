@@ -1,14 +1,13 @@
 import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
 import { ArgsType, Field, Float, Int, ObjectType } from "type-graphql";
 
+// Define item_prices table (entity)
 @Entity()
 @ObjectType()
 export class ItemPrices {
 
-  // @Field(() => Int)
-  // @PrimaryKey()
-  // id!: number;
-
+  // Primary Key is a composite key made up of "item_code, project, contractor" columns
+  // Columns:
   @Field(() => Int)
   @PrimaryKey({ type: "int" })
   item_code!: number;
@@ -38,6 +37,7 @@ export class ItemPrices {
   updated_at? = new Date();
 }
 
+// Class definition for item_prices table columns to be used as query arguments
 @ArgsType()
 export class ItemPricesArgs {
   @Field(() => Int)

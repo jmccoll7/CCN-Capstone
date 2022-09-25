@@ -4,6 +4,7 @@ import { ItemPrices } from "./entities/ItemPrices";
 import path from 'path';
 import { User } from "./entities/User";
 
+// Export database connection details for MikroORM
 export default {
   migrations: {
     path: path.join(__dirname, './migrations'),

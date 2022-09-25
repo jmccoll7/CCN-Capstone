@@ -1,10 +1,12 @@
 import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
 import { Field, Int, ObjectType } from "type-graphql";
 
+// Define user table (entity)
 @ObjectType()
 @Entity()
 export class User {
 
+  // Columns:
   @Field(() => Int)
   @PrimaryKey()
   id!: number;

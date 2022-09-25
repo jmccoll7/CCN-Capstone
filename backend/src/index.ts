@@ -11,16 +11,19 @@ import { UserResolver } from "./resolvers/user";
 
 const main = async () => {
 
+  // Initialize MikroORM with the mikro-orm.config
   const orm = await MikroORM.init(mikroOrmConfig);
-
   await orm.getMigrator().up();
 
+  // Initialize the Express App
   const app = express();
 
-  app.use((req, res, next) => {
+  // Request a specific context for MikroORM
+  app.use((_req, _res, next) => {
     RequestContext.create(orm.em, next)
   })
 
+  // Initialize Apollo server object for GraphQL API
   const apolloServer = new ApolloServer({
     schema: await buildSchema({
       resolvers: [ItemPricesResolver, UserResolver],
@@ -30,19 +33,19 @@ const main = async () => {
     plugins: [ApolloServerPluginLandingPageGraphQLPlayground()]
   });
 
+  // Prepare Apollo server to handle incoming operations
   await apolloServer.start();
 
+  // Connect Apollo server to Express framework
   apolloServer.applyMiddleware({app});
 
-  app.get('/', (_, res) => {
-    res.send('Hello!');
-  })
-
+  // Listen for HTTP connections to the application on port 4121
   app.listen(4121, () => {
-    console.log('Server running at http://localhost:4121');
+    console.log('Server running. API available at http://localhost:4121/graphql');
   })
 }
 
+// Catch any errors in the main function and log to the console
 main().catch(err => {
   console.error(err)
 });
