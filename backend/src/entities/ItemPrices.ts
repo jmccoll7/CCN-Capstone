@@ -1,28 +1,57 @@
 import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
-
+import { ArgsType, Field, Float, Int, ObjectType } from "type-graphql";
 
 @Entity()
+@ObjectType()
 export class ItemPrices {
 
-  @PrimaryKey({ type: "int" })
-  itemCode!: number;
+  // @Field(() => Int)
+  // @PrimaryKey()
+  // id!: number;
 
-  @Property({ type: "text" })
+  @Field(() => Int)
+  @PrimaryKey({ type: "int" })
+  item_code!: number;
+
+  @Field(() => String)
+  @PrimaryKey({ type: "varchar" })
   project!: string;
 
-  @Property({ type: "decimal" })
+  @Field(() => Float)
+  @Property({ type: "float" })
   quantity!: number;
 
-  @Property({ type: "decimal" })
-  unitBidPrice!: number;
+  @Field(() => Float)
+  @Property({ type: "float" })
+  unit_bid_price!: number;
 
-  @Property({ type: "text" })
+  @Field(() => String)
+  @PrimaryKey({ type: "varchar" })
   contractor!: string;
 
+  @Field(() => String)
   @Property({ type: "date" })
-  createdAt? = new Date();
+  created_at? = new Date();
 
+  @Field(() => String)
   @Property({ type: "date", onUpdate: () => new Date() })
-  updatedAt? = new Date();
+  updated_at? = new Date();
+}
 
+@ArgsType()
+export class ItemPricesArgs {
+  @Field(() => Int)
+  item_code!: number;
+
+  @Field(() => String)
+  project!: string;
+
+  @Field(() => Float)
+  quantity!: number;
+
+  @Field(() => Float)
+  unit_bid_price!: number;
+
+  @Field(() => String)
+  contractor!: string;
 }

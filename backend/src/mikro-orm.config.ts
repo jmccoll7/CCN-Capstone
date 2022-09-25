@@ -2,14 +2,14 @@ import { MikroORM } from "@mikro-orm/core";
 import { __prod__ } from "./constants";
 import { ItemPrices } from "./entities/ItemPrices";
 import path from 'path';
+import { User } from "./entities/User";
 
 export default {
   migrations: {
     path: path.join(__dirname, './migrations'),
     glob: '!(*.d).{js,ts}'
   },
-  allowGlobalContext: true,
-  entities: [ItemPrices],
+  entities: [ItemPrices, User],
   dbName: 'txdotbidsdb',
   user: 'app-user',
   password: 'app-user-password-123',

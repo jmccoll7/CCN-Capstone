@@ -1,8 +1,13 @@
-import { MikroORM } from "@mikro-orm/core"
+import "reflect-metadata"
+import { MikroORM, RequestContext } from "@mikro-orm/core"
 import { __prod__ } from "./constants";
-import { ItemPrices } from "./entities/ItemPrices";
 import mikroOrmConfig from "./mikro-orm.config";
 import express from 'express';
+import { ApolloServer } from "apollo-server-express";
+import { buildSchema } from "type-graphql";
+import { ApolloServerPluginLandingPageGraphQLPlayground } from "apollo-server-core"
+import { ItemPricesResolver } from "./resolvers/item_prices";
+import { UserResolver } from "./resolvers/user";
 
 const main = async () => {
 
@@ -12,6 +17,23 @@ const main = async () => {
 
   const app = express();
 
+  app.use((req, res, next) => {
+    RequestContext.create(orm.em, next)
+  })
+
+  const apolloServer = new ApolloServer({
+    schema: await buildSchema({
+      resolvers: [ItemPricesResolver, UserResolver],
+      validate: false
+    }),
+    context: () => ({em: orm.em}),
+    plugins: [ApolloServerPluginLandingPageGraphQLPlayground()]
+  });
+
+  await apolloServer.start();
+
+  apolloServer.applyMiddleware({app});
+
   app.get('/', (_, res) => {
     res.send('Hello!');
   })
@@ -19,20 +41,6 @@ const main = async () => {
   app.listen(4121, () => {
     console.log('Server running at http://localhost:4121');
   })
-
-  // const itemprices = orm.em.create(ItemPrices, {
-  //   itemCode: 3166008,
-  //   project: "NH 2017(260)",
-  //   quantity: 807600.0,
-  //   unitBidPrice: 2.1,
-  //   contractor: "LIPHAM ASPHALT AND PAVING COMPANY, LLC"
-  // });
-
-  // await orm.em.persistAndFlush(itemprices);
-
-  // const posts = await orm.em.find(ItemPrices, {} )
-  // console.log(posts)
-
 }
 
 main().catch(err => {
