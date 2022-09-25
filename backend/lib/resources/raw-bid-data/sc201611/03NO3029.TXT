@@ -1,0 +1,81 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    BU 59-F       3029 174  58
+COUNTY  NACOGDOCHES                                         CONTROL 0175-08-044                                                     
+PROJECT CC 175-8-44                                         LENGTH    0.010                                                         
+TYPE    MODIFY EXISTING SIGNAL                              DATE    11/03/16                     CONTRACT NUMBER            11163029
+TIME      15 WORKING DAYS                                                                        CHECK                    $1,000.000
+LIMITS  FROM:AT EAST COLLEGE IN NACOGDOCHES        TO:.                                          MISCELLANEOUS COST         $750.000
+                                                                                                                                    
+                                                      $42,883.50  *****ESTIMATE*****                                                
+                                       BIDDER 1       $58,317.00  STRIPING TECHNOLOGY, L.P.                                         
+                                       BIDDER 2       $68,391.50  LUDCO, INC.                                                       
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2                
+   4166031    DRILL SHAFT (TRF SIG POLE) (30 IN)      LF          11.000       200.000        190.000        250.000                
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000     3,000.000      6,250.000     20,000.000                
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           2.000     3,000.000      3,500.000      2,000.000                
+                                                                                                                                    
+   5316010    CURB RAMPS (TY 7)                       EA           2.000     2,000.000      4,750.000      1,750.000                
+                                                                                                                                    
+   6186078    CONDT (RM) (4")                         LF          40.000        40.000         52.000         35.000                
+                                                                                                                                    
+   6206007    ELEC CONDR (NO.8) BARE                  LF          40.000         2.000          1.150          2.000                
+                                                                                                                                    
+   6246002    GROUND BOX TY A (122311)W/APRON         EA           1.000     1,000.000        575.000        750.000                
+                                                                                                                                    
+   6666035    REFL PAV MRK TY I (W)8"(SLD)(090MIL)    LF          50.000         0.750         20.000          1.250                
+                                                                                                                                    
+   6666314    RE PM W/RET REQ TY I (Y)4"(SLD)(090MIL) LF         110.000         0.350         10.000          0.750                
+                                                                                                                                    
+   6686076    PREFAB PAV MRK TY C (W) (24") (SLD)     LF          18.000        15.000         50.000         15.000                
+                                                                                                                                    
+   6686077    PREFAB PAV MRK TY C (W) (ARROW)         EA           1.000       200.000        250.000        250.000                
+                                                                                                                                    
+   6686078    PREFAB PAV MRK TY C (W) (DBL ARROW)     EA           1.000       300.000        400.000        350.000                
+                                                                                                                                    
+   6686085    PREFAB PAV MRK TY C (W) (WORD)          EA           1.000       275.000        350.000        350.000                
+                                                                                                                                    
+   6726007    REFL PAV MRKR TY I-C                    EA           3.000         4.000         25.000          4.000                
+                                                                                                                                    
+   6726009    REFL PAV MRKR TY II-A-A                 EA           3.000         4.000         25.000          4.000                
+                                                                                                                                    
+   6776001    ELIM EXT PAV MRK & MRKS (4")            LF         120.000         1.000          7.000          1.000                
+                                                                                                                                    
+   6776009    ELIM EXT PAV MRK & MRKS (DBL ARROW)     EA           1.000        80.000        300.000        350.000                
+                                                                                                                                    
+   6806004    REMOVING TRAFFIC SIGNALS                EA           1.000     2,500.000      2,000.000      4,500.000                
+                                                                                                                                    
+   6826001    VEH SIG SEC (12")LED(GRN)               EA           4.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826002    VEH SIG SEC (12")LED(GRN ARW)           EA           4.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826003    VEH SIG SEC (12")LED(YEL)               EA           4.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826004    VEH SIG SEC (12")LED(YEL ARW)           EA           3.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826005    VEH SIG SEC (12")LED(RED)               EA           4.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826006    VEH SIG SEC (12")LED(RED ARW)           EA           1.000       200.000        225.000        400.000                
+                                                                                                                                    
+   6826018    PED SIG SEC (LED)(COUNTDOWN)            EA           2.000       300.000        495.000        600.000                
+                                                                                                                                    
+   6846007    TRF SIG CBL (TY A)(12 AWG)(2 CONDR)     LF         135.000         2.000          1.250          4.000                
+                                                                                                                                    
+   6846009    TRF SIG CBL (TY A)(12 AWG)(4 CONDR)     LF         430.000         2.150          1.350          4.000                
+                                                                                                                                    
+   6846012    TRF SIG CBL (TY A)(12 AWG)(7 CONDR)     LF         305.000         2.300          1.750          7.000                
+                                                                                                                                    
+   6866025    INS TRF SIG PL AM (S)1 ARM(24')         EA           1.000     5,000.000      5,500.000      5,000.000                
+                                                                                                                                    
+   6866029    INS TRF SIG PL AM (S)1 ARM(28')         EA           1.000     6,000.000      6,500.000      5,500.000                
+                                                                                                                                    
+   6886001    PED DETECT PUSH BUTTON (APS)            EA           2.000       900.000      1,200.000      1,000.000                
+                                                                                                                                    
+  60026002    VIVDS CAMERA ASSEMBLY                   EA           1.000     1,200.000      1,200.000      2,000.000                
+                                                                                                                                    
+  60026005    VIVDS COMMUNICATION CABLE (COAXIAL)     LF         265.000         2.500          4.200          5.500                
+                                                                                                                                    

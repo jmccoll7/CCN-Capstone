@@ -1,0 +1,273 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    VA            3208 227  48
+COUNTY  TRAVIS                                              CONTROL 0914-00-391                                                     
+PROJECT NH 1602(493)                                        LENGTH    0.003                                                         
+TYPE    TRAFFIC MANAGEMENT SYSTEM                           DATE    11/04/16                     CONTRACT NUMBER            11163208
+TIME     360 WORKING DAYS                                                                        CHECK                  $100,000.000
+LIMITS  FROM:VARIOUS LOCATIONS IN AUSTIN           TO:DISTRICT                                   MISCELLANEOUS COST     $256,800.000
+                                                                                                                                    
+                                                  $10,000,775.50  *****ESTIMATE*****                                                
+                                       BIDDER 1   $11,464,497.25  AUSTIN TRAFFIC SIGNAL CONSTRUCTION CO., INC.                      
+                                       BIDDER 2   $11,992,994.50  THE LEVY COMPANY, L.P.                                            
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2                
+   1606003    FURNISHING AND PLACING TOPSOIL (4")     SY       3,000.000         3.000          4.330          9.670                
+                                                                                                                                    
+   1626004    MULCH SODDING                           SY         500.000         5.000          4.330          9.140                
+                                                                                                                                    
+   1646007    BROADCAST SEED (PERM) (URBAN) (CLAY)    SY       3,000.000         0.250          1.350          0.800                
+                                                                                                                                    
+   1666001    FERTILIZER                              AC           0.625       640.000      1,010.000        213.490                
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG           7.000       100.000        144.000         96.670                
+                                                                                                                                    
+   2046003    SPRINKLING (DUST CONTROL)               MG          15.000        50.000        150.000         48.330                
+                                                                                                                                    
+   4166002    DRILL SHAFT (24 IN)                     LF         125.000       188.500        190.000        179.210                
+                                                                                                                                    
+   4166004    DRILL SHAFT (36 IN)                     LF         375.000       205.000        300.000        325.700                
+                                                                                                                                    
+   4166006    DRILL SHAFT (48 IN)                     LF         500.000       230.000        350.000        360.930                
+                                                                                                                                    
+   4166007    DRILL SHAFT (54 IN)                     LF         285.000       335.000        500.000        441.140                
+                                                                                                                                    
+   4326001    RIPRAP (CONC)(4 IN)                     CY         100.000       425.000        700.000        987.940                
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000   761,000.000    900,000.000  1,199,299.450                
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO          18.000     6,500.000      5,000.000     14,988.810                
+                                                                                                                                    
+   5066002003 ROCK FILTER DAMS (INSTALL) (TY 2)       LF         500.000        22.000         30.000         24.080                
+                                                                                                                                    
+   5066011003 ROCK FILTER DAMS (REMOVE)               LF         500.000        10.500          6.300          8.480                
+                                                                                                                                    
+   5066038003 TEMP SEDMT CONT FENCE (INSTALL)         LF       2,000.000         3.000          2.700          2.210                
+                                                                                                                                    
+   5066039003 TEMP SEDMT CONT FENCE (REMOVE)          LF       2,000.000         1.000          1.000          0.430                
+                                                                                                                                    
+   5386001    RIGHT OF WAY MARKERS                    EA          25.000       450.000        440.000        296.100                
+                                                                                                                                    
+   5406005    TERMINAL ANCHOR SECTION                 EA          40.000       675.000        694.000        579.210                
+                                                                                                                                    
+   5406024    MTL W-BEAM GD FEN (TIM POST)(TY IV)     LF       8,160.000        20.000         25.000         22.860                
+                                                                                                                                    
+   5446001    GUARDRAIL END TREATMENT (INSTALL)       EA          40.000     2,200.000      3,787.000      3,305.040                
+                                                                                                                                    
+   6186023    CONDT (PVC) (SCH 40) (2")               LF       7,500.000        10.000         15.000         12.120                
+                                                                                                                                    
+   6186024    CONDT (PVC) (SCH 40) (2") (BORE)        LF       1,500.000        21.000         35.000         34.900                
+                                                                                                                                    
+   6186029    CONDT (PVC) (SCH 40) (3")               LF         500.000        13.250         20.000         13.580                
+                                                                                                                                    
+   6186030    CONDT (PVC) (SCH 40) (3") (BORE)        LF         250.000        30.000         40.000         36.740                
+                                                                                                                                    
+   6186062    CONDT (RM) (3/4")                       LF         250.000        20.300         20.000         18.130                
+                                                                                                                                    
+   6186070    CONDT (RM) (2")                         LF         700.000        24.000         25.000         27.010                
+                                                                                                                                    
+   6206006    ELEC CONDR (NO.10) INSULATED            LF       5,000.000         0.900          0.600          0.730                
+                                                                                                                                    
+   6206008    ELEC CONDR (NO.8) INSULATED             LF       5,000.000         1.100          0.800          0.860                
+                                                                                                                                    
+   6206009    ELEC CONDR (NO.6) BARE                  LF      10,000.000         1.150          0.900          1.050                
+                                                                                                                                    
+   6206010    ELEC CONDR (NO.6) INSULATED             LF       5,000.000         1.500          1.000          1.020                
+                                                                                                                                    
+   6206011    ELEC CONDR (NO.4) BARE                  LF       2,500.000         1.750          1.200          1.420                
+                                                                                                                                    
+   6206012    ELEC CONDR (NO.4) INSULATED             LF       5,000.000         1.950          1.300          1.420                
+                                                                                                                                    
+   6206015    ELEC CONDR (NO.2) BARE                  LF       2,500.000         2.150          2.150          1.980                
+                                                                                                                                    
+   6206016    ELEC CONDR (NO.2) INSULATED             LF       5,000.000         2.350          3.600          2.020                
+                                                                                                                                    
+   6206019    ELEC CONDR (NO.1/0) BARE                LF       2,500.000         4.500          3.500          3.170                
+                                                                                                                                    
+   6206020    ELEC CONDR (NO.1/0) INSULATED           LF       2,500.000         4.150          4.000          3.300                
+                                                                                                                                    
+   6246002    GROUND BOX TY A (122311)W/APRON         EA         100.000       725.000        700.000        710.230                
+                                                                                                                                    
+   6246006    GROUND BOX TY BATTERY (162915)W/APRON   EA          25.000     2,862.000      1,400.000      1,234.380                
+                                                                                                                                    
+   6246010    GROUND BOX TY D (162922)W/APRON         EA          50.000       860.000      1,300.000        846.550                
+                                                                                                                                    
+   6246014    GROUND BOX TY 1 (122422)W/APRON         EA          25.000     1,250.000      1,600.000      1,405.800                
+                                                                                                                                    
+   6246028    REMOVE GROUND BOX                       EA          25.000       208.520        235.000         90.530                
+                                                                                                                                    
+   6286002    REMOVE ELECTRICAL SERVICES              EA          20.000       250.000        353.000        426.290                
+                                                                                                                                    
+   6286131    ELC SRV TY D 120/240 060(NS)GS(N)SP(O)  EA          10.000     3,000.000      3,000.000      3,152.780                
+                                                                                                                                    
+   6286132    ELC SRV TY D 120/240 060(NS)GS(N)SP(U)  EA           5.000     2,200.000      2,000.000      2,750.150                
+                                                                                                                                    
+   6286133    ELC SRV TY D 120/240 060(NS)GS(N)TP(O)  EA          20.000     2,500.000      1,500.000      2,496.360                
+                                                                                                                                    
+   6286175    ELC SRV TY D 120/240 070(NS)GS(N)SP(U)  EA           5.000     2,700.000      2,500.000      2,750.150                
+                                                                                                                                    
+   6286176    ELC SRV TY D 120/240 070(NS)GS(N)TP(O)  EA          20.000     2,200.000      1,200.000      2,496.360                
+                                                                                                                                    
+   6286229    ELC SRV TY D 120/240 100(NS)GS(N)TP(O)  EA          20.000     2,700.000      1,200.000      2,520.160                
+                                                                                                                                    
+   6286230    ELC SRV TY D 120/240 100(NS)GS(N)TP(U)  EA           5.000     3,800.000      1,100.000      2,635.910                
+                                                                                                                                    
+   6286260    ELC SRV TY D 120/240 125(NS)GS(N)TP(O)  EA          20.000     4,400.000      1,200.000      2,651.040                
+                                                                                                                                    
+   6286270    ELC SRV TY D 120/240 150(NS)GS(N)TP(O)  EA          34.000     4,600.000      1,200.000      2,716.440                
+                                                                                                                                    
+   6286273    ELC SRV TY D 120/240 175(NS)GS(N)TP(O)  EA          20.000     4,900.000      1,600.000      2,817.620                
+                                                                                                                                    
+   6506028    INS OH SN SUP(30 FT BAL TEE)            EA          29.000    20,500.000     35,000.000     16,905.690                
+                                                                                                                                    
+   6506045    INS OH SN SUP(40 FT CANT)               EA           5.000    22,000.000     30,000.000     18,803.450                
+                                                                                                                                    
+   6506089    INS OH SN SUP(80 FT BRDG)               EA          10.000    38,200.000     32,000.000     30,887.940                
+                                                                                                                                    
+   6506164    INS OH SN SUP(155 FT BRDG)              EA           5.000    92,440.000     65,000.000     76,945.310                
+                                                                                                                                    
+   6506203    RELOCATE EXISTING OVERHD SIGN SUP       EA          10.000    17,500.000      7,500.000      6,668.420                
+                                                                                                                                    
+   6546006    SIGN WALKWAY (48 IN) WITH HNDRL         LF         300.000       200.000        165.000        165.400                
+                                                                                                                                    
+   6846012    TRF SIG CBL (TY A)(12 AWG)(7 CONDR)     LF       5,000.000         1.800          2.500          2.410                
+                                                                                                                                    
+   6846014    TRF SIG CBL (TY A)(12 AWG)(9 CONDR)     LF         500.000         2.800          4.300          2.760                
+                                                                                                                                    
+   6856001    INSTALL RDSD FLASH BEACON ASSEMBLY      EA           5.000     4,300.000      8,000.000      3,266.830                
+                                                                                                                                    
+   6856004    INSTL RDSD FLSH BCN ASSM (SOLAR PWRD)   EA          15.000     6,500.000     10,000.000      4,817.700                
+                                                                                                                                    
+   6906005    INSTALL OF VEHICLE DETECTORS            LF      25,000.000         1.000         10.000         12.980                
+                                                                                                                                    
+  60046031    ITS COM CBL (ETHERNET)                  LF       5,000.000         3.500          5.000          3.140                
+                                                                                                                                    
+  60076010    FIBER OPTIC CBL (SNGLE-MODE)(6 FIBER)   LF         500.000         3.000          3.000          3.380                
+                                                                                                                                    
+  60076011    FIBER OPTIC CBL (SNGLE-MODE)(12 FIBER)  LF      25,000.000         4.250          3.600          1.970                
+                                                                                                                                    
+  60076014    FIBER OPTIC CBL (SNGLE-MODE)(48 FIBER)  LF      40,000.000         2.350          3.170          2.210                
+                                                                                                                                    
+  60076015    FIBER OPTIC CBL (SNGLE-MODE)(72 FIBER)  LF       5,000.000         2.600          3.600          2.470                
+                                                                                                                                    
+  60076017    FIBER OPTIC CBL (SNGLE-MODE)(144 FIBER) LF      50,000.000         5.750          5.000          3.040                
+                                                                                                                                    
+  60076020    FIBER OPTIC PIGTAIL (12 FIBER)          LF       2,500.000        10.000          5.000        124.740                
+                                                                                                                                    
+  60076021    FIBER OPTIC SPLICE ENCLOSURE            EA           5.000     4,200.000      4,200.000      4,382.580                
+                                                                                                                                    
+  60076023    FIBER OPTIC PATCH PANEL (12 POSITION)   EA           5.000     2,700.000      2,273.000        868.110                
+                                                                                                                                    
+  60076024    FIBER OPTIC PATCH PANEL (48 POSITION)   EA           5.000     3,900.000      4,671.000      1,901.480                
+                                                                                                                                    
+  60076025    FIBER OPTIC PATCH PANEL (72 POSITION)   EA           5.000     2,100.000      6,692.000      2,597.170                
+                                                                                                                                    
+  60076027    FIBER OPTIC PATCH PANEL (144 POSITION)  EA          25.000     4,650.000     11,993.000      4,686.800                
+                                                                                                                                    
+  60086001    EQUIPMENT CABINET (CCTV)(POLE)          EA           5.000     6,000.000      6,665.000      6,758.080                
+                                                                                                                                    
+  60086004    EQUIPMENT CABINET (DMS)(POLE)           EA          24.000    11,500.000      6,942.000      7,454.790                
+                                                                                                                                    
+  60086015    EQUIPMENT CABINET (DMS)(GROUND)         EA           5.000    21,679.000     11,000.000     11,438.660                
+                                                                                                                                    
+  60086039    ITS GRND MNT CAB (TY 6) (CONF 1)        EA           5.000    17,340.000     18,000.000     19,357.550                
+                                                                                                                                    
+  60106001    CCTV FIELD EQUIPMENT (ANALOG)           EA           5.000     8,600.000      6,300.000     11,835.510                
+                                                                                                                                    
+  60106002    CCTV FIELD EQUIPMENT (DIGITAL)          EA           5.000     9,000.000      8,385.000     12,449.450                
+                                                                                                                                    
+  60106010    CCTV FIELD EQUIP (ANALOG) (INSTL ONLY)  EA          25.000     1,900.000      1,500.000      4,263.580                
+                                                                                                                                    
+  60106011    CCTV FIELD EQUIP (DIGITAL) (INSTL ONLY) EA          50.000     2,050.000      1,757.000      4,263.580                
+                                                                                                                                    
+  60106012    RELOCATE CCTV FIELD EQUIPMENT           EA           5.000     1,900.000      1,500.000      8,832.070                
+                                                                                                                                    
+  60106013    REMOVE CCTV FIELD EQUIPMENT             EA           5.000     1,400.000        500.000      4,196.900                
+                                                                                                                                    
+  60166006    ITS MULTI-DUCT CND (PVC-40)             LF       1,000.000        13.000        150.000         15.510                
+                                                                                                                                    
+  60166008    ITS MULTI-DUCT CND (PVC-40)(CONC ENCSE) LF       2,500.000        51.360        125.000         19.870                
+                                                                                                                                    
+  60286001    INSTALL DMS (POLE MTD CABINET)          EA          24.000     8,000.000     10,000.000     13,084.530                
+                                                                                                                                    
+  60286002    INSTALL DMS (FOUNDATION MTD CABINET)    EA           5.000    15,612.000     13,000.000     17,068.400                
+                                                                                                                                    
+  60296001002 RADAR VEHICLE SENSING DEVICE            EA         175.000     8,100.000      8,500.000      9,859.950                
+                                                                                                                                    
+  60536001    SHIFT OVERHEAD SIGN PANELS              EA          25.000     1,250.000      1,000.000        911.570                
+                                                                                                                                    
+  60546001    SPREAD SPECTRUM RADIO                   EA          20.000     2,500.000      1,900.000      3,100.740                
+                                                                                                                                    
+  60626018    ITS RADIO (SNGL)(5 GHZ)-I-U             EA           5.000     5,520.000      4,000.000      5,474.460                
+                                                                                                                                    
+  60626026    ITS RADIO (DUAL)(2.4 GHZ/5 GHZ)-I-U     EA          10.000     4,150.000      5,000.000      6,128.920                
+                                                                                                                                    
+  60626042    RELOCATE ITS RADIO                      EA           5.000     2,010.000        707.000      3,646.110                
+                                                                                                                                    
+  60626043    REMOVE ITS RADIO                        EA           1.000       745.000        500.000      1,244.840                
+                                                                                                                                    
+  60646012    ITS POLE (30 FT)(130 MPH)               EA          50.000     3,595.000      7,000.000      4,752.040                
+                                                                                                                                    
+  60646019    ITS POLE (40 FT)(90 MPH)                EA          15.000     8,750.000      8,000.000      5,632.710                
+                                                                                                                                    
+  60646055    ITS POLE (60 FT)(90 MPH)                EA          10.000    12,000.000     15,000.000     12,259.540                
+                                                                                                                                    
+  60646072    ITS POLE MNT CAB (TY 1)(CONF 1)         EA           2.000     6,550.000      4,900.000      3,448.700                
+                                                                                                                                    
+  60646080    ITS POLE MNT CAB (TY 2)(CONF 1)         EA           2.000     5,000.000      6,600.000      4,906.230                
+                                                                                                                                    
+  60646088    ITS POLE MNT CAB (TY 3)(CONF 1)         EA           2.000     6,000.000      7,600.000      5,727.200                
+                                                                                                                                    
+  60806001    FIBER HUB (IP)                          EA           5.000     1,800.000     45,000.000     25,844.830                
+                                                                                                                                    
+  60936013    RELOCATE EXIST FIB OPT DMS SYS(TY-2)    EA           5.000     3,800.000     11,000.000     21,658.200                
+                                                                                                                                    
+  60936014    RELOCATE EXIST FIB OPT DMS SYS(TY-3)    EA           5.000     4,000.000      4,000.000     21,658.200                
+                                                                                                                                    
+  60936017    RELOCATE EXIST. LANE CONTROL SYS.       EA           5.000     2,400.000      8,200.000     21,852.710                
+                                                                                                                                    
+  61236001    ETHERNET SWITCH (INSTALL ONLY)          EA          20.000       450.000        470.000        954.050                
+                                                                                                                                    
+  61246001    MPEG 4 VIDEO ENCODER (INSTALL ONLY)     EA          20.000       770.000        470.000        675.590                
+                                                                                                                                    
+  61256001    TERMINAL SERVER (INSTALL ONLY)          EA           5.000       775.000      3,000.000        482.250                
+                                                                                                                                    
+  61286001    ENVIRONMENTALLY CONTROLLED COMM BLDG    EA           5.000    82,500.000     50,000.000     82,066.000                
+                                                                                                                                    
+  61346001    REMOVE DYNAMIC MESSAGE SIGN SYSTEM      EA          10.000    10,890.000      5,000.000      6,269.940                
+                                                                                                                                    
+  61416001    REMOVE EXISTING IA CABINET              EA           5.000     1,150.000      1,000.000      2,390.250                
+                                                                                                                                    
+  61416002    RELOCATE EXISTING IA CABINET            EA           5.000       750.000        611.000      3,673.950                
+                                                                                                                                    
+  61416003    REMOVE EXISTING COMMUNICATIONS HUB      EA           5.000    15,500.000      8,500.000     17,903.490                
+                                                                                                                                    
+  61416005    REMOVE EXISTING LANE CONTROL SYSTEM     EA          15.000     2,360.000      4,700.000      3,285.090                
+                                                                                                                                    
+  61416006    REMOVE EXISTING RVSD                    EA           5.000     1,300.000        900.000      1,860.480                
+                                                                                                                                    
+  61416007    RELOCATE RVSD POLE STRCTR AND CABINET   EA          15.000     5,500.000      3,550.000      2,947.020                
+                                                                                                                                    
+  61426001    BLUETOOTH DETECTION SYSTEM              EA           5.000    11,200.000      8,000.000      9,544.550                
+                                                                                                                                    
+  61466001    INSTALLATION OF BLUETOOTH READER        EA           5.000     2,400.000      1,000.000      2,550.220                
+                                                                                                                                    
+  61476001    INSTALL OF ROAD WEATHER INFO SYSTEM     EA           5.000    20,540.000     70,000.000     72,491.450                
+                                                                                                                                    
+  61476002    PASSIVE PAVEMENT SENSOR                 EA           5.000     4,500.000      7,500.000      9,059.530                
+                                                                                                                                    
+  61476003    SUBSURFACE TEMPERATURE PROBE            EA           5.000     2,000.000      4,000.000      4,165.010                
+                                                                                                                                    
+  61476004    SENSOR AND PROBE CABLE                  LF       2,000.000         4.500          5.000          4.390                
+                                                                                                                                    
+  61846006    VIDEO OPTICAL XCVR W/DATA (SM) (1-CH)   EA          50.000     1,325.000      1,500.000      2,876.700                
+                                                                                                                                    
+  61866009    ITS GND BOX(PCAST) TY 2 (366048)        EA           5.000     8,000.000      8,000.000      7,988.930                
+                                                                                                                                    
+  61866025    REMOVE ITS GROUND BOX                   EA           5.000       400.000      1,000.000      3,153.510                
+                                                                                                                                    
+  62196001    LED LANE CONTROL SYSTEM                 EA           5.000    40,470.000     50,000.000     52,564.320                
+                                                                                                                                    
+  62226001    CONCRETE POLE W/CAMERA LOWERING DEVICE  EA           5.000    41,100.000     36,000.000     42,176.940                
+                                                                                                                                    

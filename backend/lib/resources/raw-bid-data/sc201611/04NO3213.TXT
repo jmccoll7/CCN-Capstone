@@ -1,0 +1,220 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    CR            3213 187  48
+COUNTY  POLK                                                CONTROL 0911-04-072                                                     
+PROJECT BR 2016(770)                                        LENGTH    0.204                                                         
+TYPE    BRIDGE REPLACEMENT                                  DATE    11/04/16                     CONTRACT NUMBER            11163213
+TIME     252 WORKING DAYS                                                                        CHECK                   $32,000.000
+LIMITS  FROM:WELLS LANDING RD AT KICKAPOO CREEK    TO:                                           MISCELLANEOUS COST       $2,000.000
+                                                                                                                                    
+                                                   $1,581,145.05  *****ESTIMATE*****                                                
+                                       BIDDER 1    $1,452,873.79  CDM HOLDINGS, LLC                                                 
+                                       BIDDER 2    $1,569,528.02  STATELINE CONSTRUCTION, LLC                                       
+                                       BIDDER 3    $1,714,759.70  HODGES AND SON CONSTRUCTION COMPANY, INC.                         
+                                       BIDDER 4    $1,763,333.30  PIERCE R & B LLC                                                  
+                                       BIDDER 5    $1,855,367.50  ISI CONTRACTING, INC.                                             
+                                       BIDDER 6    $1,987,073.15  DREWERY CONSTRUCTION COMPANY, INCORPORATED                        
+                                       BIDDER 7    $2,130,044.44  LONGVIEW BRIDGE AND ROAD, LTD.                                    
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1006002    PREPARING ROW                           STA         10.880     3,000.000      1,900.000      3,000.000      6,000.000 
+                                                                         BIDDERS 4 - 6      5,000.000      6,000.000     29,000.000 
+                                                                         BIDDERS 7         15,000.000                               
+                                                                                                                                    
+   1046001    REMOVING CONC (PAV)                     SY         224.000       290.000          6.250         13.500         40.000 
+                                                                         BIDDERS 4 - 6         25.000         15.000         13.000 
+                                                                         BIDDERS 7             14.000                               
+                                                                                                                                    
+   1106001    EXCAVATION (ROADWAY)                    CY       1,384.000        20.000         14.750         15.000         20.000 
+                                                                         BIDDERS 4 - 6         20.000         25.000         17.000 
+                                                                         BIDDERS 7              8.000                               
+                                                                                                                                    
+   1326003    EMBANKMENT (FINAL)(ORD COMP)(TY B)      CY         434.000        30.000         19.500         15.000         30.000 
+                                                                         BIDDERS 4 - 6         25.000         25.000         36.000 
+                                                                         BIDDERS 7              4.000                               
+                                                                                                                                    
+   1606003    FURNISHING AND PLACING TOPSOIL (4")     SY       3,752.000         6.000          4.000          2.000          6.000 
+                                                                         BIDDERS 4 - 6          4.000          5.000          4.000 
+                                                                         BIDDERS 7              2.000                               
+                                                                                                                                    
+   1646009    BROADCAST SEED (TEMP) (WARM)            SY       1,877.000         1.000          1.630          0.010          0.400 
+                                                                         BIDDERS 4 - 6          1.800          1.000          0.400 
+                                                                         BIDDERS 7              0.010                               
+                                                                                                                                    
+   1646011    BROADCAST SEED (TEMP) (COOL)            SY       1,877.000         1.000          1.620          1.000          0.400 
+                                                                         BIDDERS 4 - 6          1.800          1.000          0.400 
+                                                                         BIDDERS 7              0.010                               
+                                                                                                                                    
+   1646021    CELL FBR MLCH SEED(PERM)(RURAL)(SANDY)  SY       3,752.000         1.000          1.570          2.500          2.500 
+                                                                         BIDDERS 4 - 6          1.750          1.000          0.350 
+                                                                         BIDDERS 7              1.000                               
+                                                                                                                                    
+   1686001    VEGETATIVE WATERING                     MG          63.100        40.000          1.000         10.000          1.000 
+                                                                         BIDDERS 4 - 6         75.000         20.000         33.000 
+                                                                         BIDDERS 7             35.000                               
+                                                                                                                                    
+   1696002    SOIL RETENTION BLANKETS (CL 1) (TY B)   SY         897.000         3.500          3.450          5.000          4.000 
+                                                                         BIDDERS 4 - 6          4.000          2.000          1.150 
+                                                                         BIDDERS 7              1.200                               
+                                                                                                                                    
+   2476061    FL BS (CMP IN PLC)(TYA GR1-2) (6")      SY       1,962.000        30.000         34.500         31.000         30.000 
+                                                                         BIDDERS 4 - 6         19.000         14.000         26.000 
+                                                                         BIDDERS 7             30.000                               
+                                                                                                                                    
+   4006005    CEM STABIL BKFL                         CY         134.000       200.000        250.000        260.000        250.000 
+                                                                         BIDDERS 4 - 6        225.000         40.000        185.000 
+                                                                         BIDDERS 7            170.000                               
+                                                                                                                                    
+   4166002    DRILL SHAFT (24 IN)                     LF         306.000       150.000        179.000        190.000        180.000 
+                                                                         BIDDERS 4 - 6        210.000        200.000        190.000 
+                                                                         BIDDERS 7            225.000                               
+                                                                                                                                    
+   4166003    DRILL SHAFT (30 IN)                     LF         564.000       180.000        277.000        290.000        200.000 
+                                                                         BIDDERS 4 - 6        308.000        300.000        295.000 
+                                                                         BIDDERS 7            350.000                               
+                                                                                                                                    
+   4206013    CL C CONC (ABUT)                        CY          82.000     1,000.000        925.000        975.000      1,100.000 
+                                                                         BIDDERS 4 - 6        975.000        965.000      1,150.000 
+                                                                         BIDDERS 7          1,000.000                               
+                                                                                                                                    
+   4206025    CL C CONC (BENT)                        CY          22.800     1,140.000      1,200.000      1,200.000      1,100.000 
+                                                                         BIDDERS 4 - 6      1,450.000      1,050.000      1,500.000 
+                                                                         BIDDERS 7          1,200.000                               
+                                                                                                                                    
+   4206076    CL E CONC (SEAL SLAB)                   CY          14.100       470.000        290.000        600.000        300.000 
+                                                                         BIDDERS 4 - 6        550.000        150.000        515.000 
+                                                                         BIDDERS 7            500.000                               
+                                                                                                                                    
+   4226005    REINF CONC SLAB (BOX BEAM)              SF       5,495.000        20.000         21.750         18.900         20.000 
+                                                                         BIDDERS 4 - 6         19.000         14.000         20.000 
+                                                                         BIDDERS 7             25.000                               
+                                                                                                                                    
+   4226007    REINF CONC SLAB (SLAB BEAM)             SF       1,300.000        20.000         22.900         20.250         20.000 
+                                                                         BIDDERS 4 - 6         27.000         18.000         20.000 
+                                                                         BIDDERS 7             25.000                               
+                                                                                                                                    
+   4226023    SHEAR KEY                               CY          48.500       600.000        510.000        360.000        800.000 
+                                                                         BIDDERS 4 - 6        575.000        140.000        540.000 
+                                                                         BIDDERS 7            530.000                               
+                                                                                                                                    
+   4256001    PRESTR CONC BOX BEAM (4B20)             LF         218.000       200.000        176.000        175.000        180.000 
+                                                                         BIDDERS 4 - 6        251.000        306.000        204.000 
+                                                                         BIDDERS 7            250.000                               
+                                                                                                                                    
+   4256002    PRESTR CONC BOX BEAM (5B20)             LF         109.000       200.000        176.000        200.000        180.000 
+                                                                         BIDDERS 4 - 6        346.000        370.000        204.000 
+                                                                         BIDDERS 7            250.000                               
+                                                                                                                                    
+   4256005    PRESTR CONC BOX BEAM (4B34)             LF         614.000       180.000        174.000        195.000        220.000 
+                                                                         BIDDERS 4 - 6        221.000        340.000        201.000 
+                                                                         BIDDERS 7            310.000                               
+                                                                                                                                    
+   4256006    PRESTR CONC BOX BEAM (5B34)             LF         307.000       190.000        174.000        260.000        220.000 
+                                                                         BIDDERS 4 - 6        223.000        360.000        201.000 
+                                                                         BIDDERS 7            310.000                               
+                                                                                                                                    
+   4256012    PRESTR CONC SLAB BEAM (5SB15)           LF         247.500       160.000        182.000        190.000        160.000 
+                                                                         BIDDERS 4 - 6        245.000        325.000        210.000 
+                                                                         BIDDERS 7            275.000                               
+                                                                                                                                    
+   4326032    RIPRAP (STONE PROTECTION)(15 IN)        CY         361.000       150.000        295.000        150.000        140.000 
+                                                                         BIDDERS 4 - 6        160.000        275.000        203.000 
+                                                                         BIDDERS 7            230.000                               
+                                                                                                                                    
+   4506019    RAIL (TY T631LS)                        LF         620.000        75.000         60.000         55.000         80.000 
+                                                                         BIDDERS 4 - 6         84.000        125.000         52.000 
+                                                                         BIDDERS 7             60.000                               
+                                                                                                                                    
+   4546004    ARMOR JOINT (SEALED)                    LF          51.300        91.000        134.000         90.000        100.000 
+                                                                         BIDDERS 4 - 6        105.000         60.000        104.000 
+                                                                         BIDDERS 7             85.000                               
+                                                                                                                                    
+   4626028    CONC BOX CULV (9 FT X 9 FT)             LF          68.000       900.000        910.000        950.000        900.000 
+                                                                         BIDDERS 4 - 6      1,500.000      1,300.000        950.000 
+                                                                         BIDDERS 7            950.000                               
+                                                                                                                                    
+   4646007    RC PIPE (CL III)(30 IN)                 LF          68.000       120.000        102.000        220.000        120.000 
+                                                                         BIDDERS 4 - 6        130.000        200.000        105.000 
+                                                                         BIDDERS 7            100.000                               
+                                                                                                                                    
+   4666136    HEADWALL (CH - PW - S) (DIA= 48 IN)     EA           2.000     6,000.000      8,900.000     19,000.000      8,000.000 
+                                                                         BIDDERS 4 - 6     12,500.000      2,000.000     14,000.000 
+                                                                         BIDDERS 7          6,000.000                               
+                                                                                                                                    
+   4666172    WINGWALL (PW - 1) (HW=11 FT)            EA           1.000    40,000.000     30,000.000     42,000.000     36,000.000 
+                                                                         BIDDERS 4 - 6     37,500.000     33,000.000     50,000.000 
+                                                                         BIDDERS 7         40,000.000                               
+                                                                                                                                    
+   4666173    WINGWALL (PW - 1) (HW=12 FT)            EA           1.000    56,200.000     35,000.000     48,000.000     40,000.000 
+                                                                         BIDDERS 4 - 6     40,000.000     40,000.000     60,000.000 
+                                                                         BIDDERS 7         50,000.000                               
+                                                                                                                                    
+   4966009    REMOV STR (BRIDGE 0 - 99 FT LENGTH)     EA           3.000    20,000.000      2,500.000      7,500.000     24,000.000 
+                                                                         BIDDERS 4 - 6     10,500.000     16,000.000     20,000.000 
+                                                                         BIDDERS 7         35,000.000                               
+                                                                                                                                    
+   4966010    REMOV STR (BRIDGE 100 - 499 FT LENGTH)  EA           1.000    40,000.000     30,000.000     19,000.000     48,000.000 
+                                                                         BIDDERS 4 - 6     20,000.000     25,000.000     45,000.000 
+                                                                         BIDDERS 7        150,000.000                               
+                                                                                                                                    
+   4966016    REMOV STR (PIPE)                        EA           2.000       100.000        150.000      2,500.000      2,000.000 
+                                                                         BIDDERS 4 - 6        800.000         45.000        530.000 
+                                                                         BIDDERS 7          1,100.000                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000   140,000.000     95,000.000    140,000.000    160,000.000 
+                                                                         BIDDERS 4 - 6    170,000.000    180,000.000    200,000.000 
+                                                                         BIDDERS 7        210,000.000                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO          20.000     2,000.000      1,350.000      2,000.000      4,000.000 
+                                                                         BIDDERS 4 - 6      3,000.000      3,000.000      1,300.000 
+                                                                         BIDDERS 7          1,000.000                               
+                                                                                                                                    
+   5066002002 ROCK FILTER DAMS (INSTALL) (TY 2)       LF         192.000        30.000         32.650         40.000         40.000 
+                                                                         BIDDERS 4 - 6         65.000         30.000         31.000 
+                                                                         BIDDERS 7             30.000                               
+                                                                                                                                    
+   5066011002 ROCK FILTER DAMS (REMOVE)               LF         192.000        10.000          8.200         16.000         20.000 
+                                                                         BIDDERS 4 - 6         18.000         12.000          8.400 
+                                                                         BIDDERS 7              8.000                               
+                                                                                                                                    
+   5066038002 TEMP SEDMT CONT FENCE (INSTALL)         LF       1,685.000         2.500          2.800          3.150          4.000 
+                                                                         BIDDERS 4 - 6          4.000          2.000          3.000 
+                                                                         BIDDERS 7              3.000                               
+                                                                                                                                    
+   5066039002 TEMP SEDMT CONT FENCE (REMOVE)          LF       1,685.000         0.750          1.000          1.000          1.000 
+                                                                         BIDDERS 4 - 6          1.000          1.000          0.800 
+                                                                         BIDDERS 7              0.800                               
+                                                                                                                                    
+   5406001    MTL W-BEAM GD FEN (TIM POST)            LF         625.000        20.000         17.400         23.000         30.000 
+                                                                         BIDDERS 4 - 6         21.000         25.000         19.400 
+                                                                         BIDDERS 7             22.000                               
+                                                                                                                                    
+   5406016    DOWNSTREAM ANCHOR TERMINAL SECTION      EA           6.000     1,100.000        918.000      1,150.000      1,400.000 
+                                                                         BIDDERS 4 - 6        825.000      1,200.000      1,000.000 
+                                                                         BIDDERS 7          1,000.000                               
+                                                                                                                                    
+   5446001    GUARDRAIL END TREATMENT (INSTALL)       EA          10.000     2,200.000      2,040.000      2,500.000      2,400.000 
+                                                                         BIDDERS 4 - 6      1,978.000      2,000.000      1,950.000 
+                                                                         BIDDERS 7          2,000.000                               
+                                                                                                                                    
+   6446060    IN SM RD SN SUP&AM TYTWT(1)WS(P)        EA           1.000       500.000        280.500        800.000      1,000.000 
+                                                                         BIDDERS 4 - 6        700.000        320.000        400.000 
+                                                                         BIDDERS 7            400.000                               
+                                                                                                                                    
+   6446076    REMOVE SM RD SN SUP&AM                  EA           8.000       100.000         75.000        200.000        200.000 
+                                                                         BIDDERS 4 - 6        150.000        100.000         65.000 
+                                                                         BIDDERS 7             75.000                               
+                                                                                                                                    
+   6586016    INSTL DEL ASSM (D-SW)SZ (BRF)GF1 (BI)   EA           8.000        40.000         10.200         28.000         60.000 
+                                                                         BIDDERS 4 - 6         30.000         15.000         16.000 
+                                                                         BIDDERS 7             20.000                               
+                                                                                                                                    
+   6586048    INSTL OM ASSM (OM-2Z)(FLX)GND           EA          10.000        70.000         69.500         75.000        100.000 
+                                                                         BIDDERS 4 - 6         65.110         18.000         58.000 
+                                                                         BIDDERS 7             60.000                               
+                                                                                                                                    
+   6586062    INSTL DEL ASSM (D-SW)SZ 1(BRF)GF2(BI)   EA          24.000        40.000         30.600         45.000         60.000 
+                                                                         BIDDERS 4 - 6         29.000         15.000         29.000 
+                                                                         BIDDERS 7             30.000                               
+                                                                                                                                    

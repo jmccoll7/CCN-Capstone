@@ -1,0 +1,72 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    SH 71         3007 076  48
+COUNTY  FAYETTE                                             CONTROL 0266-01-074                                                     
+PROJECT STP 2017(256)HES                                    LENGTH   24.367                                                         
+TYPE    SAFETY TREAT FIXED OBJECTS                          DATE    11/03/16                     CONTRACT NUMBER            11163007
+TIME      30 WORKING DAYS                                                                        CHECK                    $6,000.000
+LIMITS  FROM:SH 159                                TO:COLORADO C/L                               MISCELLANEOUS COST       $1,500.000
+                                                                                                                                    
+                                                     $281,050.00  *****ESTIMATE*****                                                
+                                       BIDDER 1      $276,120.00  TREVWAY, INC.                                                     
+                                       BIDDER 2      $280,380.00  3LW MANAGEMENT, LLC                                               
+                                       BIDDER 3      $288,400.00  WEST TEXAS REBAR PLACERS INC.                                     
+                                       BIDDER 4      $292,260.00  ODUM SERVICES, L.P.                                               
+                                       BIDDER 5      $352,850.00  FNH CONSTRUCTION, LLC                                             
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1326021    EMBANKMENT (VEHICLE)(ORD COMP)(TY C)    CY         240.000        40.000         75.000         50.000         40.000 
+                                                                         BIDDERS 4 - 5         30.000         50.000                
+                                                                                                                                    
+   1506002    BLADING                                 HR          55.000       150.000         55.000        148.000        200.000 
+                                                                         BIDDERS 4 - 5         75.000        150.000                
+                                                                                                                                    
+   1646003    BROADCAST SEED (PERM) (RURAL) (CLAY)    SY       5,000.000         0.350          1.000          1.000          0.650 
+                                                                         BIDDERS 4 - 5          2.500          1.250                
+                                                                                                                                    
+   4326045    RIPRAP (MOW STRIP)(4 IN)                CY         212.000       550.000        450.000        490.000        500.000 
+                                                                         BIDDERS 4 - 5        600.000        550.000                
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000    25,000.000     25,000.000     25,000.000     30,000.000 
+                                                                         BIDDERS 4 - 5     25,000.000     36,000.000                
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           2.000     2,000.000      3,100.000     10,000.000      5,000.000 
+                                                                         BIDDERS 4 - 5      4,000.000      8,500.000                
+                                                                                                                                    
+   5066038003 TEMP SEDMT CONT FENCE (INSTALL)         LF         400.000         5.000          3.000          4.000          4.000 
+                                                                         BIDDERS 4 - 5          5.000          4.000                
+                                                                                                                                    
+   5066039003 TEMP SEDMT CONT FENCE (REMOVE)          LF         400.000         2.500          2.000          1.500          1.500 
+                                                                         BIDDERS 4 - 5          2.000          2.000                
+                                                                                                                                    
+   5406001    MTL W-BEAM GD FEN (TIM POST)            LF       1,900.000        22.000         22.000         20.000         24.000 
+                                                                         BIDDERS 4 - 5         21.000         28.000                
+                                                                                                                                    
+   5406008    MTL BEAM GD FEN TRANS (T101)            EA           4.000     1,000.000      1,348.000      1,035.000      2,600.000 
+                                                                         BIDDERS 4 - 5      1,100.000      2,250.000                
+                                                                                                                                    
+   5406017    MTL BM GD FEN (LONG SPAN SYSTEM)        LF         100.000        25.000         40.000         25.000         38.000 
+                                                                         BIDDERS 4 - 5         25.000         30.000                
+                                                                                                                                    
+   5406020    MTL W - BEAM GD FEN (LOW FILL CULVERT)  LF          75.000        50.000         75.000         58.000         40.000 
+                                                                         BIDDERS 4 - 5         75.000         30.000                
+                                                                                                                                    
+   5426001    REMOVE METAL BEAM GUARD FENCE           LF       1,100.000         3.000          4.000          3.000          1.500 
+                                                                         BIDDERS 4 - 5          3.000          3.000                
+                                                                                                                                    
+   5426002    REMOVE TERMINAL ANCHOR SECTION          EA           4.000       250.000        650.000        150.000        300.000 
+                                                                         BIDDERS 4 - 5        150.000        500.000                
+                                                                                                                                    
+   5446001    GUARDRAIL END TREATMENT (INSTALL)       EA          22.000     2,400.000      2,247.000      2,200.000      2,100.000 
+                                                                         BIDDERS 4 - 5      2,100.000      3,100.000                
+                                                                                                                                    
+   5446003    GUARDRAIL END TREATMENT (REMOVE)        EA           8.000       290.000        743.000        250.000        300.000 
+                                                                         BIDDERS 4 - 5        220.000      1,100.000                
+                                                                                                                                    
+   6586016    INSTL DEL ASSM (D-SW)SZ (BRF)GF1 (BI)   EA           6.000        30.000         50.000         25.000         50.000 
+                                                                         BIDDERS 4 - 5         25.000        100.000                
+                                                                                                                                    
+   6586017    INSTL DEL ASSM (D-SW)SZ (BRF)GF1 (BR)   EA          40.000        30.000         50.000         18.000         45.000 
+                                                                         BIDDERS 4 - 5         25.000        100.000                
+                                                                                                                                    

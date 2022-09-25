@@ -1,0 +1,80 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    IH 30         3212 225  45
+COUNTY  TITUS                                               CONTROL 0610-03-090                                                     
+PROJECT STP 2017(239)HES                                    LENGTH   28.810                                                         
+TYPE    SAFETY LIGHTING                                     DATE    11/04/16                     CONTRACT NUMBER            11163212
+TIME     236 WORKING DAYS                                                                        CHECK                   $37,000.000
+LIMITS  FROM:SS 185                                TO:FM 1001                                    MISCELLANEOUS COST       $9,000.000
+                                                                                                                                    
+                                                   $1,832,095.26  *****ESTIMATE*****                                                
+                                       BIDDER 1    $1,841,758.65  SOUTH TEXAS ILLUMINATION, LLC                                     
+                                       BIDDER 2    $1,844,754.65  MICA CORPORATION                                                  
+                                       BIDDER 3    $1,860,523.71  AMERICAN LIGHTING AND SIGNALIZATION, INC.                         
+                                       BIDDER 4    $2,149,087.50  LUDCO, INC.                                                       
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   1006001    PREPARING ROW                           AC           0.250     5,236.000     24,000.000     12,100.000    108,100.000 
+                                                                         BIDDERS 4         20,000.000                               
+                                                                                                                                    
+   4166026    DRILL SHAFT (HIGH MAST POLE) (60 IN)    LF         375.000       548.000        561.800        447.000        772.560 
+                                                                         BIDDERS 4            600.000                               
+                                                                                                                                    
+   4166029    DRILL SHAFT (RDWY ILL POLE) (30 IN)     LF         200.000       165.000        182.500        168.000        187.100 
+                                                                         BIDDERS 4            200.000                               
+                                                                                                                                    
+   4326006    RIPRAP (CONC)(CL B)                     CY          48.000       340.000        333.900        720.000        621.030 
+                                                                         BIDDERS 4            500.000                               
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000   135,710.760    167,110.000    141,400.000    197,791.410 
+                                                                         BIDDERS 4        120,000.000                               
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO          15.000     4,000.000      8,869.000      9,950.000      3,717.230 
+                                                                         BIDDERS 4          7,500.000                               
+                                                                                                                                    
+   6106009    REMOVE RD IL ASM (TRANS-BASE)           EA          54.000       570.000        313.000        305.000        660.190 
+                                                                         BIDDERS 4            700.000                               
+                                                                                                                                    
+   6106102    REPLACE LUMINAIRE W/LED (250W EQ)       EA          16.000       694.000      1,211.650        690.000        601.880 
+                                                                         BIDDERS 4            800.000                               
+                                                                                                                                    
+   6106103    REPLACE LUMINAIRE W/LED (400W EQ)       EA           8.000       880.000      1,342.450        840.000        741.080 
+                                                                         BIDDERS 4          1,100.000                               
+                                                                                                                                    
+   6106288    IN RD IL (TY SA) 50T-10 (400W EQ) LED   EA          20.000     3,089.000      3,339.200      2,880.000      3,069.020 
+                                                                         BIDDERS 4          3,200.000                               
+                                                                                                                                    
+   6136005    HI MST IL POLE (150 FT)( 80 MPH)        EA          15.000    24,888.000     21,683.600     19,650.000     21,141.860 
+                                                                         BIDDERS 4         30,000.000                               
+                                                                                                                                    
+   6186023    CONDT (PVC) (SCH 40) (2")               LF      24,360.000         6.500          5.250          9.070          5.610 
+                                                                         BIDDERS 4              9.000                               
+                                                                                                                                    
+   6186024    CONDT (PVC) (SCH 40) (2") (BORE)        LF       3,890.000        20.000          8.800         22.300         13.930 
+                                                                         BIDDERS 4             25.000                               
+                                                                                                                                    
+   6206009    ELEC CONDR (NO.6) BARE                  LF      29,065.000         1.300          1.650          1.330          0.970 
+                                                                         BIDDERS 4              1.500                               
+                                                                                                                                    
+   6206010    ELEC CONDR (NO.6) INSULATED             LF      61,300.000         1.500          1.650          1.420          1.000 
+                                                                         BIDDERS 4              2.000                               
+                                                                                                                                    
+   6246001    GROUND BOX TY A (122311)                EA          15.000       628.000        713.400        780.000        651.330 
+                                                                         BIDDERS 4            900.000                               
+                                                                                                                                    
+   6246002    GROUND BOX TY A (122311)W/APRON         EA          56.000       894.000        779.400      1,030.000        789.690 
+                                                                         BIDDERS 4          1,000.000                               
+                                                                                                                                    
+   6286002    REMOVE ELECTRICAL SERVICES              EA           7.000       300.000        626.000        305.000      1,054.310 
+                                                                         BIDDERS 4          1,500.000                               
+                                                                                                                                    
+   6286033    ELC SRV TY A 240/480 060(NS)AL(E)SP(O)  EA           4.000     5,600.000      5,295.400      6,895.000      5,901.090 
+                                                                         BIDDERS 4          5,000.000                               
+                                                                                                                                    
+   6286054    ELC SRV TY A 240/480 060(SS)SS(E)SP(O)  EA           3.000     5,291.000      5,355.400      7,325.000      5,798.620 
+                                                                         BIDDERS 4          5,500.000                               
+                                                                                                                                    
+  61566002    LED HI MST IL ASM (6 FIXT)(ASYM)(TY A)  EA          15.000    28,700.000     28,409.600     24,950.000     27,371.920 
+                                                                         BIDDERS 4         30,000.000                               
+                                                                                                                                    

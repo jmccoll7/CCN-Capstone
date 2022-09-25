@@ -1,0 +1,66 @@
+                                                        TABULATION OF BIDS                                  HWY          JOB CTY DIV
+                                            TEXAS DEPARTMENT OF TRANSPORTATION, AUSTIN                    US 70         3204 009  48
+COUNTY  BAILEY                                              CONTROL 0052-02-035                                                     
+PROJECT NH 2017(265)                                        LENGTH  327.851                                                         
+TYPE    SEALCOAT                                            DATE    11/04/16                     CONTRACT NUMBER            11163204
+TIME      68 WORKING DAYS                                                                        CHECK                  $100,000.000
+LIMITS  FROM:VARIOUS LOCATIONS                     TO:IN THE LUBBOCK DISTRICT                    MISCELLANEOUS COST     $166,900.000
+                                                                                                                                    
+                                                  $15,740,343.60  *****ESTIMATE*****                                                
+                                       BIDDER 1   $12,311,087.55  RONALD R. WAGNER & CO., LP                                        
+                                       BIDDER 2   $12,765,854.17  LIPHAM ASPHALT AND PAVING COMPANY, LLC                            
+                                       BIDDER 3   $14,049,693.22  BRANNAN PAVING CO., LTD.                                          
+                                                                                                                                    
+A                                                                                                                                   
+L  ITEM CODE                                                                  UNIT                                                  
+T ITM  DES SP            ITEM DESCRIPTION             UNIT      QUANTITY     ENG EST         BIDDER 1       BIDDER 2       BIDDER 3 
+   3166017    ASPH (AC-20-5TR)                        GAL  3,020,898.000         2.800          1.791          1.640          1.670 
+                                                                                                                                    
+   3166224    AGGR(TY-PB GR-4 SAC-B)                  CY      72,231.000        66.000         80.640         88.000        100.630 
+                                                                                                                                    
+   3166226    AGGR(TY-PB GR-5 SAC-B)                  CY       1,237.000        80.000         81.240         89.000        102.040 
+                                                                                                                                    
+   5006001    MOBILIZATION                            LS           1.000 1,431,000.000    435,891.000    710,000.000  1,075,000.000 
+                                                                                                                                    
+   5026001    BARRICADES, SIGNS AND TRAFFIC HANDLING  MO           4.000     3,000.000          0.010      5,000.000          0.010 
+                                                                                                                                    
+   6626109    WK ZN PAV MRK SHT TERM (TAB)TY W        EA      24,182.000         1.000          0.010          1.000          0.010 
+                                                                                                                                    
+   6626111    WK ZN PAV MRK SHT TERM (TAB)TY Y-2      EA      56,824.000         1.000          0.010          1.000          0.010 
+                                                                                                                                    
+   6666167    REFL PAV MRK TY II (W) 4" (BRK)         LF     219,766.000         0.150          0.080          0.090          0.090 
+                                                                                                                                    
+   6666168    REFL PAV MRK TY II (W) 4" (DOT)         LF         352.000         0.300          0.500          0.090          0.090 
+                                                                                                                                    
+   6666170    REFL PAV MRK TY II (W) 4" (SLD)         LF   3,017,497.000         0.150          0.080          0.090          0.090 
+                                                                                                                                    
+   6666178    REFL PAV MRK TY II (W) 8" (SLD)         LF      72,537.000         0.200          0.200          0.180          0.180 
+                                                                                                                                    
+   6666180    REFL PAV MRK TY II (W) 12" (SLD)        LF       3,025.000         0.300          0.400          0.350          0.350 
+                                                                                                                                    
+   6666181    REFL PAV MRK TY II (W) 18" (SLD)        LF         660.000         0.400          1.500          0.520          0.520 
+                                                                                                                                    
+   6666182    REFL PAV MRK TY II (W) 24" (SLD)        LF       4,616.000         0.600          2.000          0.700          0.700 
+                                                                                                                                    
+   6666184    REFL PAV MRK TY II (W) (ARROW)          EA         393.000        70.000         50.000         25.000         25.000 
+                                                                                                                                    
+   6666185    REFL PAV MRK TY II (W) (DBL ARROW)      EA           9.000       100.000         60.000         45.000         45.000 
+                                                                                                                                    
+   6666187    REFL PAV MRK TY II (W) (UTURN ARROW)    EA           4.000       100.000         70.000         45.000         45.000 
+                                                                                                                                    
+   6666192    REFL PAV MRK TY II (W) (WORD)           EA          11.000       110.000         60.000         50.000         50.000 
+                                                                                                                                    
+   6666196    REFL PAV MRK TY II (W) (RR XING)        EA          23.000       200.000        250.000        100.000        100.000 
+                                                                                                                                    
+   6666205    REFL PAV MRK TY II (Y) 4" (BRK)         LF     317,762.000         0.150          0.080          0.090          0.090 
+                                                                                                                                    
+   6666207    REFL PAV MRK TY II (Y) 4" (SLD)         LF   1,325,869.000         0.150          0.080          0.090          0.090 
+                                                                                                                                    
+   6666214    REFL PAV MRK TY II (Y) 24" (SLD)        LF         315.000         0.600          1.300          0.700          0.700 
+                                                                                                                                    
+   6726001    PLOWABLE REFL PAV MRKR TY I-A           EA         490.000        35.000         38.000         21.000         21.000 
+                                                                                                                                    
+   6726002    PLOWABLE REFL PAV MRKR TY I-C           EA          30.000        35.000         30.000         21.000         21.000 
+                                                                                                                                    
+   6726004    PLOWABLE REFL PAV MRKR TY II-C-R        EA       2,512.000        35.000         30.000         21.000         21.000 
+                                                                                                                                    
