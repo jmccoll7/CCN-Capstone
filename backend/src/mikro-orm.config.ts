@@ -12,8 +12,8 @@ export default {
   },
   entities: [ItemPrices, User],
   dbName: 'txdotbidsdb',
-  user: 'app-user',
-  password: 'app-user-password-123',
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
   type: 'mysql',
   debug: !__prod__
 } as Parameters<typeof MikroORM.init>[0];
