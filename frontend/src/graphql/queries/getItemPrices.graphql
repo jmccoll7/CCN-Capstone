@@ -1,0 +1,11 @@
+query getItemPrices{
+  get_item_prices {
+    item_code
+    project
+    unit_bid_price
+    quantity
+    contractor
+    created_at
+    updated_at
+  }
+}

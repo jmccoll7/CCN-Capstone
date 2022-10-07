@@ -1,5 +1,5 @@
 import { Box } from "@chakra-ui/react";
-import React, { PropsWithChildren } from "react";
+import React from "react";
 
 interface WrapperProps {
   children: React.ReactNode;
