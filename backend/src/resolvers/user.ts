@@ -11,7 +11,7 @@ import {
   Resolver,
 } from "type-graphql";
 import argon2 from "argon2";
-import { EntityManager } from "@mikro-orm/mysql";
+import { COOKIE_NAME } from "../constants";
 
 // Define input type for user table queries
 @InputType()
@@ -120,12 +120,12 @@ export class UserResolver {
     @Arg("options") options: UsernamePasswordInput,
     @Ctx() { em, req }: MyContext
   ): Promise<UserResponse> {
-    const user = await em.findOneOrFail(User, { username: options.username });
+    const user = await em.findOne(User, { username: options.username });
     if (!user) {
       return {
         errors: [
           {
-            field: "username",
+            field: "password",
             message: "invalid login",
           },
         ],
@@ -148,5 +148,20 @@ export class UserResolver {
     return {
       user,
     };
+  }
+
+  @Mutation(() => Boolean)
+  logout(@Ctx() { req, res }: MyContext) {
+    return new Promise((resolve) =>
+      req.session.destroy((err) => {
+        res.clearCookie(COOKIE_NAME);
+        if (err) {
+          console.log(err);
+          resolve(false);
+          return;
+        }
+        resolve(true);
+      })
+    );
   }
 }
