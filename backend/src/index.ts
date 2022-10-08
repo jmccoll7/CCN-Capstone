@@ -13,10 +13,11 @@ import { UserResolver } from "./resolvers/user";
 import { MyContext } from "./types";
 import connectRedis from "connect-redis";
 import session from "express-session";
-import redis from "redis";
+import Redis from "ioredis";
 import cors from "cors";
 
 const main = async () => {
+
   // Initialize MikroORM with the mikro-orm.config
   const orm = await MikroORM.init(mikroOrmConfig);
   await orm.getMigrator().up();
@@ -25,7 +26,7 @@ const main = async () => {
   const app = express();
 
   const RedisStore = connectRedis(session);
-  const redisClient = redis.createClient();
+  const redis = new Redis();
 
   app.use(
     cors({
@@ -38,7 +39,7 @@ const main = async () => {
     session({
       name: COOKIE_NAME,
       store: new RedisStore({
-        client: redisClient,
+        client: redis,
         disableTouch: true,
       }),
       cookie: {
@@ -64,7 +65,7 @@ const main = async () => {
       resolvers: [ItemPricesResolver, UserResolver],
       validate: false,
     }),
-    context: ({ req, res }): MyContext => ({ em: orm.em, req, res }),
+    context: ({ req, res }): MyContext => ({ em: orm.em, req, res, redis }),
     plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
   });
 
