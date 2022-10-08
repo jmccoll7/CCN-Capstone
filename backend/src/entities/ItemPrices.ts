@@ -1,40 +1,44 @@
-import { Entity, PrimaryKey, Property } from "@mikro-orm/core";
+import { Entity, Column, PrimaryGeneratedColumn, UpdateDateColumn, CreateDateColumn, Unique, BaseEntity } from "typeorm";
 import { ArgsType, Field, Float, Int, ObjectType } from "type-graphql";
 
 // Define item_prices table (entity)
 @Entity()
 @ObjectType()
-export class ItemPrices {
-
-  // Primary Key is a composite key made up of "item_code, project, contractor" columns
+@Unique(["item_code", "project", "contractor"])
+export class ItemPrices extends BaseEntity {
+  // Unique constraint for "item_code, project, contractor" columns
   // Columns:
+  @Field()
+  @PrimaryGeneratedColumn()
+  id!: number;
+  
   @Field(() => Int)
-  @PrimaryKey({ type: "int" })
+  @Column({ type: "int" })
   item_code!: number;
 
   @Field(() => String)
-  @PrimaryKey({ type: "varchar" })
+  @Column({ type: "varchar" })
   project!: string;
 
+  @Field(() => String)
+  @Column({ type: "varchar" })
+  contractor!: string;
+
   @Field(() => Float)
-  @Property({ type: "float" })
+  @Column({ type: "float" })
   quantity!: number;
 
   @Field(() => Float)
-  @Property({ type: "float" })
+  @Column({ type: "float" })
   unit_bid_price!: number;
 
   @Field(() => String)
-  @PrimaryKey({ type: "varchar" })
-  contractor!: string;
+  @CreateDateColumn()
+  created_at?: Date;
 
   @Field(() => String)
-  @Property({ type: "date" })
-  created_at? = new Date();
-
-  @Field(() => String)
-  @Property({ type: "date", onUpdate: () => new Date() })
-  updated_at? = new Date();
+  @UpdateDateColumn()
+  updated_at?: Date;
 }
 
 // Class definition for item_prices table columns to be used as query arguments

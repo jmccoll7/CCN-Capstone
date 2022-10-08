@@ -1,9 +1,7 @@
 import dotenv from "dotenv";
 dotenv.config();
 import "reflect-metadata";
-import { MikroORM, RequestContext } from "@mikro-orm/core";
 import { APP_LISTENER_PORT, COOKIE_NAME, __prod__ } from "./constants";
-import mikroOrmConfig from "./mikro-orm.config";
 import express from "express";
 import { ApolloServer } from "apollo-server-express";
 import { buildSchema } from "type-graphql";
@@ -15,12 +13,30 @@ import connectRedis from "connect-redis";
 import session from "express-session";
 import Redis from "ioredis";
 import cors from "cors";
+import { DataSource } from "typeorm";
+import { User } from "./entities/User";
+import { ItemPrices } from "./entities/ItemPrices";
 
 const main = async () => {
+  const AppDataSource = new DataSource({
+    type: "mysql",
+    host: "localhost",
+    port: 3306,
+    username: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    database: "txdotbidsdb",
+    synchronize: true,
+    logging: true,
+    entities: [ItemPrices, User],
+  });
 
-  // Initialize MikroORM with the mikro-orm.config
-  const orm = await MikroORM.init(mikroOrmConfig);
-  await orm.getMigrator().up();
+  await AppDataSource.initialize()
+    .then(() => {
+      console.log("Data Source has been initialized!");
+    })
+    .catch((err) => {
+      console.error("Error during Data Source initialization: ", err);
+    });
 
   // Initialize the Express App
   const app = express();
@@ -54,18 +70,13 @@ const main = async () => {
     })
   );
 
-  // Request a specific context for MikroORM
-  app.use((_req, _res, next) => {
-    RequestContext.create(orm.em, next);
-  });
-
   // Initialize Apollo server object for GraphQL API
   const apolloServer = new ApolloServer({
     schema: await buildSchema({
       resolvers: [ItemPricesResolver, UserResolver],
       validate: false,
     }),
-    context: ({ req, res }): MyContext => ({ em: orm.em, req, res, redis }),
+    context: ({ req, res }): MyContext => ({ req, res, redis }),
     plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
   });
 
