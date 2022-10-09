@@ -1,5 +1,6 @@
-import { Entity, Column, PrimaryGeneratedColumn, UpdateDateColumn, CreateDateColumn, Unique, BaseEntity } from "typeorm";
+import { Entity, Column, PrimaryGeneratedColumn, UpdateDateColumn, CreateDateColumn, Unique, BaseEntity, ManyToOne } from "typeorm";
 import { ArgsType, Field, Float, Int, ObjectType } from "type-graphql";
+import { User } from "./User";
 
 // Define item_prices table (entity)
 @Entity()
@@ -31,6 +32,13 @@ export class ItemPrices extends BaseEntity {
   @Field(() => Float)
   @Column({ type: "float" })
   unit_bid_price!: number;
+
+  @Field()
+  @Column()
+  creatorId: number
+
+  @ManyToOne(() => User, (user) => user.id)
+  creator: User
 
   @Field(() => String)
   @CreateDateColumn()

@@ -13,22 +13,10 @@ import connectRedis from "connect-redis";
 import session from "express-session";
 import Redis from "ioredis";
 import cors from "cors";
-import { DataSource } from "typeorm";
-import { User } from "./entities/User";
-import { ItemPrices } from "./entities/ItemPrices";
+import { PostResolver } from "./resolvers/post";
+import { AppDataSource } from "./typeorm-config";
 
 const main = async () => {
-  const AppDataSource = new DataSource({
-    type: "mysql",
-    host: "localhost",
-    port: 3306,
-    username: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: "txdotbidsdb",
-    synchronize: true,
-    logging: true,
-    entities: [ItemPrices, User],
-  });
 
   await AppDataSource.initialize()
     .then(() => {
@@ -37,6 +25,8 @@ const main = async () => {
     .catch((err) => {
       console.error("Error during Data Source initialization: ", err);
     });
+  
+  AppDataSource.runMigrations();
 
   // Initialize the Express App
   const app = express();
@@ -73,7 +63,7 @@ const main = async () => {
   // Initialize Apollo server object for GraphQL API
   const apolloServer = new ApolloServer({
     schema: await buildSchema({
-      resolvers: [ItemPricesResolver, UserResolver],
+      resolvers: [ItemPricesResolver, UserResolver, PostResolver],
       validate: false,
     }),
     context: ({ req, res }): MyContext => ({ req, res, redis }),
