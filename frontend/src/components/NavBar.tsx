@@ -14,12 +14,14 @@ export const NavBar: React.FC<NavBarProps> = ({}) => {
   } else if (!data?.me) {
     body = (
       <>
-        <NextLink href="/login">
-          <Link ml={"auto"}>Login</Link>
-        </NextLink>
-        <NextLink href="/register">
-          <Link ml={4}>Register</Link>
-        </NextLink>
+        <Flex>
+          <NextLink href="/login">
+            <Link ml={4}>Login</Link>
+          </NextLink>
+          <NextLink href="/register">
+            <Link ml={4}>Register</Link>
+          </NextLink>
+        </Flex>
       </>
     );
   } else {
@@ -43,7 +45,12 @@ export const NavBar: React.FC<NavBarProps> = ({}) => {
     );
   }
   return (
-    <Flex bg="darkslategrey" p={4}>
+    <Flex zIndex={1} position="sticky" top={0} bg="darkslategrey" p={4}>
+      <Box>
+        <NextLink href="/">
+          <Link ml={4}>Home</Link>
+        </NextLink>
+      </Box>
       <Box ml={"auto"}>{body}</Box>
     </Flex>
   );

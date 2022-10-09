@@ -26,6 +26,8 @@ export type ItemPrices = {
   __typename?: 'ItemPrices';
   contractor: Scalars['String'];
   created_at: Scalars['String'];
+  creatorId: Scalars['Float'];
+  id: Scalars['Float'];
   item_code: Scalars['Int'];
   project: Scalars['String'];
   quantity: Scalars['Float'];
@@ -36,17 +38,30 @@ export type ItemPrices = {
 export type Mutation = {
   __typename?: 'Mutation';
   changePassword: UserResponse;
+  createPost: Post;
+  deletePost: Scalars['Boolean'];
   forgotPassword: Scalars['Boolean'];
   login: UserResponse;
   logout: Scalars['Boolean'];
   post_item_price: ItemPrices;
   register: UserResponse;
+  updatePost?: Maybe<Post>;
 };
 
 
 export type MutationChangePasswordArgs = {
   newPassword: Scalars['String'];
   token: Scalars['String'];
+};
+
+
+export type MutationCreatePostArgs = {
+  input: PostInput;
+};
+
+
+export type MutationDeletePostArgs = {
+  id: Scalars['Float'];
 };
 
 
@@ -74,16 +89,58 @@ export type MutationRegisterArgs = {
   options: UsernamePasswordInput;
 };
 
+
+export type MutationUpdatePostArgs = {
+  id: Scalars['Float'];
+  title?: InputMaybe<Scalars['String']>;
+};
+
+export type PaginatedPosts = {
+  __typename?: 'PaginatedPosts';
+  hasMore: Scalars['Boolean'];
+  posts: Array<Post>;
+};
+
+export type Post = {
+  __typename?: 'Post';
+  createdAt: Scalars['DateTime'];
+  creatorId: Scalars['Float'];
+  id: Scalars['Int'];
+  points: Scalars['Float'];
+  text: Scalars['String'];
+  textSnippet: Scalars['String'];
+  title: Scalars['String'];
+  updatedAt: Scalars['DateTime'];
+};
+
+export type PostInput = {
+  text: Scalars['String'];
+  title: Scalars['String'];
+};
+
 export type Query = {
   __typename?: 'Query';
   get_item_prices: Array<ItemPrices>;
   get_prices_by_item: Array<ItemPrices>;
   me?: Maybe<User>;
+  post?: Maybe<Post>;
+  posts: PaginatedPosts;
 };
 
 
 export type QueryGet_Prices_By_ItemArgs = {
   item_code: Scalars['Float'];
+};
+
+
+export type QueryPostArgs = {
+  id: Scalars['Float'];
+};
+
+
+export type QueryPostsArgs = {
+  cursor?: InputMaybe<Scalars['DateTime']>;
+  limit: Scalars['Int'];
 };
 
 export type User = {
@@ -121,6 +178,13 @@ export type ChangePasswordMutationVariables = Exact<{
 
 export type ChangePasswordMutation = { __typename?: 'Mutation', changePassword: { __typename?: 'UserResponse', errors?: Array<{ __typename?: 'FieldError', field: string, message: string }> | null, user?: { __typename?: 'User', id: number, username: string } | null } };
 
+export type CreatePostMutationVariables = Exact<{
+  input: PostInput;
+}>;
+
+
+export type CreatePostMutation = { __typename?: 'Mutation', createPost: { __typename?: 'Post', id: number, createdAt: any, updatedAt: any, title: string, text: string, points: number, creatorId: number } };
+
 export type ForgotPasswordMutationVariables = Exact<{
   email: Scalars['String'];
 }>;
@@ -147,6 +211,14 @@ export type RegisterMutationVariables = Exact<{
 
 
 export type RegisterMutation = { __typename?: 'Mutation', register: { __typename?: 'UserResponse', errors?: Array<{ __typename?: 'FieldError', field: string, message: string }> | null, user?: { __typename?: 'User', id: number, username: string } | null } };
+
+export type PostsQueryVariables = Exact<{
+  limit: Scalars['Int'];
+  cursor?: InputMaybe<Scalars['DateTime']>;
+}>;
+
+
+export type PostsQuery = { __typename?: 'Query', posts: { __typename?: 'PaginatedPosts', hasMore: boolean, posts: Array<{ __typename?: 'Post', id: number, createdAt: any, creatorId: number, title: string, textSnippet: string }> } };
 
 export type GetItemPricesQueryVariables = Exact<{ [key: string]: never; }>;
 
@@ -192,6 +264,23 @@ export const ChangePasswordDocument = gql`
 export function useChangePasswordMutation() {
   return Urql.useMutation<ChangePasswordMutation, ChangePasswordMutationVariables>(ChangePasswordDocument);
 };
+export const CreatePostDocument = gql`
+    mutation CreatePost($input: PostInput!) {
+  createPost(input: $input) {
+    id
+    createdAt
+    updatedAt
+    title
+    text
+    points
+    creatorId
+  }
+}
+    `;
+
+export function useCreatePostMutation() {
+  return Urql.useMutation<CreatePostMutation, CreatePostMutationVariables>(CreatePostDocument);
+};
 export const ForgotPasswordDocument = gql`
     mutation ForgotPassword($email: String!) {
   forgotPassword(email: $email)
@@ -231,6 +320,24 @@ export const RegisterDocument = gql`
 
 export function useRegisterMutation() {
   return Urql.useMutation<RegisterMutation, RegisterMutationVariables>(RegisterDocument);
+};
+export const PostsDocument = gql`
+    query Posts($limit: Int!, $cursor: DateTime) {
+  posts(cursor: $cursor, limit: $limit) {
+    hasMore
+    posts {
+      id
+      createdAt
+      creatorId
+      title
+      textSnippet
+    }
+  }
+}
+    `;
+
+export function usePostsQuery(options: Omit<Urql.UseQueryArgs<PostsQueryVariables>, 'query'>) {
+  return Urql.useQuery<PostsQuery, PostsQueryVariables>({ query: PostsDocument, ...options });
 };
 export const GetItemPricesDocument = gql`
     query getItemPrices {
