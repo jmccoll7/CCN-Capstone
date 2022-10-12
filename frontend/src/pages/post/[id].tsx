@@ -1,14 +1,12 @@
 import { withUrqlClient } from "next-urql";
 import React from "react";
 import { createUrqlClient } from "../../utils/createUrqlClient";
-import { useRouter } from "next/router";
 import { Layout } from "../../components/Layout";
 import { Box, Flex, Heading } from "@chakra-ui/react";
 import { useGetPostFromUrl } from "../../utils/useGetPostFromUrl";
 import { EditDeletePostButtons } from "../../components/EditDeletePostButtons";
 
 export const Post = ({}) => {
-  const router = useRouter();
   const [{ data, error, fetching }] = useGetPostFromUrl();
 
   if (fetching) {

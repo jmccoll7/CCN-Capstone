@@ -2,7 +2,6 @@
 import { dedupExchange, fetchExchange, gql } from "@urql/core";
 import { cacheExchange, Resolver } from "@urql/exchange-graphcache";
 import {
-  DeletePostMutation,
   DeletePostMutationVariables,
   LoginMutation,
   LogoutMutation,
