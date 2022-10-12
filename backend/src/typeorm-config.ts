@@ -3,6 +3,7 @@ import { ItemPrices } from "./entities/ItemPrices";
 import { Post } from "./entities/Post";
 import { User } from "./entities/User";
 import path from "path";
+import { Votes } from "./entities/Votes";
 
 export const AppDataSource = new DataSource({
   type: "mysql",
@@ -14,5 +15,5 @@ export const AppDataSource = new DataSource({
   synchronize: true,
   logging: true,
   migrations: [path.join(__dirname, "./migrations/*")],
-  entities: [ItemPrices, User, Post],
+  entities: [ItemPrices, User, Post, Votes],
 });

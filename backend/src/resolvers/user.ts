@@ -40,15 +40,14 @@ class UserResponse {
 // Define queries and updates for user table
 @Resolver(User)
 export class UserResolver {
-
   @FieldResolver(() => String)
-  email(@Root() user: User, @Ctx() {req}: MyContext) {
+  email(@Root() user: User, @Ctx() { req }: MyContext) {
     // this is the current user and its ok to show them their email
     if (req.session.userId == user.id) {
-      return user.email
+      return user.email;
     }
     // current user wants to see someone else's email
-    return ""
+    return "";
   }
 
   @Mutation(() => UserResponse)
@@ -137,12 +136,12 @@ export class UserResolver {
   // Check current user identity
   @Query(() => User, { nullable: true })
   me(@Ctx() { req }: MyContext) {
-    console.log("session: ", req.session);
-
+    console.log("Session details from 'Me' Query: ", req.session);
     // you are not logged in
     if (!req.session.userId) {
       return null;
     }
+    console.log("id found: ", req.session.userId);
     return User.findOneBy({ id: req.session.userId });
   }
 

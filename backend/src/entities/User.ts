@@ -2,6 +2,7 @@ import { Field, Int, ObjectType } from "type-graphql";
 import { BaseEntity, Column, CreateDateColumn, Entity, OneToMany, PrimaryGeneratedColumn, UpdateDateColumn } from "typeorm";
 import { ItemPrices } from "./ItemPrices";
 import { Post } from "./Post";
+import { Votes } from "./Votes";
 
 // Define user table (entity)
 @ObjectType()
@@ -28,6 +29,9 @@ export class User extends BaseEntity {
 
   @OneToMany(() => Post, (post) => post.creator)
   posts: Post[]
+
+  @OneToMany(() => Votes, (votes) => votes.user)
+  votes: Votes[]
 
   @Field(() => Date)
   @CreateDateColumn()

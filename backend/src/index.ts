@@ -15,6 +15,7 @@ import Redis from "ioredis";
 import cors from "cors";
 import { PostResolver } from "./resolvers/post";
 import { AppDataSource } from "./typeorm-config";
+import { VotesResolver } from "./resolvers/votes";
 
 const main = async () => {
 
@@ -34,6 +35,8 @@ const main = async () => {
   const RedisStore = connectRedis(session);
   const redis = new Redis();
 
+  app.set('trust proxy', process.env.NODE_ENV !== 'production')
+
   app.use(
     cors({
       origin: "http://localhost:3000",
@@ -51,8 +54,8 @@ const main = async () => {
       cookie: {
         maxAge: 1000 * 60 * 60 * 24 * 365.25 * 10,
         httpOnly: true,
-        secure: __prod__, // __prod__, // cookie only works in https
-        sameSite: "lax", // csrf
+        secure: false, // cookie only works in https
+        sameSite: false, // csrf
       },
       saveUninitialized: false,
       secret: process.env.SESSION_SECRET!,
@@ -63,7 +66,7 @@ const main = async () => {
   // Initialize Apollo server object for GraphQL API
   const apolloServer = new ApolloServer({
     schema: await buildSchema({
-      resolvers: [ItemPricesResolver, UserResolver, PostResolver],
+      resolvers: [ItemPricesResolver, UserResolver, PostResolver, VotesResolver],
       validate: false,
     }),
     context: ({ req, res }): MyContext => ({ req, res, redis }),
