@@ -7,18 +7,27 @@ import {
   Stack,
   Text,
 } from "@chakra-ui/react";
-import { createUrqlClient } from "../utils/createUrqlClient";
 import { withUrqlClient } from "next-urql";
-import { useGetItemPricesQuery, usePostsQuery } from "../generated/graphql";
-import { Layout } from "../components/Layout";
 import NextLink from "next/link";
 import { useState } from "react";
+import { EditDeletePostButtons } from "../components/EditDeletePostButtons";
+import { Layout } from "../components/Layout";
+import { VoteSection } from "../components/VoteSection";
+import { POST_LIMIT } from "../constants";
+import {
+  useGetItemPricesQuery,
+  useMeQuery,
+  usePostsQuery,
+} from "../generated/graphql";
+import { createUrqlClient } from "../utils/createUrqlClient";
 
 const Index = () => {
   const [variables, setVariables] = useState({
-    limit: 20,
+    limit: POST_LIMIT,
     cursor: null as null | Date,
   });
+
+  const [{ data: me_data }] = useMeQuery();
   const [{ data: item_data }] = useGetItemPricesQuery();
   const [{ fetching, data: post_data }] = usePostsQuery({
     variables,
@@ -43,22 +52,44 @@ const Index = () => {
         <div>loading posts...</div>
       ) : (
         <Stack spacing={8}>
-          {post_data!.posts.posts.map((p) => (
-            <Box
-              bgColor={"DarkSlateGray"}
-              color={"white"}
-              key={p.id}
-              p={5}
-              borderWidth="3px"
-            >
-              <Heading color={"white"} fontSize="xl">
-                {p.title}
-              </Heading>
-              <Text color={"#E0E0E0"} mt={4}>
-                {p.textSnippet}
-              </Text>
-            </Box>
-          ))}
+          {post_data!.posts.posts.map((p) =>
+            !p ? null : (
+              <Box
+                bgColor={"DarkSlateGray"}
+                color={"white"}
+                key={p.id}
+                p={5}
+                borderWidth="3px"
+              >
+                <Flex>
+                  <Box>
+                    <VoteSection post={p} />
+                  </Box>
+                  <Box>
+                    <NextLink href="/post/[id]" as={`/post/${p.id}`}>
+                      <Link>
+                        <Heading color={"white"} fontSize="xl">
+                          {p.title}
+                        </Heading>{" "}
+                      </Link>
+                    </NextLink>
+                    <Text color={"#E0E0E0"} mt={4}>
+                      {p.textSnippet}
+                    </Text>
+                  </Box>
+                  <Box ml={"auto"}>
+                    <Text mb={3}>Posted by {p.creator.username}</Text>
+                    {me_data?.me?.id !== p.creator.id ? null : (
+                      <EditDeletePostButtons
+                        id={p.id}
+                        creatorId={p.creator.id}
+                      />
+                    )}
+                  </Box>
+                </Flex>
+              </Box>
+            )
+          )}
         </Stack>
       )}
       {

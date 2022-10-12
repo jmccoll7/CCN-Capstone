@@ -1,12 +1,8 @@
-query Posts ($limit: Int!, $cursor: DateTime) {
-  posts (cursor: $cursor, limit: $limit) {
+query Posts($limit: Int!, $cursor: DateTime) {
+  posts(cursor: $cursor, limit: $limit) {
     hasMore
     posts {
-      id
-      createdAt
-      creatorId
-      title
-      textSnippet
+      ...PostSnippet
     }
   }
 }
