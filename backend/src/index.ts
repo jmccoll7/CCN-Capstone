@@ -20,12 +20,16 @@ import { createUserLoader } from "./utils/createUserLoader";
 import { createVoteLoader } from "./utils/createVoteLoader";
 
 const main = async () => {
+  console.log("url: ", process.env.DB_URL)
+  console.log("what the heck")
   await AppDataSource.initialize()
     .then(() => {
       console.log("Data Source has been initialized!");
+      console.log("url: ", process.env.DB_URL)
     })
     .catch((err) => {
       console.error("Error during Data Source initialization: ", err);
+      console.log("url: ", process.env.DB_URL)
     });
 
   AppDataSource.runMigrations();
