@@ -16,9 +16,10 @@ import cors from "cors";
 import { PostResolver } from "./resolvers/post";
 import { AppDataSource } from "./typeorm-config";
 import { VotesResolver } from "./resolvers/votes";
+import { createUserLoader } from "./utils/createUserLoader";
+import { createVoteLoader } from "./utils/createVoteLoader";
 
 const main = async () => {
-
   await AppDataSource.initialize()
     .then(() => {
       console.log("Data Source has been initialized!");
@@ -26,7 +27,7 @@ const main = async () => {
     .catch((err) => {
       console.error("Error during Data Source initialization: ", err);
     });
-  
+
   AppDataSource.runMigrations();
 
   // Initialize the Express App
@@ -35,7 +36,7 @@ const main = async () => {
   const RedisStore = connectRedis(session);
   const redis = new Redis();
 
-  app.set('trust proxy', process.env.NODE_ENV !== 'production')
+  app.set("trust proxy", process.env.NODE_ENV !== "production");
 
   app.use(
     cors({
@@ -66,10 +67,21 @@ const main = async () => {
   // Initialize Apollo server object for GraphQL API
   const apolloServer = new ApolloServer({
     schema: await buildSchema({
-      resolvers: [ItemPricesResolver, UserResolver, PostResolver, VotesResolver],
+      resolvers: [
+        ItemPricesResolver,
+        UserResolver,
+        PostResolver,
+        VotesResolver,
+      ],
       validate: false,
     }),
-    context: ({ req, res }): MyContext => ({ req, res, redis }),
+    context: ({ req, res }): MyContext => ({
+      req,
+      res,
+      redis,
+      userLoader: createUserLoader(),
+      voteLoader: createVoteLoader(),
+    }),
     plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
   });
 
