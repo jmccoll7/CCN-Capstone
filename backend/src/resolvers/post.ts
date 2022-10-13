@@ -16,7 +16,6 @@ import {
 } from "type-graphql";
 import { Post } from "../entities/Post";
 import { AppDataSource } from "../typeorm-config";
-import { createVoteLoader } from "src/utils/createVoteLoader";
 
 @InputType()
 class PostInput {

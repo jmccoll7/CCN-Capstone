@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 dotenv.config();
 import "reflect-metadata";
-import { APP_LISTENER_PORT, COOKIE_NAME, __prod__ } from "./constants";
+import { COOKIE_NAME, __prod__ } from "./constants";
 import express from "express";
 import { ApolloServer } from "apollo-server-express";
 import { buildSchema } from "type-graphql";
@@ -36,8 +36,7 @@ const main = async () => {
   const RedisStore = connectRedis(session);
   const redis = new Redis();
 
-  app.set("trust proxy", process.env.NODE_ENV !== "production");
-
+  app.set("proxy", 1);
   app.use(
     cors({
       origin: "http://localhost:3000",
@@ -55,8 +54,9 @@ const main = async () => {
       cookie: {
         maxAge: 1000 * 60 * 60 * 24 * 365.25 * 10,
         httpOnly: true,
-        secure: false, // cookie only works in https
-        sameSite: false, // csrf
+        secure: __prod__, // cookie only works in https
+        sameSite: "lax", // csrf
+        domain: __prod__ ? ".codeponder.com" : undefined,
       },
       saveUninitialized: false,
       secret: process.env.SESSION_SECRET!,
@@ -95,11 +95,9 @@ const main = async () => {
   });
 
   // Listen for HTTP connections to the application on port 4121
-  app.listen(APP_LISTENER_PORT, () => {
+  app.listen(process.env.PORT, () => {
     console.log(
-      "Server running. API available at http://localhost:" +
-        APP_LISTENER_PORT +
-        "/graphql"
+      "Server running. API available."
     );
   });
 };

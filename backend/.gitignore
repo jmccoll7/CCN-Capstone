@@ -1,5 +1,4 @@
 dist
 node_modules
-src/migrations
 .env
 dump.rdb
