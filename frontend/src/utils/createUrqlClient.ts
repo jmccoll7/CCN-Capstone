@@ -1,6 +1,6 @@
 // -------------- Imports Begin --------------
 import { dedupExchange, fetchExchange, gql } from "@urql/core";
-import { cacheExchange, Resolver, Cache} from "@urql/exchange-graphcache";
+import { cacheExchange, Resolver, Cache } from "@urql/exchange-graphcache";
 import {
   DeletePostMutationVariables,
   LoginMutation,
@@ -83,7 +83,7 @@ export const createUrqlClient = (ssrExchange: any, ctx: any) => {
     console.log("ctx", ctx?.req?.headers?.cookie);
   }
   return {
-    url: "http://localhost:4121/graphql",
+    url: process.env.NEXT_PUBLIC_API_URL as string,
     fetchOptions: {
       credentials: "include" as const,
       headers: cookie
@@ -141,7 +141,7 @@ export const createUrqlClient = (ssrExchange: any, ctx: any) => {
               }
             },
             createPost: (_result, _args, cache, _info) => {
-              invalidateAllPosts(cache)
+              invalidateAllPosts(cache);
             },
             logout: (_result, _args, cache, _info) => {
               betterUpdateQuery<LogoutMutation, MeQuery>(
