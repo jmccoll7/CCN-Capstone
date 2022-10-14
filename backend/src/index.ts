@@ -20,6 +20,18 @@ import { createUserLoader } from "./utils/createUserLoader";
 import { createVoteLoader } from "./utils/createVoteLoader";
 
 const main = async () => {
+
+  // Initialize the Express App
+  const app = express();
+
+  app.set("trust proxy", 1);
+  app.use(
+    cors({
+      origin: process.env.CORS_ORIGIN,
+      credentials: true,
+    })
+  );
+
   await AppDataSource.initialize()
     .then(() => {
       console.log("Data Source has been initialized!");
@@ -30,19 +42,8 @@ const main = async () => {
 
   await AppDataSource.runMigrations();
 
-  // Initialize the Express App
-  const app = express();
-
   const RedisStore = connectRedis(session);
   const redis = new Redis(process.env.REDIS_URL);
-
-  app.set("trust proxy", 1);
-  app.use(
-    cors({
-      origin: process.env.CORS_ORIGIN,
-      credentials: true,
-    })
-  );
 
   app.use(
     session({
@@ -56,10 +57,10 @@ const main = async () => {
         httpOnly: true,
         secure: __prod__, // cookie only works in https
         sameSite: "lax", // csrf
-        domain: __prod__ ? "txdot-bidanalysis.com" : undefined,
+        domain: __prod__ ? ".txdot-bidanalysis.com" : undefined,
       },
       saveUninitialized: false,
-      secret: process.env.SESSION_SECRET!,
+      secret: process.env.SESSION_SECRET,
       resave: false,
     })
   );
@@ -95,7 +96,7 @@ const main = async () => {
   });
 
   // Listen for HTTP connections to the application on port 4121
-  app.listen(process.env.API_PORT, () => {
+  app.listen(parseInt(process.env.PORT as string), () => {
     console.log("Server running. API available.");
   });
 };

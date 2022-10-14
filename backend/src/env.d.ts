@@ -6,10 +6,6 @@ declare global {
       REDIS_URL: string;
       API_PORT: string;
       CORS_ORIGIN: string;
-      DB_NAME: string;
-      DB_HOST: string;
-      DB_USER: string;
-      DB_PASSWORD: string;
     }
   }
 }
