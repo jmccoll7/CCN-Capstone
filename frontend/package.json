@@ -25,12 +25,14 @@
     "next-urql": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
     "urql": "^3.0.3"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.13.5",
     "@graphql-codegen/client-preset": "1.0.5",
     "@graphql-codegen/introspection": "2.2.1",
+    "@graphql-codegen/typescript-react-apollo": "^3.3.4",
     "@graphql-codegen/typescript-urql": "^3.7.0",
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.0",

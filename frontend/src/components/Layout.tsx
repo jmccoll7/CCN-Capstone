@@ -1,4 +1,6 @@
+import { Box, useColorModeValue } from "@chakra-ui/react";
 import React from "react";
+import { ColorModeSwitcher } from "./ColorModeSwitcher";
 import { NavBar } from "./NavBar";
 import { Wrapper, WrapperVariant } from "./Wrapper";
 
@@ -10,8 +12,11 @@ interface LayoutProps {
 export const Layout: React.FC<LayoutProps> = ({ children, variant }) => {
   return (
     <>
-      <NavBar />
-      <Wrapper variant={variant}>{children}</Wrapper>
+      <Box bg={useColorModeValue("#CCF4D9","DarkTeal")}>
+        <NavBar />
+        <ColorModeSwitcher m={4} size="lg" float={"right"} />
+        <Wrapper variant={variant}>{children}</Wrapper>
+      </Box>
     </>
   );
 };

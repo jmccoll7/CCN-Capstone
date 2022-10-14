@@ -1,18 +1,26 @@
-import { Box, Button, Flex, Link } from "@chakra-ui/react";
+import { useApolloClient } from "@apollo/client";
+import {
+  Box,
+  Button,
+  Flex,
+  IconButton,
+  Link,
+  useColorModeValue,
+} from "@chakra-ui/react";
 import NextLink from "next/link";
-import {useRouter} from "next/router";
 import React from "react";
 import { useLogoutMutation, useMeQuery } from "../generated/graphql";
+import { FaHome } from "react-icons/fa";
 
 interface NavBarProps {}
 
 export const NavBar: React.FC<NavBarProps> = ({}) => {
-  const router = useRouter();
-  const [{ fetching: logoutFetching }, logout] = useLogoutMutation();
-  const [{ data, fetching }] = useMeQuery();
+  const [logout, { loading: logoutFetching }] = useLogoutMutation();
+  const apolloClient = useApolloClient();
+  const { data, loading } = useMeQuery();
   let body = null;
 
-  if (fetching) {
+  if (loading) {
   } else if (!data?.me) {
     body = (
       <>
@@ -32,12 +40,12 @@ export const NavBar: React.FC<NavBarProps> = ({}) => {
         <Flex>
           <Box fontWeight={"bold"}>{data.me.username}</Box>
           <Button
-            color="pink"
+            color={useColorModeValue("#990000", "pink")}
             ml={6}
             variant="link"
             onClick={async () => {
               await logout({});
-              router.reload();
+              await apolloClient.resetStore();
             }}
             isLoading={logoutFetching}
           >
@@ -48,10 +56,19 @@ export const NavBar: React.FC<NavBarProps> = ({}) => {
     );
   }
   return (
-    <Flex zIndex={1} position="sticky" top={0} bg="darkslategrey" p={4}>
+    <Flex
+      zIndex={1}
+      position="sticky"
+      top={0}
+      bg={useColorModeValue("MediumAquaMarine", "DarkSlateGray")}
+      p={4}
+    >
       <Box>
         <NextLink href="/">
-          <Link ml={4}>Home</Link>
+          <IconButton
+            aria-label="Home"
+            icon={<FaHome />}
+          />
         </NextLink>
       </Box>
       <Box ml={"auto"}>{body}</Box>

@@ -6,10 +6,9 @@ import {
   Link,
   Stack,
   Text,
+  useColorModeValue
 } from "@chakra-ui/react";
-import { withUrqlClient } from "next-urql";
 import NextLink from "next/link";
-import { useState } from "react";
 import { EditDeletePostButtons } from "../components/EditDeletePostButtons";
 import { Layout } from "../components/Layout";
 import { VoteSection } from "../components/VoteSection";
@@ -19,18 +18,22 @@ import {
   useMeQuery,
   usePostsQuery,
 } from "../generated/graphql";
-import { createUrqlClient } from "../utils/createUrqlClient";
+import { withApollo } from "../utils/withApollo";
 
 const Index = () => {
-  const [variables, setVariables] = useState({
-    limit: POST_LIMIT,
-    cursor: null as null | Date,
-  });
-
-  const [{ data: me_data }] = useMeQuery();
-  const [{ data: item_data }] = useGetItemPricesQuery();
-  const [{ fetching, data: post_data }] = usePostsQuery({
+  const { data: me_data } = useMeQuery();
+  const { data: item_data } = useGetItemPricesQuery();
+  const {
+    loading,
+    data: post_data,
+    fetchMore,
     variables,
+  } = usePostsQuery({
+    variables: {
+      limit: POST_LIMIT,
+      cursor: null as null | Date,
+    },
+    notifyOnNetworkStatusChange: true,
   });
 
   return (
@@ -43,23 +46,23 @@ const Index = () => {
       <br />
       <Box textAlign={"left"} mb={2}>
         <NextLink href="/create-post">
-          <Link color={"cyan"}>Create Post</Link>
+          <Link fontWeight={"bold"} color={useColorModeValue("darkblue","Cyan")}>Create Post</Link>
         </NextLink>
       </Box>
-      {!fetching && !post_data ? (
+      {!loading && !post_data ? (
         <div>Query Failed</div>
-      ) : fetching && !post_data ? (
+      ) : loading && !post_data ? (
         <div>loading posts...</div>
       ) : (
         <Stack spacing={8}>
           {post_data!.posts.posts.map((p) =>
             !p ? null : (
               <Box
-                bgColor={"DarkSlateGray"}
-                color={"white"}
+                bg={useColorModeValue("MintCream","DarkSlateGray")}
                 key={p.id}
                 p={5}
                 borderWidth="3px"
+                borderColor={useColorModeValue("darkgray","none")}
               >
                 <Flex>
                   <Box>
@@ -68,12 +71,12 @@ const Index = () => {
                   <Box>
                     <NextLink href="/post/[id]" as={`/post/${p.id}`}>
                       <Link>
-                        <Heading color={"white"} fontSize="xl">
+                        <Heading color={useColorModeValue("Black","White")} fontSize="xl">
                           {p.title}
                         </Heading>{" "}
                       </Link>
                     </NextLink>
-                    <Text color={"#E0E0E0"} mt={4}>
+                    <Text color={useColorModeValue("Black","#E0E0E0")} mt={4}>
                       {p.textSnippet}
                     </Text>
                   </Box>
@@ -97,17 +100,35 @@ const Index = () => {
         post_data && post_data.posts.hasMore ? (
           <Flex>
             <Button
-              isLoading={fetching}
-              color={"white"}
-              bgColor={"darkcyan"}
+              isLoading={loading}
+              color={useColorModeValue("black", "white")}
+              bgColor={useColorModeValue("cyan", "darkcyan")}
               m={"auto"}
               my={6}
               onClick={() => {
-                setVariables({
-                  limit: variables.limit,
-                  cursor:
-                    post_data.posts.posts[post_data.posts.posts.length - 1]
-                      .createdAt,
+                fetchMore({
+                  variables: {
+                    limit: variables?.limit,
+                    cursor:
+                      post_data.posts.posts[post_data.posts.posts.length - 1]
+                        .createdAt,
+                  },
+                  // updateQuery: (
+                  //   previousValue,
+                  //   { fetchMoreResult }
+                  // ): PostsQuery => {
+                  //   if (!fetchMoreResult) {
+                  //     return previousValue as PostsQuery;
+                  //   }
+                  //   return {
+                  //     __typename: "Query",
+                  //     posts: {
+                  //       __typename: "PaginatedPosts",
+                  //       hasMore: (fetchMoreResult as PostsQuery).posts.hasMore,
+                  //       posts: [...(previousValue as PostsQuery).posts.posts, ...(fetchMoreResult as PostsQuery).posts.posts],
+                  //     },
+                  //   };
+                  // },
                 });
               }}
             >
@@ -135,4 +156,4 @@ const Index = () => {
     </Layout>
   );
 };
-export default withUrqlClient(createUrqlClient, { ssr: true })(Index);
+export default withApollo({ ssr: true })(Index);
