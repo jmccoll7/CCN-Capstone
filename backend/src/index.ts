@@ -20,7 +20,6 @@ import { createUserLoader } from "./utils/createUserLoader";
 import { createVoteLoader } from "./utils/createVoteLoader";
 
 const main = async () => {
-
   // Initialize the Express App
   const app = express();
 
@@ -40,7 +39,9 @@ const main = async () => {
       console.error("Error during Data Source initialization: ", err);
     });
 
-  await AppDataSource.runMigrations();
+  if (__prod__) {
+    await AppDataSource.runMigrations();
+  }
 
   const RedisStore = connectRedis(session);
   const redis = new Redis(process.env.REDIS_URL);

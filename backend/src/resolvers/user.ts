@@ -82,7 +82,7 @@ export class UserResolver {
     }
 
     const userIdNum = parseInt(userId);
-    const user = await User.findOneBy({ id: userIdNum });
+    const user = await User.findOne({ where: { id: userIdNum } });
 
     if (!user) {
       return {
@@ -115,7 +115,7 @@ export class UserResolver {
     @Arg("email") email: string,
     @Ctx() { redis }: MyContext
   ) {
-    const user = await User.findOneBy({ email });
+    const user = await User.findOne({ where: { email } });
     if (!user) {
       // Email doesn't exist
       return true;
@@ -136,13 +136,10 @@ export class UserResolver {
   // Check current user identity
   @Query(() => User, { nullable: true })
   me(@Ctx() { req }: MyContext) {
-    console.log("Session details from 'Me' Query: ", req.session);
-    // you are not logged in
     if (!req.session.userId) {
       return null;
     }
-    console.log("id found: ", req.session.userId);
-    return User.findOneBy({ id: req.session.userId });
+    return User.findOne({ where: { id: req.session.userId } });
   }
 
   // Register user
@@ -152,7 +149,9 @@ export class UserResolver {
     @Ctx() { req }: MyContext
   ): Promise<UserResponse> {
     // Check for an existing user
-    const findUser = await User.findOneBy({ username: options.username });
+    const findUser = await User.findOne({
+      where: { username: options.username },
+    });
     const userExists = findUser !== null;
 
     // Validate here
@@ -183,11 +182,11 @@ export class UserResolver {
     @Arg("password") password: string,
     @Ctx() { req }: MyContext
   ): Promise<UserResponse> {
-    const user = await User.findOneBy(
-      usernameOrEmail.includes("@")
+    const user = await User.findOne({
+      where: usernameOrEmail.includes("@")
         ? { email: usernameOrEmail }
-        : { username: usernameOrEmail }
-    );
+        : { username: usernameOrEmail },
+    });
     if (!user) {
       return {
         errors: [
