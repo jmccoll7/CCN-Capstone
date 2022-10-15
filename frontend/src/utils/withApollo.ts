@@ -10,7 +10,7 @@ const apolloClient = (ctx: NextPageContext) =>
     headers: {
       cookie:
         (typeof window === "undefined"
-          ? ctx.req?.headers?.cookie
+          ? ctx?.req?.headers?.cookie
           : undefined) || "",
     },
     cache: new InMemoryCache({
