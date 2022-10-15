@@ -7,31 +7,38 @@ import {
   Stack,
   Text,
 } from "@chakra-ui/react";
-import { withUrqlClient } from "next-urql";
 import NextLink from "next/link";
-import { useState } from "react";
 import { EditDeletePostButtons } from "../components/EditDeletePostButtons";
 import { Layout } from "../components/Layout";
 import { VoteSection } from "../components/VoteSection";
 import { POST_LIMIT } from "../constants";
-import {
-  useGetItemPricesQuery,
-  useMeQuery,
-  usePostsQuery,
-} from "../generated/graphql";
-import { createUrqlClient } from "../utils/createUrqlClient";
+import { useGetItemPricesQuery, usePostsQuery } from "../generated/graphql";
+import { withApollo } from "../utils/withApollo";
 
 const Index = () => {
-  const [variables, setVariables] = useState({
-    limit: POST_LIMIT,
-    cursor: null as null | Date,
+  const { data: item_data } = useGetItemPricesQuery();
+  const {
+    data: post_data,
+    error,
+    loading,
+    fetchMore,
+    variables,
+  } = usePostsQuery({
+    variables: {
+      limit: POST_LIMIT,
+      cursor: null,
+    },
+    notifyOnNetworkStatusChange: true,
   });
 
-  const [{ data: me_data }] = useMeQuery();
-  const [{ data: item_data }] = useGetItemPricesQuery();
-  const [{ fetching, data: post_data }] = usePostsQuery({
-    variables,
-  });
+  if (!loading && !post_data) {
+    return (
+      <div>
+        <div>Query Failure</div>
+        <div>{error?.message}</div>
+      </div>
+    );
+  }
 
   return (
     <Layout>
@@ -46,9 +53,9 @@ const Index = () => {
           <Link color={"cyan"}>Create Post</Link>
         </NextLink>
       </Box>
-      {!fetching && !post_data ? (
+      {!loading && !post_data ? (
         <div>Query Failed</div>
-      ) : fetching && !post_data ? (
+      ) : loading && !post_data ? (
         <div>loading posts...</div>
       ) : (
         <Stack spacing={8}>
@@ -79,12 +86,10 @@ const Index = () => {
                   </Box>
                   <Box ml={"auto"}>
                     <Text mb={3}>Posted by {p.creator.username}</Text>
-                    {me_data?.me?.id !== p.creator.id ? null : (
                       <EditDeletePostButtons
                         id={p.id}
                         creatorId={p.creator.id}
                       />
-                    )}
                   </Box>
                 </Flex>
               </Box>
@@ -97,17 +102,18 @@ const Index = () => {
         post_data && post_data.posts.hasMore ? (
           <Flex>
             <Button
-              isLoading={fetching}
+              isLoading={loading}
               color={"white"}
               bgColor={"darkcyan"}
               m={"auto"}
               my={6}
               onClick={() => {
-                setVariables({
-                  limit: variables.limit,
-                  cursor:
-                    post_data.posts.posts[post_data.posts.posts.length - 1]
-                      .createdAt,
+                fetchMore({
+                  variables: {
+                    limit: variables?.limit,
+                    cursor:
+                      post_data.posts.posts[post_data.posts.posts.length - 1].createdAt,
+                  },
                 });
               }}
             >
@@ -135,4 +141,4 @@ const Index = () => {
     </Layout>
   );
 };
-export default withUrqlClient(createUrqlClient, { ssr: true })(Index);
+export default withApollo({ ssr: true })(Index);
