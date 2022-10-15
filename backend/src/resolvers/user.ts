@@ -136,12 +136,10 @@ export class UserResolver {
   // Check current user identity
   @Query(() => User, { nullable: true })
   me(@Ctx() { req }: MyContext) {
-    console.log("Session details from 'Me' Query: ", req.session);
     // you are not logged in
     if (!req.session.userId) {
       return null;
     }
-    console.log("id found: ", req.session.userId);
     return User.findOneBy({ id: req.session.userId });
   }
 

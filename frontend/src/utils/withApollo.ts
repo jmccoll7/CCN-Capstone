@@ -1,7 +1,7 @@
 import { ApolloClient, InMemoryCache } from "@apollo/client";
+import { NextPageContext } from "next";
 import { withApollo as createWithApollo } from "next-apollo";
 import { PaginatedPosts } from "../generated/graphql";
-import { NextPageContext } from "next";
 
 const apolloClient = (ctx: NextPageContext) =>
   new ApolloClient({
@@ -10,7 +10,7 @@ const apolloClient = (ctx: NextPageContext) =>
     headers: {
       cookie:
         (typeof window === "undefined"
-          ? ctx.req?.headers?.cookie
+          ? ctx?.req?.headers.cookie
           : undefined) || "",
     },
     cache: new InMemoryCache({
@@ -23,7 +23,6 @@ const apolloClient = (ctx: NextPageContext) =>
                 existing: PaginatedPosts | undefined,
                 incoming: PaginatedPosts
               ): PaginatedPosts {
-                console.log("existing:", existing, "incoming", incoming);
                 return {
                   ...incoming,
                   posts: [...(existing?.posts || []), ...incoming.posts],

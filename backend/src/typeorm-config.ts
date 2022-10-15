@@ -4,11 +4,12 @@ import { Post } from "./entities/Post";
 import { User } from "./entities/User";
 import { Votes } from "./entities/Votes";
 import path from "path";
+import { __prod__ } from "./constants";
 
 export const AppDataSource = new DataSource({
   type: "mysql",
   url: process.env.DATABASE_URL,
-  // synchronize: true,
+  synchronize: !__prod__,
   // username: process.env.DB_USER,
   // password: process.env.DB_PASSWORD,
   // host: process.env.DB_HOST,
