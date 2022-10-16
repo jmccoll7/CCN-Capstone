@@ -3,5 +3,7 @@ node_modules
 .env
 dump.rdb
 deploy.sh
-lib/resources/*
-lib/test
+lib/resources/data-tables/*
+lib/resources/logs/*
+lib/resources/parsed-bid-data/*
+lib/resources/raw-bid-data/*

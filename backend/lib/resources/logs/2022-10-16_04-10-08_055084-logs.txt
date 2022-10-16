@@ -1,2 +1,0 @@
-There was an error with the file: './lib/resources/raw-bid-data\sc201706\07JU3202.TXT'. Error: list index out of range
-There was an error with the file: './lib/resources/raw-bid-data\sc201709\07SP3004.TXT'. Error: list index out of range
