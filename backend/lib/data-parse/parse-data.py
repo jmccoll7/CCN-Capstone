@@ -22,11 +22,11 @@ def bid_data_to_csv(filename):
     project_file = open(
         "./lib/resources/parsed-bid-data/"
         + current_time
-        + f"{file_friendly_project_name}-table.csv",
+        + f"{file_friendly_project_name}-projects.csv",
         "w",
     )
     project_file.writelines(
-        ["PROJECT,COUNTY,BIDDATE", f"\n{project_name},{county_name},{bid_date}"]
+        ["PROJECT|COUNTY|BIDDATE", f"\n{project_name}|{county_name}|{bid_date}"]
     )
     project_file.close()
 
@@ -46,10 +46,26 @@ def bid_data_to_csv(filename):
 
     # Append to contractors list and remove commas
     for line in contractor_lines:
-        contractors.append(line[66:].split("  ")[0].replace(",", ""))
+        if " " * 65 not in line:
+            contractors.append(line[66:].split("  ")[0])
 
     # Set up item data list
     full_item_data = bid_data[(13 + len(contractor_lines)) :]
+
+    variants = ["1A", "2A", "3A", "4A", "1B", "1C"]
+    bad_line_content = "ALTERNATE NO. "
+    bad_line_variant_list = [
+        (" " * 13) + bad_line_content + variant + (" " * 103) + "\n"
+        for variant in variants
+    ]
+
+    for bad_line_variant in bad_line_variant_list:
+        try:
+            while True:
+                full_item_data.remove(bad_line_variant)
+        except ValueError:
+            pass
+
     try:
         while True:
             full_item_data.remove(empty_line)
@@ -72,31 +88,33 @@ def bid_data_to_csv(filename):
         + f"{file_friendly_project_name}-prices.csv",
         "w",
     )
-    item_price_file.write("ITEMCODE,PROJECT,QUANTITY,UNITBIDPRICE,CONTRACTOR")
+    item_price_file.write("ITEMCODE|PROJECT|QUANTITY|UNITBIDPRICE|CONTRACTOR")
     item_file = open(
         "./lib/resources/parsed-bid-data/"
         + current_time
         + f"{file_friendly_project_name}-items.csv",
         "w",
     )
-    item_file.write("ITEMCODE,DESCRIPTION,UNITTYPE")
+    item_file.write("ITEMCODE|DESCRIPTION|UNITTYPE")
 
     for item in structured_item_data:
-        item_code = item[0][:10].strip()
-        item_description = item[0][14:54].strip().replace(",", "")
-        item_unit_type = item[0][54:57].strip()
+        # Standardize item code to 9 digits
+        item_code = int(item[0][1:10].strip())
+
+        item_description = item[0][14:53].strip()
+        item_unit_type = item[0][53:57].strip()
         quantity = item[0][57:72].strip().replace(",", "")
 
-        item_file.write(f"\n{item_code},{item_description},{item_unit_type}")
+        item_file.write(f"\n{item_code}|{item_description}|{item_unit_type}")
 
         for i in range(item_price_rows):
             for j in range(3):
                 if i * 3 + j < len(contractors):
                     item_price = (
-                        item[i][86 + (j * 15) : 101 + (j * 15)].strip().replace(",", "")
+                        item[i][87 + (j * 15) : 102 + (j * 15)].strip().replace(",", "")
                     )
                     item_price_file.write(
-                        f"\n{item_code},{project_name},{quantity},{item_price},{contractors[i*3+j]}"
+                        f"\n{item_code}|{project_name}|{quantity}|{item_price}|{contractors[i*3+j]}"
                     )
 
     item_price_file.close()
@@ -104,16 +122,16 @@ def bid_data_to_csv(filename):
 
 
 def parse_all_files(folder_path):
-    current_time = str(datetime.now()).replace(" ", "_").replace(":", "-").replace(".", "_")
+    current_time = (
+        str(datetime.now()).replace(" ", "_").replace(":", "-").replace(".", "_")
+    )
     logging = (
         input("Would you like to log errors? (y/N): ").casefold() == "y".casefold()
     )
     logfile = None
     if logging:
         logfile = open(
-            "./lib/resources/logs/"
-            + current_time,
-            + "-logs.txt"
+            "./lib/resources/logs/" + current_time + "-logs.txt",
             "w",
         )
     # Function to put all file paths into a list to parse all data
@@ -126,12 +144,10 @@ def parse_all_files(folder_path):
         try:
             bid_data_to_csv(filename)
         except Exception as error:
-            error_message = (
-                f"{current_time}: There was an error with the file: '{filename}'. Error: {error}"
-            )
+            error_message = f"{current_time}: There was an error with the file: '{filename}'. Error: {error}"
             print(error_message)
             if logging:
-                logfile.write(error_message + '\n')
+                logfile.write(error_message + "\n")
 
 
 if __name__ == "__main__":

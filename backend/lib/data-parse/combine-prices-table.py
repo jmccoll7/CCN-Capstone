@@ -12,7 +12,7 @@ extension = "csv"
 filenames = [i for i in glob.glob("*-prices.{}".format(extension))]
 
 # combine all files in the list
-combined_csv = pd.concat([pd.read_csv(file) for file in filenames])
+combined_csv = pd.concat([pd.read_csv(file, delimiter="|") for file in filenames])
 # export to csv
 combined_csv.to_csv(
     "C:/Users/jmcco/TxDOT-ASU-Capstone/backend/lib/resources/data-tables/"
@@ -20,4 +20,5 @@ combined_csv.to_csv(
     + "-prices.csv",
     index=False,
     encoding="utf-8-sig",
+    sep="|",
 )
